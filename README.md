@@ -1,6 +1,6 @@
 # M-Thinker
 
-**Paper:** [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/pdf/2510.07300)
+#### **Paper:** [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/pdf/2510.07300)
 
 
 | Model Access | Backbone | Training data Access | 
