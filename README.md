@@ -3,14 +3,14 @@
 **Paper:** [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/pdf/2510.07300)
 
 
-| | Backbone | Training data Access | Model Access |
-| :-- | :--: | :--: | :--: |
-M-Thinker-7B-Iter2 (👍👍) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter1">M-Thinker-7B-Iter1</a> |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-7B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter2-data) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter1">M-Thinker-7B-Iter1</a>
-M-Thinker-7B-Iter1 (👍) |  <img src="image.png" alt="huggingface" width="16">  [7B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/7B-cold-start-SFT) |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-7B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter1-data) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter1">M-Thinker-7B-Iter1</a>
-7B-cold-start-SFT | <img src="image.png" alt="huggingface" width="16"> [DeepSeek-R1-Distill-Qwen-7B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) | <img src="image.png" alt="huggingface" width="16"> [M-Thinker-SFT-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-SFT-data) | <img src="image.png" alt="huggingface" width="16">  [7B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/7B-cold-start-SFT)
-M-Thinker-1.5B-Iter2 (👍👍) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a> |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-1.5B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter2-data) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a>
-M-Thinker-1.5B-Iter1 (👍) |  <img src="image.png" alt="huggingface" width="16">  [1.5B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/1.5B-cold-start-SFT) |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-1.5B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter1-data) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a>
-1.5B-cold-start-SFT | <img src="image.png" alt="huggingface" width="16"> [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | <img src="image.png" alt="huggingface" width="16"> [M-Thinker-SFT-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-SFT-data) | <img src="image.png" alt="huggingface" width="16">  [1.5B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/1.5B-cold-start-SFT)
+| Model Access | Backbone | Training data Access | 
+| :-- | :-- | :-- |
+<img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter2">M-Thinker-7B-Iter2</a> (👍👍) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter1">M-Thinker-7B-Iter1</a> |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-7B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter2-data) 
+<img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter1">M-Thinker-7B-Iter1</a> (👍) |  <img src="image.png" alt="huggingface" width="16">  [7B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/7B-cold-start-SFT) |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-7B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter1-data) 
+<img src="image.png" alt="huggingface" width="16">  [7B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/7B-cold-start-SFT) | <img src="image.png" alt="huggingface" width="16"> [DeepSeek-R1-Distill-Qwen-7B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-7B) | <img src="image.png" alt="huggingface" width="16"> [M-Thinker-SFT-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-SFT-data)
+<img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter2">M-Thinker-1.5B-Iter2</a> (👍👍) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a> |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-1.5B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter2-data) 
+<img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a> (👍) |  <img src="image.png" alt="huggingface" width="16">  [1.5B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/1.5B-cold-start-SFT) |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-1.5B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter1-data) 
+<img src="image.png" alt="huggingface" width="16">  [1.5B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/1.5B-cold-start-SFT) | <img src="image.png" alt="huggingface" width="16"> [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | <img src="image.png" alt="huggingface" width="16"> [M-Thinker-SFT-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-SFT-data)
 
 
 ---
@@ -42,7 +42,7 @@ Large Reasoning Models (LRMs) have achieved remarkable performance on complex re
 
 `environment-lf_train.yml`: Only for Cold-Start SFT. We provide our used LLaMA-Factory (`LLaMA-Factory.tar.gz`).
 
-`environment-verl.yml`: For RL training and evaluation. You need to install our modified verl framework (`verl.tar.gz`) to run our srcipts.
+`environment-verl.yml`: For RL training and evaluation. You need to install our modified verl framework (`verl.tar.gz`) to run our scripts.
 
 
 ### Step 1: Cold-Start SFT
@@ -61,7 +61,7 @@ We released our cold-started models on <img src="image.png" alt="huggingface" wi
 
 We released the training data for Iter1 on <img src="image.png" alt="huggingface" width="16"> [M-Thinker-1.5B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter1-data) or <img src="image.png" alt="huggingface" width="16">  [M-Thinker-7B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter1-data).
 
-If you want to conduct our training procedure on other models, you need reconstruct the training data based on your own cold-started model. For example:
+If you want to conduct our training procedure on other models, you need to reconstruct the training data based on your own cold-started model. For example:
 
 ```
 # Split the translated Light-R1-SFT (76K) data into training data for cold-start SFT and the rest of the data
@@ -77,7 +77,7 @@ python code/filter_RL_data-fix-stage1.py
 bash scripts-data/self_gen_en_auto.sh XueZhang-bjtu/1.5B-cold-start-SFT data/M-Thinker-1.5B-RL-Iter1-data
 ```
 
-We translated the English questions of Light-R1-SFT to ja/ko/fr/pt/th and release it on <img src="image.png" alt="huggingface" width="16"> [Light-R1-SFTData-question-translated-76K](https://huggingface.co/datasets/XueZhang-bjtu/Light-R1-SFTData-question-translated-76K).
+We translated the English questions of Light-R1-SFT to ja/ko/fr/pt/th and released it on <img src="image.png" alt="huggingface" width="16"> [Light-R1-SFTData-question-translated-76K](https://huggingface.co/datasets/XueZhang-bjtu/Light-R1-SFTData-question-translated-76K).
 
 
 ### Step 3: Train and test for Iter1
@@ -111,7 +111,7 @@ We released our M-Thinker-1.5B/7B-Iter1 on <img src="image.png" alt="huggingface
 
 We released the training data for Iter2 on <img src="image.png" alt="huggingface" width="16"> [M-Thinker-1.5B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter2-data) or <img src="image.png" alt="huggingface" width="16"> [M-Thinker-7B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter2-data).
 
-If you want to conduct our training procedure on other models, you need reconstruct the training data for Iter2 based on your own Iter1 model. For example:
+If you want to conduct our training procedure on other models, you need to reconstruct the training data for Iter2 based on your own Iter1 model. For example:
 ```
 # Split the translated Light-R1-SFT (76K) data into training data for cold-start SFT / Iter1 training and the rest of the data
 python code/split_train_data_for_stage2.py
