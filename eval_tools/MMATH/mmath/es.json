@@ -1,0 +1,2994 @@
+[
+    {
+        "question": "Todas las ma\u00f1anas Aya sale a caminar una distancia de $9$ kil\u00f3metros y se detiene en una cafeter\u00eda despu\u00e9s. Cuando camina a una velocidad constante de $s$ kil\u00f3metros por hora, la caminata le lleva 4 horas, incluyendo $t$ minutos pasados en la cafeter\u00eda. Cuando camina a $s+2$ kil\u00f3metros por hora, la caminata le lleva 2 horas y 24 minutos, incluyendo $t$ minutos que pasa en la cafeter\u00eda. Supongamos que Aya camina a una velocidad de $s+\\frac{1}{2}$ kil\u00f3metros por hora. Encuentra la cantidad de minutos que le lleva dar la caminata, incluyendo los $t$ minutos pasados en la cafeter\u00eda.",
+        "answer": "204",
+        "data_source": "AIME2024",
+        "data_source_id": 0,
+        "lang": "es",
+        "gid": 0
+    },
+    {
+        "question": "Haga que $ABC$ sea un tri\u00e1ngulo inscrito en el c\u00edrculo $\\omega$. Supongamos que las tangentes a $\\omega$ en $B$ y $C$ se intersectan en el punto $D$, y que $\\overline{AD}$ intersecta a $\\omega$ en $P$. Si $AB=5$, $BC=9$, y $AC=10$, $AP$ puede escribirse en la forma $\\frac{m}{n}$, donde $m$ y $n$ son enteros primos relativos. Encuentra $m + n$.",
+        "answer": "113",
+        "data_source": "AIME2024",
+        "data_source_id": 1,
+        "lang": "es",
+        "gid": 1
+    },
+    {
+        "question": "Cada v\u00e9rtice de un oct\u00e1gono regular se colorea de manera independiente ya sea rojo o azul con igual probabilidad. La probabilidad de que el oct\u00e1gono pueda entonces ser rotado de manera que todos los v\u00e9rtices azules terminen en posiciones donde originalmente hab\u00eda v\u00e9rtices rojos es $\\tfrac{m}{n}$, donde $m$ y $n$ son enteros positivos coprimos. \u00bfCu\u00e1l es $m+n$?",
+        "answer": "371",
+        "data_source": "AIME2024",
+        "data_source_id": 2,
+        "lang": "es",
+        "gid": 2
+    },
+    {
+        "question": "Defina $f(x)=|| x|-\\tfrac{1}{2}|$ y $g(x)=|| x|-\\tfrac{1}{4}|$. Encuentre el n\u00famero de intersecciones de las gr\u00e1ficas de \\[y=4 g(f(\\sin (2 \\pi x))) \\quad\\text{ y }\\quad x=4 g(f(\\cos (3 \\pi y))).\\]",
+        "answer": "385",
+        "data_source": "AIME2024",
+        "data_source_id": 3,
+        "lang": "es",
+        "gid": 3
+    },
+    {
+        "question": "Haga que $p$ sea el n\u00famero primo m\u00e1s peque\u00f1o para el cual existe un n\u00famero entero positivo $n$ tal que $n^{4}+1$ es divisible por $p^{2}$. Encuentre el n\u00famero entero positivo m\u00e1s peque\u00f1o $m$ tal que $m^{4}+1$ es divisible por $p^{2}$.",
+        "answer": "110",
+        "data_source": "AIME2024",
+        "data_source_id": 4,
+        "lang": "es",
+        "gid": 4
+    },
+    {
+        "question": "Haga que $ABCD$ sea un tetraedro tal que $AB=CD= \\sqrt{41}$, $AC=BD= \\sqrt{80}$, y $BC=AD= \\sqrt{89}$. Existe un punto $I$ dentro del tetraedro tal que las distancias desde $I$ a cada una de las caras del tetraedro son todas iguales. Esta distancia se puede escribir en la forma $\\frac{m \\sqrt n}{p}$, donde $m$, $n$ y $p$ son enteros positivos, $m$ y $p$ son primos entre s\u00ed, y $n$ no es divisible por el cuadrado de ning\u00fan primo. Encuentra $m+n+p$.",
+        "answer": "104",
+        "data_source": "AIME2024",
+        "data_source_id": 5,
+        "lang": "es",
+        "gid": 5
+    },
+    {
+        "question": "Haga que $\\mathcal{B}$ sea el conjunto de cajas rectangulares con \u00e1rea superficial $54$ y volumen $23$. Deje que $r$ sea el radio de la esfera m\u00e1s peque\u00f1a que puede contener cada una de las cajas rectangulares que son elementos de $\\mathcal{B}$. El valor de $r^2$ se puede escribir como $\\frac{p}{q}$, donde $p$ y $q$ son n\u00fameros enteros positivos primos relativos. Encuentra $p+q$.",
+        "answer": "721",
+        "data_source": "AIME2024",
+        "data_source_id": 6,
+        "lang": "es",
+        "gid": 6
+    },
+    {
+        "question": "Existen n\u00fameros reales $x$ e $y$, ambos mayores que 1, tales que $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. Encuentra $xy$.",
+        "answer": "25",
+        "data_source": "AIME2024",
+        "data_source_id": 7,
+        "lang": "es",
+        "gid": 7
+    },
+    {
+        "question": "Alice y Bob juegan el siguiente juego. Tienen delante una pila de $n$ fichas. Los jugadores se turnan comenzando Alice. En cada turno, el jugador retira ya sea $1$ ficha o $4$ fichas de la pila. Quien retira la \u00faltima ficha gana. Encuentra el n\u00famero de enteros positivos $n$ menores o iguales a $2024$ para los cuales existe una estrategia para Bob que garantice que Bob gana el juego independientemente del juego de Alice.",
+        "answer": "809",
+        "data_source": "AIME2024",
+        "data_source_id": 8,
+        "lang": "es",
+        "gid": 8
+    },
+    {
+        "question": "Jen participa en una loter\u00eda con elegir $4$ n\u00fameros distintos de $S=\\{1,2,3,\\cdots,9,10\\}$.$4$ n\u00fameros son elegidos al azar de $S$. Ella gana un premio si al menos dos de sus n\u00fameros son $2$ de los n\u00fameros elegidos al azar, y gana el premio mayor si los cuatro n\u00fameros que eligi\u00f3 fueron los n\u00fameros elegidos al azar. La probabilidad de que ella gane el premio mayor dado que gan\u00f3 un premio es $\\tfrac{m}{n}$ donde $m$ y $n$ son enteros positivos primos entre s\u00ed. Encuentra $m+n$.",
+        "answer": "116",
+        "data_source": "AIME2024",
+        "data_source_id": 9,
+        "lang": "es",
+        "gid": 9
+    },
+    {
+        "question": "Se dibujan los rect\u00e1ngulos $ABCD$ y $EFGH$ de tal manera que $D,E,C,F$ son colineales. Adem\u00e1s, $A,D,H,G$ todos se encuentran en un c\u00edrculo. Si $BC=16$, $AB=107$, $FG=17$ y $EF=184$, \u00bfcu\u00e1l es la longitud de $CE$?",
+        "answer": "104",
+        "data_source": "AIME2024",
+        "data_source_id": 10,
+        "lang": "es",
+        "gid": 10
+    },
+    {
+        "question": "Considera los caminos de longitud $16$ que siguen las l\u00edneas desde la esquina inferior izquierda hasta la esquina superior derecha en una cuadr\u00edcula de $8\\times 8$. Encuentra el n\u00famero de tales caminos que cambian de direcci\u00f3n exactamente cuatro veces, como en los ejemplos que se muestran a continuaci\u00f3n.",
+        "answer": "294",
+        "data_source": "AIME2024",
+        "data_source_id": 11,
+        "lang": "es",
+        "gid": 11
+    },
+    {
+        "question": "Encuentre la parte real m\u00e1s grande posible de \\[(75+117i)z+\\frac{96+144i}{z}\\] donde $z$ es un n\u00famero complejo con $|z|=4$.",
+        "answer": "540",
+        "data_source": "AIME2024",
+        "data_source_id": 12,
+        "lang": "es",
+        "gid": 12
+    },
+    {
+        "question": "Ocho c\u00edrculos de radio $34$ son tangentes secuenciales, y dos de los c\u00edrculos son tangentes a $AB$ y $BC$ del tri\u00e1ngulo $ABC$, respectivamente. $2024$ c\u00edrculos de radio $1$ pueden ser dispuestos de la misma manera. La inradio del tri\u00e1ngulo $ABC$ se puede expresar como $\\frac{m}{n}$, donde $m$ y $n$ son enteros positivos coprimos. Encuentra $m+n$.",
+        "answer": "197",
+        "data_source": "AIME2024",
+        "data_source_id": 13,
+        "lang": "es",
+        "gid": 13
+    },
+    {
+        "question": "Haga que $A$, $B$, $C$ y $D$ sean puntos en la hip\u00e9rbola $\\frac{x^2}{20}- \\frac{y^2}{24} = 1$ tal que $ABCD$ es un rombo cuyas diagonales se intersectan en el origen. Encuentra el n\u00famero real m\u00e1s grande que sea menor que $BD^2$ para todos estos rombos.",
+        "answer": "480",
+        "data_source": "AIME2024",
+        "data_source_id": 14,
+        "lang": "es",
+        "gid": 14
+    },
+    {
+        "question": "Entre los 900 residentes de Aimeville, hay 195 que poseen un anillo de diamantes, 367 que poseen un conjunto de palos de golf y 562 que poseen una pala de jard\u00edn. Adem\u00e1s, cada uno de los 900 residentes posee una bolsa de corazones de caramelo. Hay 437 residentes que poseen exactamente dos de estas cosas y 234 residentes que poseen exactamente tres de estas cosas. Encuentra el n\u00famero de residentes de Aimeville que poseen estas cuatro cosas.",
+        "answer": "73",
+        "data_source": "AIME2024",
+        "data_source_id": 15,
+        "lang": "es",
+        "gid": 15
+    },
+    {
+        "question": "Haga $\\triangle ABC$ con circuncentro $O$ e incentro $I$ tal que $\\overline{IA}\\perp\\overline{OI}$, radio circunferencial $13$ y radio inscrito $6$. Encuentra $AB\\cdot AC$.",
+        "answer": "468",
+        "data_source": "AIME2024",
+        "data_source_id": 16,
+        "lang": "es",
+        "gid": 16
+    },
+    {
+        "question": "Encuentra el n\u00famero de tr\u00edos de enteros no negativos \\((a,b,c)\\) que satisfacen \\(a + b + c = 300\\) y \\begin{equation*} a^2b + a^2c + b^2a + b^2c + c^2a + c^2b = 6,000,000. \\end{equation*}",
+        "answer": "601",
+        "data_source": "AIME2024",
+        "data_source_id": 17,
+        "lang": "es",
+        "gid": 17
+    },
+    {
+        "question": "Haga que \\(O=(0,0)\\), \\(A=\\left(\\tfrac{1}{2},0\\right)\\) y \\(B=\\left(0,\\tfrac{\\sqrt{3}}{2}\\right)\\) sea puntos en el plano de coordenadas. Sea \\(\\mathcal{F}\\) la familia de segmentos \\(\\overline{PQ}\\) de longitud unitaria en el primer cuadrante con \\(P\\) en el eje \\(x\\) y \\(Q\\) en el eje \\(y\\). Existe un punto \u00fanico \\(C\\) en \\(\\overline{AB}\\), distinto de \\(A\\) y \\(B\\), que no pertenece a ning\u00fan segmento de \\(\\mathcal{F}\\) aparte de \\(\\overline{AB}\\). Entonces \\(OC^2=\\tfrac{p}{q}\\), donde \\(p\\) y \\(q\\) son enteros positivos primos relativos. Encuentre \\(p+q\\).",
+        "answer": "23",
+        "data_source": "AIME2024",
+        "data_source_id": 18,
+        "lang": "es",
+        "gid": 18
+    },
+    {
+        "question": "Haga que $\\omega\\neq 1$ sea una ra\u00edz 13-\u00e9sima de la unidad. Encuentra el residuo cuando \\[\\prod_{k=0}^{12}(2-2\\omega^k+\\omega^{2k})\\] es dividido por 1000.",
+        "answer": "321",
+        "data_source": "AIME2024",
+        "data_source_id": 19,
+        "lang": "es",
+        "gid": 19
+    },
+    {
+        "question": "Haga que \\(b\\ge 2\\) sea un n\u00famero entero. Llamemos \\(n\\) un n\u00famero entero positivo \\(b\\text-\\textit{eautiful}\\) si tiene exactamente dos d\u00edgitos cuando se expresa en base \\(b\\) y estos dos d\u00edgitos suman a \\(\\sqrt n\\). Por ejemplo, \\(81\\) es \\(13\\text-\\textit{eautiful}\\) porque \\(81  = \\underline{6} \\ \\underline{3}_{13} \\) y \\(6 + 3 =  \\sqrt{81}\\). Encuentra el n\u00famero entero m\u00e1s peque\u00f1o \\(b\\ge 2\\) para el cual hay m\u00e1s de diez n\u00fameros \\(b\\text-\\textit{eautiful}\\).",
+        "answer": "211",
+        "data_source": "AIME2024",
+        "data_source_id": 20,
+        "lang": "es",
+        "gid": 20
+    },
+    {
+        "question": "Encuentra el n\u00famero de rect\u00e1ngulos que se pueden formar dentro de un dodec\u00e1gono regular fijo ($12$-gono) donde cada lado del rect\u00e1ngulo se encuentra sobre un lado o una diagonal del dodec\u00e1gono. El diagrama a continuaci\u00f3n muestra tres de esos rect\u00e1ngulos. [asy] unitsize(0.6 inch); for(int i=0; i<360; i+=30) { dot(dir(i), 4+black); draw(dir(i)--dir(i+30)); } draw(dir(120)--dir(330)); filldraw(dir(210)--dir(240)--dir(30)--dir(60)--cycle, mediumgray, linewidth(1.5)); draw((0,0.366)--(0.366,0), linewidth(1.5)); [/asy]",
+        "answer": "315",
+        "data_source": "AIME2024",
+        "data_source_id": 21,
+        "lang": "es",
+        "gid": 21
+    },
+    {
+        "question": "Una lista de n\u00fameros enteros positivos tiene las siguientes propiedades: $\\bullet$ La suma de los elementos en la lista es $30$. $\\bullet$ La moda \u00fanica de la lista es $9$. $\\bullet$ La mediana de la lista es un n\u00famero entero positivo que no aparece en la lista misma. Encuentra la suma de los cuadrados de todos los elementos en la lista.",
+        "answer": "236",
+        "data_source": "AIME2024",
+        "data_source_id": 22,
+        "lang": "es",
+        "gid": 22
+    },
+    {
+        "question": "Encuentra el n\u00famero de maneras de colocar un d\u00edgito en cada celda de una cuadr\u00edcula de 2x3 de modo que la suma de los dos n\u00fameros formados al leer de izquierda a derecha sea $999$, y la suma de los tres n\u00fameros formados al leer de arriba a abajo sea $99$. La cuadr\u00edcula a continuaci\u00f3n es un ejemplo de tal disposici\u00f3n porque $8+991=999$ y $9+9+81=99$. \\[\\begin{array}{|c|c|c|} \\hline 0 & 0 & 8 \\\\ \\hline 9 & 9 & 1 \\\\ \\hline \\end{array}\\]",
+        "answer": "45",
+        "data_source": "AIME2024",
+        "data_source_id": 23,
+        "lang": "es",
+        "gid": 23
+    },
+    {
+        "question": "Deje que $x, y$ y $z$ sean n\u00fameros reales positivos que satisfacen el siguiente sistema de ecuaciones: \\[\\log_2\\left(\\frac{x}{yz}\\right) = \\frac{1}{2}\\]\\[\\log_2\\left(\\frac{y}{xz}\\right) = \\frac{1}{3}\\]\\[\\log_2\\left(\\frac{z}{xy}\\right) = \\frac{1}{4}\\] Entonces el valor de $\\left|\\log_2\\left(x^4y^3z^2\\right)\\right|$ es $\\tfrac{m}{n}$ donde $m$ y $n$ son n\u00fameros enteros positivos coprimos. Encuentre $m + n$.",
+        "answer": "33",
+        "data_source": "AIME2024",
+        "data_source_id": 24,
+        "lang": "es",
+        "gid": 24
+    },
+    {
+        "question": "Haga que ABCDEF sea un hex\u00e1gono equil\u00e1tero convexo en el que todos los pares de lados opuestos son paralelos. El tri\u00e1ngulo cuyos lados son extensiones de los segmentos AB, CD y EF tiene longitudes de lado de 200, 240 y 300. Encuentra la longitud del lado del hex\u00e1gono.",
+        "answer": "80",
+        "data_source": "AIME2024",
+        "data_source_id": 25,
+        "lang": "es",
+        "gid": 25
+    },
+    {
+        "question": "Alice elige un conjunto $A$ de n\u00fameros enteros positivos. Luego, Bob enumera todos los conjuntos finitos no vac\u00edos $B$ de n\u00fameros enteros positivos con la propiedad de que el elemento m\u00e1ximo de $B$ pertenece a $A$. La lista de Bob tiene 2024 conjuntos. Encuentra la suma de los elementos de A.",
+        "answer": "55",
+        "data_source": "AIME2024",
+        "data_source_id": 26,
+        "lang": "es",
+        "gid": 26
+    },
+    {
+        "question": "Haga que $N$ sea el mayor entero positivo de cuatro d\u00edgitos con la propiedad de que siempre que uno de sus d\u00edgitos sea cambiado a $1$, el n\u00famero resultante es divisible por $7$. Sean $Q$ y $R$ el cociente y el residuo, respectivamente, cuando $N$ se divide entre $1000$. Encuentra $Q+R$.",
+        "answer": "699",
+        "data_source": "AIME2024",
+        "data_source_id": 27,
+        "lang": "es",
+        "gid": 27
+    },
+    {
+        "question": "El toroide $T$ es la superficie producida al girar un c\u00edrculo de radio $3$ alrededor de un eje en el plano del c\u00edrculo que se encuentra a una distancia $6$ del centro del c\u00edrculo (como un donut). Sea $S$ una esfera con radio $11$. Cuando $T$ descansa en el interior de $S$, es tangente externamente a $S$ a lo largo de un c\u00edrculo con radio $r_i$, y cuando $T$ descansa en el exterior de $S$, es tangente externamente a $S$ a lo largo de un c\u00edrculo con radio $r_o$. La diferencia $r_i-r_o$ se puede escribir como $\\tfrac{m}{n}$, donde $m$ y $n$ son n\u00fameros enteros positivos coprimos. Encuentra $m+n$. [asy] unitsize(0.3 inch); draw(ellipse((0,0), 3, 1.75)); draw((-1.2,0.1)..(-0.8,-0.03)..(-0.4,-0.11)..(0,-0.15)..(0.4,-0.11)..(0.8,-0.03)..(1.2,0.1)); draw((-1,0.04)..(-0.5,0.12)..(0,0.16)..(0.5,0.12)..(1,0.04)); draw((0,2.4)--(0,-0.15)); draw((0,-0.15)--(0,-1.75), dashed); draw((0,-1.75)--(0,-2.25)); draw(ellipse((2,0), 1, 0.9)); draw((2.03,-0.02)--(2.9,-0.4)); [/asy]",
+        "answer": "127",
+        "data_source": "AIME2024",
+        "data_source_id": 28,
+        "lang": "es",
+        "gid": 28
+    },
+    {
+        "question": "Existe una colecci\u00f3n de $25$ fichas blancas indistinguibles y $25$ fichas negras indistinguibles. Encuentra el n\u00famero de formas de colocar algunas de estas fichas en las $25$ celdas unitarias de una cuadr\u00edcula $5\\times5$ de manera que:  cada celda contiene como m\u00e1ximo una ficha todas las fichas en la misma fila y todas las fichas en la misma columna tienen el mismo color cualquier ficha adicional colocada en la cuadr\u00edcula violar\u00eda una o m\u00e1s de las dos condiciones anteriores.",
+        "answer": "902",
+        "data_source": "AIME2024",
+        "data_source_id": 29,
+        "lang": "es",
+        "gid": 29
+    },
+    {
+        "question": "Encuentra la suma de todas las bases enteras $b>9$ para las cuales $17_{b}$ es un divisor de $97_{b}$.",
+        "answer": "70",
+        "data_source": "AIME2025",
+        "data_source_id": 0,
+        "lang": "es",
+        "gid": 30
+    },
+    {
+        "question": "En $\\triangle ABC$, los puntos $A,D,E$ y $B$ se encuentran en ese orden en el lado $\\overline{AB}$ con $AD=4, DE=16$ y $EB=8$. Los puntos $A,F,G$ y $C$ se encuentran en ese orden en el lado $\\overline{AC}$ con $AF=13, FG=52$ y $GC=26$. Sea $M$ la reflexi\u00f3n de $D$ a trav\u00e9s de $F$, y sea $N$ la reflexi\u00f3n de $G$ a trav\u00e9s de $E$. El cuadril\u00e1tero $DEGF$ tiene un \u00e1rea de 288. Encuentra el \u00e1rea de hept\u00e1gono $AFNBCEM$.",
+        "answer": "588",
+        "data_source": "AIME2025",
+        "data_source_id": 1,
+        "lang": "es",
+        "gid": 31
+    },
+    {
+        "question": "Los 9 miembros de un equipo de b\u00e9isbol fueron a una helader\u00eda despu\u00e9s de su juego. Cada jugador tuvo un cono de una sola bola de helado de chocolate, vainilla o fresa. Al menos un jugador eligi\u00f3 cada sabor, y el n\u00famero de jugadores que eligieron chocolate fue mayor que el n\u00famero de jugadores que eligieron vainilla, que fue mayor que el n\u00famero de jugadores que eligieron fresa. Sea $N$ el n\u00famero de diferentes asignaciones de sabores a los jugadores que cumplen estas condiciones. Encuentre el resto cuando $N$ se divide por 1000.",
+        "answer": "16",
+        "data_source": "AIME2025",
+        "data_source_id": 2,
+        "lang": "es",
+        "gid": 32
+    },
+    {
+        "question": "Encuentra el n\u00famero de pares ordenados $(x,y)$, donde tanto $x$ como $y$ son enteros entre $-100$ y $100$, inclusive, tal que $12x^{2}-xy-6y^{2}=0$.",
+        "answer": "117",
+        "data_source": "AIME2025",
+        "data_source_id": 3,
+        "lang": "es",
+        "gid": 33
+    },
+    {
+        "question": "Hay $8!=40320$ n\u00fameros enteros positivos de ocho d\u00edgitos que utilizan cada uno de los d\u00edgitos $1,2,3,4,5,6,7,8$ exactamente una vez. Sea $N$ el n\u00famero de estos enteros que son divisibles por 22. Encuentre la diferencia entre $N$ y 2025.",
+        "answer": "279",
+        "data_source": "AIME2025",
+        "data_source_id": 4,
+        "lang": "es",
+        "gid": 34
+    },
+    {
+        "question": "Un trapecio is\u00f3sceles tiene un c\u00edrculo inscrito tangente a cada uno de sus cuatro lados. El radio del c\u00edrculo es 3, y el \u00e1rea del trapecio es 72. Sea $r$ y $s$ las longitudes de los lados paralelos del trapecio, con $r \\neq s$. Encuentra $r^{2}+s^{2}$.",
+        "answer": "504",
+        "data_source": "AIME2025",
+        "data_source_id": 5,
+        "lang": "es",
+        "gid": 35
+    },
+    {
+        "question": "Las doce letras $A,B,C,D,E,F,G,H,I,J,K$ y $L$ se agrupan al azar en seis pares de letras. Las dos letras en cada par se colocan una al lado de la otra en orden alfab\u00e9tico para formar seis palabras de dos letras, y esas seis palabras se enumeran alfab\u00e9ticamente. Por ejemplo, un resultado posible es $AB,CJ,DG,EK,FL,HI$. La probabilidad de que la \u00faltima palabra enumerada contenga $G$ es $\\frac{m}{n}$, donde $m$ y $n$ son enteros positivos coprimos. Encuentra $m+n$.",
+        "answer": "821",
+        "data_source": "AIME2025",
+        "data_source_id": 6,
+        "lang": "es",
+        "gid": 36
+    },
+    {
+        "question": "Haga que $k$ n\u00fameros sean reales tales que el sistema $|25+20i-z|=5$ y $|z-4-k|=|z-3i-k|$ tiene exactamente una soluci\u00f3n compleja $z$. La suma de todos los posibles valores de $k$ se puede escribir como $\\frac{m}{n}$, donde $m$ y $n$ son enteros positivos coprimos. Encuentra $m+n$. Aqu\u00ed $i=\\sqrt{-1}$.",
+        "answer": "77",
+        "data_source": "AIME2025",
+        "data_source_id": 7,
+        "lang": "es",
+        "gid": 37
+    },
+    {
+        "question": "La par\u00e1bola con ecuaci\u00f3n $y=x^{2}-4$ es rotada $60^{\\circ}$ en sentido antihorario alrededor del origen. El \u00fanico punto en el cuarto cuadrante donde la par\u00e1bola original y su imagen se intersectan tiene coordenada $y$ igual a $\\frac{a-\\sqrt{b}}{c}$, donde $a$, $b$ y $c$ son enteros positivos, y $a$ y $c$ son coprimos. Encuentra $a+b+c$.",
+        "answer": "62",
+        "data_source": "AIME2025",
+        "data_source_id": 8,
+        "lang": "es",
+        "gid": 38
+    },
+    {
+        "question": "Las 27 celdas de una cuadr\u00edcula de $3\\times9$ se llenan utilizando los n\u00fameros del 1 al 9 de modo que cada fila contenga 9 n\u00fameros diferentes, y cada uno de los tres bloques de $3\\times3$ fuertemente delineados en el ejemplo de abajo contenga 9 n\u00fameros diferentes, como en las primeras tres filas de un rompecabezas Sudoku.  | 4 | 2 | 8 | 9 | 6 | 3 | 1 | 7 | 5 |   | 3 | 7 | 9 | 5 | 2 | 1 | 6 | 8 | 4 |   | 5 | 6 | 1 | 8 | 4 | 7 | 9 | 2 | 3 |   El n\u00famero de diferentes formas de llenar dicha cuadr\u00edcula se puede escribir como $p^a\\cdot q^b\\cdot r^c\\cdot s^d$, donde $p,q,r,$ y $s$ son n\u00fameros primos distintos y $a,b,c,$ y $d$ son n\u00fameros enteros positivos. Encuentre $p\\cdot a+q\\cdot b+r\\cdot c+s\\cdot d$.",
+        "answer": "81",
+        "data_source": "AIME2025",
+        "data_source_id": 9,
+        "lang": "es",
+        "gid": 39
+    },
+    {
+        "question": "Una funci\u00f3n peri\u00f3dica lineal a trozos est\u00e1 definida por $f(x)=\\begin{cases}x&\\text{si }x\\in[-1,1)\\\\2-x&\\text{si }x\\in[1,3)\\end{cases}$ y $f(x+4)=f(x)$ para todos los n\u00fameros reales $x$. La gr\u00e1fica de $f(x)$ tiene un patr\u00f3n de diente de sierra. La par\u00e1bola $x=34y^2$ interseca la gr\u00e1fica de $f(x)$ en un n\u00famero finito de puntos. La suma de las coordenadas $y$ de estos puntos de intersecci\u00f3n puede expresarse en la forma $\\frac{a+b\\sqrt{c}}{d}$, donde $a,b,c,$ y $d$ son n\u00fameros enteros positivos, $a,b,$ y $d$ tienen el m\u00e1ximo com\u00fan divisor igual a 1, y $c$ no es divisible por el cuadrado de ning\u00fan primo. Encuentre $a+b+c+d$.",
+        "answer": "259",
+        "data_source": "AIME2025",
+        "data_source_id": 10,
+        "lang": "es",
+        "gid": 40
+    },
+    {
+        "question": "El conjunto de puntos en el espacio de coordenadas tridimensional que se encuentran en el plano $x+y+z=75$ cuyas coordenadas satisfacen las desigualdades $x-yz<y-zx<z-xy$ forma tres regiones convexas disjuntas. Exactamente una de esas regiones tiene \u00e1rea finita. El \u00e1rea de esta regi\u00f3n finita se puede expresar en la forma $a\\sqrt{b}$, donde $a$ y $b$ son n\u00fameros enteros positivos y $b$ no es divisible por el cuadrado de ning\u00fan primo. Encuentra $a+b$.",
+        "answer": "510",
+        "data_source": "AIME2025",
+        "data_source_id": 11,
+        "lang": "es",
+        "gid": 41
+    },
+    {
+        "question": "Alex divide un disco en cuatro cuadrantes con dos di\u00e1metros perpendiculares que se intersectan en el centro del disco. Dibuja 25 segmentos de l\u00ednea m\u00e1s a trav\u00e9s del disco, trazando cada segmento seleccionando dos puntos al azar en el per\u00edmetro del disco en cuadrantes diferentes y conectando esos dos puntos. Encuentra el n\u00famero esperado de regiones en las que estos 27 segmentos de l\u00ednea dividen el disco.",
+        "answer": "204",
+        "data_source": "AIME2025",
+        "data_source_id": 12,
+        "lang": "es",
+        "gid": 42
+    },
+    {
+        "question": "Haga que $ABCDE$ sea un pent\u00e1gono convexo con $AB=14, BC=7, CD=24, DE=13, EA=26,$ y $\\angle B=\\angle E=60^\\circ$. Para cada punto $X$ en el plano, definimos $f(X)=AX+BX+CX+DX+EX$. El valor m\u00ednimo posible de $f(X)$ puede expresarse como $m+n\\sqrt{p}$, donde $m$ y $n$ son enteros positivos y $p$ no es divisible por el cuadrado de ning\u00fan primo. Encuentre $m+n+p$.",
+        "answer": "60",
+        "data_source": "AIME2025",
+        "data_source_id": 13,
+        "lang": "es",
+        "gid": 43
+    },
+    {
+        "question": "Deje que $N$ denote el n\u00famero de tr\u00edos ordenados de enteros positivos $(a,b,c)$ de manera que $a,b,c\\leq3^6$ y $a^3+b^3+c^3$ es un m\u00faltiplo de $3^7$. Encuentre el residuo cuando $N$ es dividido por $1000$.",
+        "answer": "735",
+        "data_source": "AIME2025",
+        "data_source_id": 14,
+        "lang": "es",
+        "gid": 44
+    },
+    {
+        "question": "Si el n\u00famero real $m > 1$ satisface $\\log_9(\\log_8 m) = 2024$, entonces \u00bfcu\u00e1l es el valor de $\\log_3(\\log_2 m)$?",
+        "answer": "$4049$",
+        "data_source": "CNMO",
+        "data_source_id": 0,
+        "lang": "es",
+        "gid": 45
+    },
+    {
+        "question": "Haga que una secuencia geom\u00e9trica infinita $\\{a_n\\}$ que tenga una raz\u00f3n com\u00fan $q$ que satisface $0 < |q| < 1$. Si la suma de todos los t\u00e9rminos en $\\{a_n\\}$ es igual a la suma de los cuadrados de todos los t\u00e9rminos, entonces \u00bfcu\u00e1l es el rango de valores para $a_2$?",
+        "answer": "$[-\\frac{1}{4}, 0) \\cup (0, 2)$",
+        "data_source": "CNMO",
+        "data_source_id": 1,
+        "lang": "es",
+        "gid": 46
+    },
+    {
+        "question": "Dado los n\u00fameros reales $a, b$ tales que el conjunto $A = \\{x \\in \\mathbf{R} \\mid x^2-10x+a \\leq 0\\}$ y $B = \\{x \\in \\mathbf{R} \\mid bx \\leq b^3\\}$ se intersectan en [4,9], \u00bfcu\u00e1l es el valor de $a+b$?",
+        "answer": "$7$",
+        "data_source": "CNMO",
+        "data_source_id": 2,
+        "lang": "es",
+        "gid": 47
+    },
+    {
+        "question": "En una pir\u00e1mide triangular $P-ABC$, si $PA \\perp$ base $ABC$, y las longitudes de los lados $AB$, $BP$, $BC$, $CP$ son 1, 2, 3, 4 respectivamente, \u00bfcu\u00e1l es el volumen de esta pir\u00e1mide triangular?",
+        "answer": "$\\frac{3}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 3,
+        "lang": "es",
+        "gid": 48
+    },
+    {
+        "question": "Para un dado no uniforme, las probabilidades de obtener $1, 2, 3, 4, 5, 6$ puntos forman una secuencia aritm\u00e9tica. Lanzando el dado dos veces de manera independiente, sean los puntos $a, b$ respectivamente. Si la probabilidad del evento $a+b=7$ que ocurre es $\\frac{1}{7}$, entonces \u00bfcu\u00e1l es la probabilidad del evento $a=b$ que ocurra?",
+        "answer": "$\\frac{4}{21}$",
+        "data_source": "CNMO",
+        "data_source_id": 4,
+        "lang": "es",
+        "gid": 49
+    },
+    {
+        "question": "Sea $f(x)$ una funci\u00f3n con dominio $\\mathbf{R}$ y un per\u00edodo m\u00ednimo positivo de 5. Si la funci\u00f3n $g(x)=f(2^x)$ tiene 25 ceros en el intervalo $[0,5)$, \u00bfcu\u00e1ntos ceros tiene $g(x)$ en el intervalo $[1,4)$?",
+        "answer": "$11$",
+        "data_source": "CNMO",
+        "data_source_id": 5,
+        "lang": "es",
+        "gid": 50
+    },
+    {
+        "question": "Hagan que $F_1$, $F_2$ sean los focos de la elipse $\\Omega$. Tome un punto $P$ en $\\Omega$ (no en los extremos del eje mayor), y sea $O$ el circuncentro del $\\triangle PF_1F_2$. Si $\\overrightarrow{PO} \\cdot \\overrightarrow{F_1F_2} = 2\\overrightarrow{PF_1} \\cdot \\overrightarrow{PF_2}$, \u00bfcu\u00e1l es el valor m\u00ednimo de la excentricidad de $\\Omega$?",
+        "answer": "$\\frac{\\sqrt{6}}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 6,
+        "lang": "es",
+        "gid": 51
+    },
+    {
+        "question": "Si tres n\u00fameros enteros positivos $a, b, c$ tienen un total de 8 d\u00edgitos, y los 8 d\u00edgitos se pueden organizar como 2, 0, 2, 4, 0, 9, 0, 8, entonces $(a, b, c)$ se denomina 'arreglo afortunado', por ejemplo (9, 8, 202400) es un arreglo afortunado. \u00bfCu\u00e1ntos arreglos afortunados $(a, b, c)$ satisfacen $10 < a < b < c$?",
+        "answer": "$591$",
+        "data_source": "CNMO",
+        "data_source_id": 7,
+        "lang": "es",
+        "gid": 52
+    },
+    {
+        "question": "En el $\\triangle ABC$, dado que $\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$, encuentra el valor de $\\cos C$.",
+        "answer": "$\\frac{\\sqrt{7}}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 8,
+        "lang": "es",
+        "gid": 53
+    },
+    {
+        "question": "En el sistema de coordenadas cartesianas, sea el v\u00e9rtice derecho de la hip\u00e9rbola $\\Gamma: x^2 - y^2 = 1$ $A$. Un c\u00edrculo con su centro en el eje $y$ y tocando cada rama de $\\Gamma$ exactamente una vez se llama un 'c\u00edrculo bueno'. Si dos c\u00edrculos buenos son tangentes externamente en el punto $P$ y sus centros est\u00e1n a una distancia $d$ aparte, encuentre todos los posibles valores de $\\frac{d}{|PA|}$.",
+        "answer": "$2\\sqrt{2}$",
+        "data_source": "CNMO",
+        "data_source_id": 9,
+        "lang": "es",
+        "gid": 54
+    },
+    {
+        "question": "Dados los n\u00fameros complejos $z, w$ tales que $z + w = 2$, encuentra el valor m\u00ednimo posible de $S = |z^2 - 2w| + |w^2 - 2z|$.",
+        "answer": "$8\\sqrt{5} - 16$",
+        "data_source": "CNMO",
+        "data_source_id": 10,
+        "lang": "es",
+        "gid": 55
+    },
+    {
+        "question": "Dados los n\u00fameros reales $a, b$, si el conjunto de soluciones de la desigualdad cuadr\u00e1tica $x^2 + b < ax$ es $(1,5)$, \u00bfcu\u00e1l es el conjunto de soluciones de la desigualdad cuadr\u00e1tica $x^2 - ax > bx$?",
+        "answer": "$(-\\infty,-1)\\cup(6,+\\infty)$",
+        "data_source": "CNMO",
+        "data_source_id": 11,
+        "lang": "es",
+        "gid": 56
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el valor m\u00ednimo de $y=\\frac{4^x+1}{2^x+1}$?",
+        "answer": "$2\\sqrt{2}-2$",
+        "data_source": "CNMO",
+        "data_source_id": 12,
+        "lang": "es",
+        "gid": 57
+    },
+    {
+        "question": "Una rana salta entre los cuatro v\u00e9rtices de un cuadrado $ABCD$, cada vez saltando a uno de los dos v\u00e9rtices adyacentes con igual probabilidad, y cada salto es independiente. Si la rana comienza en el v\u00e9rtice $A$, \u00bfcu\u00e1l es la probabilidad de que est\u00e9 de vuelta en el v\u00e9rtice $A$ despu\u00e9s del sexto salto?",
+        "answer": "$\\frac{1}{2}$",
+        "data_source": "CNMO",
+        "data_source_id": 13,
+        "lang": "es",
+        "gid": 58
+    },
+    {
+        "question": "La secuencia $\\{a_n\\}$ cumple que $a_1=1$, y para cualquier n\u00famero entero positivo $n$, tenemos que $a_{n+1}=10^{n}{a_n^2}$. \u00bfCu\u00e1l es la f\u00f3rmula del t\u00e9rmino general para $\\{a_n\\}$?",
+        "answer": "$10^{2^n-n-1}$",
+        "data_source": "CNMO",
+        "data_source_id": 14,
+        "lang": "es",
+        "gid": 59
+    },
+    {
+        "question": "Si tres enteros positivos \\(a, b, c\\) tienen un total de 8 d\u00edgitos, y los 8 d\u00edgitos pueden organizarse como 2, 0, 2, 4, 0, 9, 0, 8, entonces \\((a, b, c)\\) se llama un 'arreglo afortunado', por ejemplo, (9, 8, 202400) es un arreglo afortunado. \u00bfCu\u00e1ntos arreglos afortunados \\((a, b, c)\\) que satisfacen \\(10 < a < b < 100\\)?",
+        "answer": "$291$",
+        "data_source": "CNMO",
+        "data_source_id": 15,
+        "lang": "es",
+        "gid": 60
+    },
+    {
+        "question": "En $\\triangle ABC$, dado $\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$, encuentra el valor de $\\sin C$.",
+        "answer": "$\\frac{3}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 16,
+        "lang": "es",
+        "gid": 61
+    },
+    {
+        "question": "En el sistema de coordenadas cartesianas, un c\u00edrculo con su centro en el eje $y$ y que toca cada rama de la hip\u00e9rbola $\\Gamma: x^2 - y^2 = 1$ exactamente una vez se llama un 'c\u00edrculo bueno'. \u00bfExiste una constante $\\lambda$ y un punto fijo $A$ en el eje $x$ tal que si dos c\u00edrculos buenos son tangentes externamente en el punto $P$, entonces la distancia $d$ entre sus centros es igual a $\\lambda |PA|$?",
+        "answer": "$\\lambda=2\\sqrt{2}, A(\\pm 1, 0)$",
+        "data_source": "CNMO",
+        "data_source_id": 17,
+        "lang": "es",
+        "gid": 62
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos divisores enteros positivos tiene 196?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 3,
+        "lang": "es",
+        "gid": 63
+    },
+    {
+        "question": "Un hex\u00e1gono regular puede dividirse en seis tri\u00e1ngulos equil\u00e1teros. Si el per\u00edmetro de uno de los tri\u00e1ngulos es de 21 pulgadas, \u00bfcu\u00e1l es el per\u00edmetro, en pulgadas, del hex\u00e1gono regular?",
+        "answer": "42",
+        "data_source": "MATH500",
+        "data_source_id": 5,
+        "lang": "es",
+        "gid": 64
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el cubo perfecto positivo m\u00e1s peque\u00f1o que se puede expresar como la suma de tres enteros consecutivos?",
+        "answer": "27",
+        "data_source": "MATH500",
+        "data_source_id": 6,
+        "lang": "es",
+        "gid": 65
+    },
+    {
+        "question": "La expresi\u00f3n $2\\cdot 3 \\cdot 4\\cdot 5+1$ es igual a 121, ya que la multiplicaci\u00f3n se realiza antes de la adici\u00f3n. Sin embargo, podemos obtener valores distintos de 121 para esta expresi\u00f3n si se nos permite cambiarla insertando par\u00e9ntesis. Por ejemplo, podemos obtener 144 escribiendo \\[ (2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144. \\]En total, \u00bfcu\u00e1ntos valores se pueden obtener de la expresi\u00f3n $2\\cdot 3 \\cdot 4 \\cdot 5 + 1$ al insertar par\u00e9ntesis? (Nota que no se permite reordenar los t\u00e9rminos, solo insertar par\u00e9ntesis).",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 9,
+        "lang": "es",
+        "gid": 66
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el m\u00faltiplo entero positivo m\u00e1s peque\u00f1o de 30 que se puede escribir solo con los d\u00edgitos 0 y 2?",
+        "answer": "2220",
+        "data_source": "MATH500",
+        "data_source_id": 10,
+        "lang": "es",
+        "gid": 67
+    },
+    {
+        "question": "Los divisores propios de 12 son 1, 2, 3, 4 y 6. Un divisor propio de un n\u00famero entero $N$ es un divisor positivo de $N$ que es menor que $N$. \u00bfCu\u00e1l es la suma de los divisores propios de la suma de los divisores propios de 284?",
+        "answer": "284",
+        "data_source": "MATH500",
+        "data_source_id": 12,
+        "lang": "es",
+        "gid": 68
+    },
+    {
+        "question": "El volumen del cilindro mostrado es de $45\\pi$ cm c\u00fabicos. \u00bfCu\u00e1l es la altura en cent\u00edmetros del cilindro? [asy] size(120); draw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));  draw((1,0)--(1,-2)); draw((3.4,0)--(3.4,-2));  draw((1,-2)..(2.2,-2.36)..(3.4,-2));  label(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);  draw (((2.2,0)--(3.4,0)));  label(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);  [/asy]",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 13,
+        "lang": "es",
+        "gid": 69
+    },
+    {
+        "question": "Calcula: $1-2+3-4+5- \\dots +99-100$.",
+        "answer": "-50",
+        "data_source": "MATH500",
+        "data_source_id": 16,
+        "lang": "es",
+        "gid": 70
+    },
+    {
+        "question": "La l\u00ednea $\\overline{BC}$ es paralela al segmento que pasa por $A$, y $AB = BC$. \u00bfCu\u00e1ntos grados representa $x$?  [asy] draw((0,0)--(10,0)); draw((0,3)--(10,3)); draw((2,3)--(8,0)); draw((2,3)--(4,0)); label(\"$A$\",(2,3),N); label(\"$B$\",(4,0),S); label(\"$C$\",(8,0),S); label(\"$124^{\\circ}$\",(2,3),SW); label(\"$x^{\\circ}$\",(4.5,3),S); [/asy]",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 18,
+        "lang": "es",
+        "gid": 71
+    },
+    {
+        "question": "Sea $a$ un n\u00famero real positivo tal que todas las ra\u00edces de \\[x^3 + ax^2 + ax + 1 = 0\\] sean reales. Encuentra el valor m\u00e1s peque\u00f1o posible de $a$.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 19,
+        "lang": "es",
+        "gid": 72
+    },
+    {
+        "question": "Encuentra el entero m\u00e1s grande menor que $(\\sqrt{7} + \\sqrt{5})^6.$ (\u00a1No uses una calculadora!)",
+        "answer": "13535",
+        "data_source": "MATH500",
+        "data_source_id": 21,
+        "lang": "es",
+        "gid": 73
+    },
+    {
+        "question": "Denali y Nate trabajan para un negocio de paseo de perros y se les paga por cada perro que pasean. Denali es responsable de $16$ perros y Nate es responsable de $12$ perros. Bajo la nueva pol\u00edtica de la compa\u00f1\u00eda, se les asignar\u00e1n o desasignar\u00e1n nuevos perros en grupos de $x$ perros. La raz\u00f3n del pago de Denali al pago de Nate ser\u00eda la misma si Denali comenzara a pasear $4x$ perros m\u00e1s y Nate se quedara con $12$ perros o si $x$ de los perros de Nate se reasignaran a Denali. Encuentra $x$ si $x\\neq0$.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 22,
+        "lang": "es",
+        "gid": 74
+    },
+    {
+        "question": "Un trabajador recibe un salario anual de \\$20{,}000, el cual siempre deposita en una cuenta de ahorros al final del a\u00f1o. Al final del tercer a\u00f1o (cuando realiza el tercer dep\u00f3sito), desea tener al menos \\$66,200 en la cuenta para financiar la compra de una casa. \u00bfCu\u00e1l es la tasa de inter\u00e9s compuesta m\u00ednima que debe proporcionar la cuenta de ahorros? Expresa tu respuesta en porcentaje, pero no incluyas el signo de porcentaje.",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 24,
+        "lang": "es",
+        "gid": 75
+    },
+    {
+        "question": "\u00bfDe cu\u00e1ntas maneras pueden sentarse $7$ personas alrededor de una mesa redonda si ninguna de las $3$ personas, Pierre, Rosa y Thomas, pueden sentarse uno al lado del otro? (Las disposiciones de asiento que son rotaciones entre s\u00ed se tratan como iguales.)",
+        "answer": "144",
+        "data_source": "MATH500",
+        "data_source_id": 26,
+        "lang": "es",
+        "gid": 76
+    },
+    {
+        "question": "Un club de matem\u00e1ticas est\u00e1 teniendo una venta de pasteles como recaudaci\u00f3n de fondos para un pr\u00f3ximo viaje. Vendieron $54$ galletas a tres por $\\$1$, y $20$ cupcakes a $\\$2$ cada uno, y $35$ brownies a $\\$1$ cada uno. Si al club de matem\u00e1ticas le cost\u00f3 $\\$15$ hornear estos art\u00edculos, \u00bfcu\u00e1l fue su beneficio?",
+        "answer": "78",
+        "data_source": "MATH500",
+        "data_source_id": 27,
+        "lang": "es",
+        "gid": 77
+    },
+    {
+        "question": "El ej\u00e9rcito griego conten\u00eda dos tipos de soldados: los soldados de clase alta y los soldados de clase baja. Si hab\u00eda un total de 5 soldados de clase alta y 10 soldados de clase baja en una cierta parte de Atenas, y la batalla de Term\u00f3pilas exige una fuerza de 4 soldados de clase alta y 8 soldados de clase baja, \u00bfcu\u00e1ntos batallones diferentes se pueden enviar?",
+        "answer": "225",
+        "data_source": "MATH500",
+        "data_source_id": 29,
+        "lang": "es",
+        "gid": 78
+    },
+    {
+        "question": "\u00bfDe cu\u00e1ntas maneras pueden sentarse 8 personas alrededor de una mesa redonda si 3 de esas personas -- Pierre, Rosa y Thomas -- quieren sentarse juntos? (Dos formas de sentarse se consideran iguales si una es una rotaci\u00f3n de la otra.)",
+        "answer": "720",
+        "data_source": "MATH500",
+        "data_source_id": 32,
+        "lang": "es",
+        "gid": 79
+    },
+    {
+        "question": "Encuentra el t\u00e9rmino constante en la expansi\u00f3n de $$\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}$$",
+        "answer": "-125",
+        "data_source": "MATH500",
+        "data_source_id": 34,
+        "lang": "es",
+        "gid": 80
+    },
+    {
+        "question": "Si $n \\equiv 2 \\pmod{7}$, entonces encuentra el residuo cuando $(n + 2)(n + 4)(n + 6)$ se divide por 7.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 35,
+        "lang": "es",
+        "gid": 81
+    },
+    {
+        "question": "Un pent\u00e1gono regular se rota en sentido antihorario alrededor de su centro. \u00bfCu\u00e1l es el n\u00famero m\u00ednimo de grados que debe rotarse hasta que coincida con su posici\u00f3n original?",
+        "answer": "72",
+        "data_source": "MATH500",
+        "data_source_id": 37,
+        "lang": "es",
+        "gid": 82
+    },
+    {
+        "question": "Si una lata de tama\u00f1o snack de duraznos tiene $40$ calor\u00edas y es el $2\\%$ del requerimiento cal\u00f3rico diario de una persona, \u00bfcu\u00e1ntas calor\u00edas cumplen con el requerimiento cal\u00f3rico diario de una persona?",
+        "answer": "2000",
+        "data_source": "MATH500",
+        "data_source_id": 38,
+        "lang": "es",
+        "gid": 83
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el resultado cuando el m\u00e1ximo com\u00fan divisor de 6432 y 132 se incrementa en 11?",
+        "answer": "23",
+        "data_source": "MATH500",
+        "data_source_id": 39,
+        "lang": "es",
+        "gid": 84
+    },
+    {
+        "question": "Un oct\u00e1gono regular tiene el mismo per\u00edmetro que el hex\u00e1gono regular que se muestra aqu\u00ed con longitud de lado de 16 cm. \u00bfCu\u00e1nto mide cada lado del oct\u00e1gono? [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);[/asy]",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 40,
+        "lang": "es",
+        "gid": 85
+    },
+    {
+        "question": "Las coordenadas de un paralelogramo son (5, 3), (6, 8), (7, 4) y $(x, y)$ y $x > 7$. \u00bfCu\u00e1l es el valor de $x + y$?",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 41,
+        "lang": "es",
+        "gid": 86
+    },
+    {
+        "question": "La soluci\u00f3n a $-4 < 2(x - 1) < 8$ se expresa en la forma $a < x < b$. Encuentra el valor de $a + b$.",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 42,
+        "lang": "es",
+        "gid": 87
+    },
+    {
+        "question": "En el tri\u00e1ngulo rect\u00e1ngulo $ABC$ con $\\angle B = 90^\\circ$, tenemos $\\sin A = 2\\cos A$. \u00bfCu\u00e1l es $\\tan A$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 45,
+        "lang": "es",
+        "gid": 88
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el entero positivo m\u00e1s peque\u00f1o $n$ tal que todas las ra\u00edces de $z^4 + z^2 + 1 = 0$ son ra\u00edces $n$-\u00e9simas de la unidad?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 46,
+        "lang": "es",
+        "gid": 89
+    },
+    {
+        "question": "El gr\u00e1fico de $f(x)=\\frac{2x}{x^2-5x-14}$ tiene as\u00edntotas verticales $x=a$ y $x=b$, y as\u00edntota horizontal $y=c$. Encuentra $a+b+c$.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 47,
+        "lang": "es",
+        "gid": 90
+    },
+    {
+        "question": "La mitad del valor de $3x-9$ es $x+37$. \u00bfCu\u00e1l es el valor de $x$?",
+        "answer": "83",
+        "data_source": "MATH500",
+        "data_source_id": 49,
+        "lang": "es",
+        "gid": 91
+    },
+    {
+        "question": "Tienes siete bolsas de monedas de oro. Cada bolsa tiene la misma cantidad de monedas de oro. Un d\u00eda, encuentras una bolsa de 53 monedas. Decides redistribuir la cantidad de monedas que tienes para que las ocho bolsas que posees tengan la misma cantidad de monedas. Logras redistribuir todas las monedas con \u00e9xito, y tambi\u00e9n notas que tienes m\u00e1s de 200 monedas. \u00bfCu\u00e1l es la menor cantidad de monedas que podr\u00edas haber tenido antes de encontrar la bolsa de 53 monedas?",
+        "answer": "203",
+        "data_source": "MATH500",
+        "data_source_id": 50,
+        "lang": "es",
+        "gid": 92
+    },
+    {
+        "question": "Simplifica: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 52,
+        "lang": "es",
+        "gid": 93
+    },
+    {
+        "question": "Suponga que $f$ sea un polinomio tal que \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\] \u00bfCu\u00e1l es el grado de $f$?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 55,
+        "lang": "es",
+        "gid": 94
+    },
+    {
+        "question": "La suma de los primeros $N$ n\u00fameros impares positivos es 121. \u00bfCu\u00e1l es el valor de $N$?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 56,
+        "lang": "es",
+        "gid": 95
+    },
+    {
+        "question": "Riproarin' Ringo estaba lazeando un becerro recalcitrante. Ringo decidi\u00f3 darle un respiro al becerro calculando \\[|(1-i)^8|\\] antes de ir tras \u00e9l. \u00bfQu\u00e9 respuesta debi\u00f3 encontrar Ringo?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 57,
+        "lang": "es",
+        "gid": 96
+    },
+    {
+        "question": "Calcula $99^2+99+1$ en tu cabeza.",
+        "answer": "9901",
+        "data_source": "MATH500",
+        "data_source_id": 58,
+        "lang": "es",
+        "gid": 97
+    },
+    {
+        "question": "En una clase de 50 estudiantes, 28 participan en MATHCOUNTS, 21 participan en el club de ciencias, y 6 estudiantes no participan en ninguno. \u00bfCu\u00e1ntos estudiantes participan tanto en MATHCOUNTS como en el club de ciencias?",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 59,
+        "lang": "es",
+        "gid": 98
+    },
+    {
+        "question": "Para algunos n\u00fameros reales $a$ y $b$, la ecuaci\u00f3n \\[ 8x^3 + 4ax^2 + 2bx + a = 0 \\]tiene tres ra\u00edces positivas distintas. Si la suma de los logaritmos en base 2 de las ra\u00edces es 5, \u00bfcu\u00e1l es el valor de $a$?",
+        "answer": "-256",
+        "data_source": "MATH500",
+        "data_source_id": 61,
+        "lang": "es",
+        "gid": 99
+    },
+    {
+        "question": "Encuentra el n\u00famero real positivo m\u00e1s peque\u00f1o $C$ para el cual \\[\\left\\| \\begin{pmatrix} 2 & 3 \\\\ 0 & -2 \\end{pmatrix} \\bold{v} \\right\\| \\le C \\|\\bold{v}\\|\\] para todos los vectores bidimensionales $\\bold{v}$.  Nota que para un vector bidimensional $\\mathbf{a},$ $\\|\\mathbf{a}\\|$ es la magnitud de $\\mathbf{a}.$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 62,
+        "lang": "es",
+        "gid": 100
+    },
+    {
+        "question": "Haga que \\[x^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\\]donde cada polinomio no constante $p_i(x)$ es m\u00f3nico con coeficientes enteros, y no se puede factorizar m\u00e1s sobre los enteros. Calcule $p_1(1) + p_2(1) + \\dots + p_k(1).$",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 63,
+        "lang": "es",
+        "gid": 101
+    },
+    {
+        "question": "\u00bfCu\u00e1l es $1^{(2^{235423523})}$?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 65,
+        "lang": "es",
+        "gid": 102
+    },
+    {
+        "question": "Las longitudes de dos lados opuestos de un cuadrado se reducen en un $40\\%$ mientras que las longitudes de los otros dos lados se aumentan en un $50\\%$ para formar un rect\u00e1ngulo. \u00bfEn qu\u00e9 porcentaje disminuye el \u00e1rea del cuadrado?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 67,
+        "lang": "es",
+        "gid": 103
+    },
+    {
+        "question": "Para alg\u00fan valor de $x,$ $0 < x < 180,$ \\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\]Encuentra $x.$",
+        "answer": "46",
+        "data_source": "MATH500",
+        "data_source_id": 68,
+        "lang": "es",
+        "gid": 104
+    },
+    {
+        "question": "Sea $z$ un n\u00famero complejo tal que $z^5 = 1$ y $z \\neq 1.$ Calcule \\[z + \\frac{1}{z} + z^2 + \\frac{1}{z^2}.\\]",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 69,
+        "lang": "es",
+        "gid": 105
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la longitud, en unidades, del radio de una esfera cuyo volumen y \u00e1rea superficial, en unidades c\u00fabicas y unidades cuadradas, respectivamente, son num\u00e9ricamente iguales?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 72,
+        "lang": "es",
+        "gid": 106
+    },
+    {
+        "question": "Si el dominio de la funci\u00f3n $\\log x^2$ es $x < a$ o $x > b$, para algunos valores $a$ y $b$, encuentra $a + b$.",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 76,
+        "lang": "es",
+        "gid": 107
+    },
+    {
+        "question": "Si $2^8=4^x$, \u00bfcu\u00e1l es el valor de $x$?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 77,
+        "lang": "es",
+        "gid": 108
+    },
+    {
+        "question": "\u00bfPara qu\u00e9 valor de $x$ se cumple que $2^3\\cdot3^x=72$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 79,
+        "lang": "es",
+        "gid": 109
+    },
+    {
+        "question": "Encuentra el n\u00famero de valores enteros de $k$ en el intervalo cerrado $[-500,500]$ para los cuales la ecuaci\u00f3n $\\log(kx)=2\\log(x+2)$ tiene exactamente una soluci\u00f3n real.",
+        "answer": "501",
+        "data_source": "MATH500",
+        "data_source_id": 80,
+        "lang": "es",
+        "gid": 110
+    },
+    {
+        "question": "Diez treeks pesan lo mismo que tres squigs y un goolee. Dos treeks y un goolee equivalen en peso a un squig. \u00bfEl peso combinado de cu\u00e1ntos treeks equivale al peso de un squig?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 81,
+        "lang": "es",
+        "gid": 111
+    },
+    {
+        "question": "Resuelve para $x: 3^{2x} + 19 = 10^x$.",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 83,
+        "lang": "es",
+        "gid": 112
+    },
+    {
+        "question": "El producto de $3t^2+5t+a$ y $4t^2+bt-2$ es $12t^4+26t^3-8t^2-16t+6$. \u00bfCu\u00e1l es el valor de $a+b$?",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 84,
+        "lang": "es",
+        "gid": 113
+    },
+    {
+        "question": "Tienes 5 camisas, 6 pares de pantalones y 8 sombreros. \u00bfCu\u00e1ntos conjuntos puedes hacer que consistan en una camisa, un par de pantalones y un sombrero?",
+        "answer": "240",
+        "data_source": "MATH500",
+        "data_source_id": 86,
+        "lang": "es",
+        "gid": 114
+    },
+    {
+        "question": "Encuentra el valor m\u00e1s grande de $x$ que satisface la ecuaci\u00f3n $|5x-1|=x+3$.",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 87,
+        "lang": "es",
+        "gid": 115
+    },
+    {
+        "question": "Considera la funci\u00f3n \\[ f(x) = \\begin{cases} ax^2 & \\text{si } x \\geq a,\\\\ ax +2a& \\text{si } x <a, \\end{cases} \\]donde $a$ es alg\u00fan n\u00famero.  \u00bfCu\u00e1l es el mayor valor de $a$ para que la gr\u00e1fica de $y=f(x)$ intersecte al menos una vez a todas las l\u00edneas horizontales?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 88,
+        "lang": "es",
+        "gid": 116
+    },
+    {
+        "question": "Encuentra el m\u00e1ximo com\u00fan divisor de $3339$, $2961$ y $1491$.",
+        "answer": "21",
+        "data_source": "MATH500",
+        "data_source_id": 89,
+        "lang": "es",
+        "gid": 117
+    },
+    {
+        "question": "Dada $f(x) = \\frac{\\sqrt{x-1}}{x-2}$, \u00bfcu\u00e1l es el menor valor entero posible para $x$ tal que $f(x)$ tenga un valor real?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 91,
+        "lang": "es",
+        "gid": 118
+    },
+    {
+        "question": "\u00bfPara qu\u00e9 valor de $c$ la circunferencia con la ecuaci\u00f3n $x^2 - 10x + y^2 + 6y + c = 0$ tendr\u00e1 un radio de longitud 1?",
+        "answer": "33",
+        "data_source": "MATH500",
+        "data_source_id": 93,
+        "lang": "es",
+        "gid": 119
+    },
+    {
+        "question": "En el cuadril\u00e1tero $ABCD$, el \u00e1ngulo $BAD$ y el \u00e1ngulo $CDA$ se trisectan como se muestra. \u00bfCu\u00e1l es la medida en grados del \u00e1ngulo $AFD$?  [asy] size(150); pair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2); draw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle); label(\"$A$\", A, SW); label(\"$B$\", B, NW); label(\"$C$\", C, NE); label(\"$D$\", D, SE); pair E, F; E = (4.5-.2,1-.2); F = (5, 3); draw(A--E--D); draw(A--F--D); label(\"$E$\", E, N); label(\"$F$\", F, NW); dot(A);dot(B);dot(C);dot(D);dot(E);dot(F); label(\"$x$\", (1, 1.5), S); label(\"$x$\", (2, 1), S+W); label(\"$x$\", (2, -1), N+N+N+W); label(\"$y$\", (5.5+.3, .5-.3), S); label(\"$y$\", (6.5+.3, 0)); label(\"$y$\", (5+.5, -1.5+.3)); label(\"$110^{\\circ}$\",(2.5,3.5)); label(\"$100^{\\circ}$\",(6.5-.2,3.5)); [/asy]",
+        "answer": "80",
+        "data_source": "MATH500",
+        "data_source_id": 94,
+        "lang": "es",
+        "gid": 120
+    },
+    {
+        "question": "La proyecci\u00f3n de $\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\end{pmatrix}$ sobre $\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ es \\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]Encuentra $y$.",
+        "answer": "-4",
+        "data_source": "MATH500",
+        "data_source_id": 95,
+        "lang": "es",
+        "gid": 121
+    },
+    {
+        "question": "La ecuaci\u00f3n \\[x^{10}+(13x-1)^{10}=0\\,\\]tiene 10 ra\u00edces complejas $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ donde la barra denota la conjugaci\u00f3n compleja. Encuentra el valor de \\[\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4\\overline{r}_4}+\\frac 1{r_5\\overline{r}_5}.\\]",
+        "answer": "850",
+        "data_source": "MATH500",
+        "data_source_id": 101,
+        "lang": "es",
+        "gid": 122
+    },
+    {
+        "question": "Las gr\u00e1ficas de $x^2 + y^2 + 6x - 24y + 72 = 0$ y $x^2 - y^2 + 6x + 16y - 46 = 0$ se intersectan en cuatro puntos. Calcula la suma de las distancias desde estos cuatro puntos hasta el punto $(-3,2)$.",
+        "answer": "40",
+        "data_source": "MATH500",
+        "data_source_id": 104,
+        "lang": "es",
+        "gid": 123
+    },
+    {
+        "question": "Para los ocho condados listados a continuaci\u00f3n, \u00bfcu\u00e1l fue el n\u00famero mediano de estudiantes en $2005$?  \\begin{tabular}[t]{|l|c|c|c|c|c|} \\multicolumn{6}{c}{\\textbf{N\u00famero de Estudiantes por Condado}}\\\\\\hline \\textbf{CONDADO}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline Aiken&124&141&130&143&136\\\\\\hline Bamberg&17&15&15&14&11\\\\\\hline Barnwell&25&22&26&28&29\\\\\\hline Berkeley&583&557&554&553&524\\\\\\hline Calhoun&15&12&10&18&11\\\\\\hline Cherokee&19&13&18&13&19\\\\\\hline Chesterfield&46&18&13&22&29\\\\\\hline Colleton&64&49&52&46&41\\\\\\hline \\end{tabular}",
+        "answer": "29",
+        "data_source": "MATH500",
+        "data_source_id": 105,
+        "lang": "es",
+        "gid": 124
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos elementos hay en la intersecci\u00f3n del conjunto de todos los n\u00fameros primos menores que 30 y el conjunto de todos los n\u00fameros impares mayores que cero?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 107,
+        "lang": "es",
+        "gid": 125
+    },
+    {
+        "question": "Sea $F_1$ y $F_2$ los focos de la elipse $kx^2 + y^2 = 1,$ donde $k > 1$ es una constante. Suponga que hay un c\u00edrculo que pasa por $F_1$ y $F_2$ y que es tangente a la elipse en dos puntos en el eje $x$. Calcule $k.$",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 108,
+        "lang": "es",
+        "gid": 126
+    },
+    {
+        "question": "Una secuencia estrictamente creciente de enteros positivos $a_1$, $a_2$, $a_3$, $\\dots$ tiene la propiedad de que para todo entero positivo $k$, la subsecuencia $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ es geom\u00e9trica y la subsecuencia $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ es aritm\u00e9tica. Supongamos que $a_{13} = 2016$. Encuentra $a_1$.",
+        "answer": "504",
+        "data_source": "MATH500",
+        "data_source_id": 110,
+        "lang": "es",
+        "gid": 127
+    },
+    {
+        "question": "El se\u00f1or Brennan tiene 7 ni\u00f1os y 4 ni\u00f1as en su clase de estad\u00edsticas. \u00bfDe cu\u00e1ntas maneras puede elegir a 3 ni\u00f1os y 2 ni\u00f1as para dar una presentaci\u00f3n en grupo ma\u00f1ana? (El orden en el que se eligen los ni\u00f1os y las ni\u00f1as no importa.)",
+        "answer": "210",
+        "data_source": "MATH500",
+        "data_source_id": 111,
+        "lang": "es",
+        "gid": 128
+    },
+    {
+        "question": "Simplifique $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Su soluci\u00f3n puede ser convertida a la forma $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, donde $A$, $B$, $C$ y $D$ son enteros positivos. \u00bfCu\u00e1l es $A+B+C+D$?",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 112,
+        "lang": "es",
+        "gid": 129
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el valor de $(26^2 - 24^2 - 10)^2 - 10^2$?",
+        "answer": "8000",
+        "data_source": "MATH500",
+        "data_source_id": 113,
+        "lang": "es",
+        "gid": 130
+    },
+    {
+        "question": "Encuentra el producto $CD$ de los enteros $C$ y $D$ para los cuales \\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x^2+5x-24}\\]para todos los valores reales de $x$ excepto $-8$ y $3$.",
+        "answer": "-5",
+        "data_source": "MATH500",
+        "data_source_id": 114,
+        "lang": "es",
+        "gid": 131
+    },
+    {
+        "question": "Determina el n\u00famero de formas de organizar las letras de la palabra ELLIPSE.",
+        "answer": "1260",
+        "data_source": "MATH500",
+        "data_source_id": 115,
+        "lang": "es",
+        "gid": 132
+    },
+    {
+        "question": "Resuelve para $x$: $2^{2x} = 256^\\frac{1}{2}$.",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 116,
+        "lang": "es",
+        "gid": 133
+    },
+    {
+        "question": "Si $\\sqrt{3x-5}=2$, encuentra todos los posibles valores de $x$.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 117,
+        "lang": "es",
+        "gid": 134
+    },
+    {
+        "question": "Encuentra el n\u00famero de pares ordenados $(a,b)$ de enteros tal que $|a + bi| \\le 5.$",
+        "answer": "81",
+        "data_source": "MATH500",
+        "data_source_id": 118,
+        "lang": "es",
+        "gid": 135
+    },
+    {
+        "question": "La expresi\u00f3n $$1 + 2 + 3 - 4 + 5 + 6$$es equivalente a 13. Si a\u00f1adimos par\u00e9ntesis en varias ubicaciones, podemos cambiar este valor. Por ejemplo, $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. Si solo a\u00f1adimos par\u00e9ntesis (y no reorganizamos el orden de los t\u00e9rminos), \u00bfcu\u00e1l es el valor m\u00ednimo posible que puede obtener esta expresi\u00f3n? (Para los fines de este problema, no podemos cambiar la suma o resta por multiplicaci\u00f3n. Por ejemplo, $(1+2+3)(-4)+5+6$ no es una ubicaci\u00f3n v\u00e1lida de par\u00e9ntesis.)  Introduzca su respuesta como un valor \u00fanico.",
+        "answer": "-9",
+        "data_source": "MATH500",
+        "data_source_id": 119,
+        "lang": "es",
+        "gid": 136
+    },
+    {
+        "question": "Resuelve para $x$: $\\frac{x}{2} + \\frac{x}{3} = 5$",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 121,
+        "lang": "es",
+        "gid": 137
+    },
+    {
+        "question": "Daniel trabaja en una tienda de electr\u00f3nica y afirma que la popularidad de un televisor (medida en n\u00famero de ventas) es inversamente proporcional a su costo. Si 15 clientes compran un televisor que cuesta $\\$$1500, seg\u00fan la teor\u00eda de Daniel, \u00bfcu\u00e1ntos clientes comprar\u00edan un televisor que cuesta $\\$$2500?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 122,
+        "lang": "es",
+        "gid": 138
+    },
+    {
+        "question": "En el diagrama, $D$ y $E$ son los puntos medios de $\\overline{AB}$ y $\\overline{BC}$ respectivamente. Determina el \u00e1rea del cuadril\u00e1tero $DBEF$. [asy] size(180); defaultpen(linewidth(.7pt)+fontsize(10pt)); pair A, B, C, D, E, F; A=(0,6); B=(0,0); C=(8,0); D=(0,3); E=(4,0); F=(8/3,2); draw(E--A--C--D); draw((-1,0)--(10,0), EndArrow); draw((0,-1)--(0,8), EndArrow); label(\"$A(0,6)$\", A, W); label(\"$B(0,0)$\", B, SW); label(\"$C(8,0)$\", C, S); label(\"$D$\", D, W); label(\"$E$\", E, S); label(\"$F$\", F, SW); label(\"$x$\", (10,0), dir(0)); label(\"$y$\", (0,8), dir(90)); [/asy]",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 123,
+        "lang": "es",
+        "gid": 139
+    },
+    {
+        "question": "Eval\u00faa $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+        "answer": "-3",
+        "data_source": "MATH500",
+        "data_source_id": 125,
+        "lang": "es",
+        "gid": 140
+    },
+    {
+        "question": "Suzanne camina cuatro millas cada tres d\u00edas. \u00bfCu\u00e1l es el n\u00famero m\u00ednimo de millas que puede caminar en febrero?",
+        "answer": "36",
+        "data_source": "MATH500",
+        "data_source_id": 128,
+        "lang": "es",
+        "gid": 141
+    },
+    {
+        "question": "\u00bfQu\u00e9 n\u00famero entero $n$ satisface $0\\le n<18$ y $$n\\equiv -11213141\\pmod{18}~?$$",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 130,
+        "lang": "es",
+        "gid": 142
+    },
+    {
+        "question": "Si $f(x)=ax^4-bx^2+x+5$ y $f(-3)=2,$ entonces, \u00bfcu\u00e1l es el valor de $f(3)$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 131,
+        "lang": "es",
+        "gid": 143
+    },
+    {
+        "question": "Rick est\u00e1 pensando en un factor positivo de $14$ y Steve est\u00e1 pensando en un factor positivo de $42$. Si Rick y Steve est\u00e1n pensando en el mismo n\u00famero, \u00bfcu\u00e1ntos n\u00fameros posibles podr\u00edan estar pensando?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 132,
+        "lang": "es",
+        "gid": 144
+    },
+    {
+        "question": "En un cuadril\u00e1tero convexo, la medida del \u00e1ngulo m\u00e1s grande es el doble de la medida del \u00e1ngulo m\u00e1s peque\u00f1o, y los otros dos \u00e1ngulos son ambos \u00e1ngulos rectos. \u00bfCu\u00e1ntos grados hay en el \u00e1ngulo m\u00e1s grande?",
+        "answer": "120",
+        "data_source": "MATH500",
+        "data_source_id": 133,
+        "lang": "es",
+        "gid": 145
+    },
+    {
+        "question": "Haga que $F_1 = (10,2)$ y $F_2 = (-16,2)$. Entonces el conjunto de puntos $P$ tal que \\[|PF_1 - PF_2| = 24\\]forma una hip\u00e9rbola. La ecuaci\u00f3n de esta hip\u00e9rbola puede escribirse como \\[\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\\]Encuentre $h + k + a + b.$",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 134,
+        "lang": "es",
+        "gid": 146
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos ceros hay al final de $42!$ (42 factorial)? (Recordatorio: El n\u00famero $n!$ es el producto de los enteros del 1 al $n$. Por ejemplo, $5! = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 120$.)",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 135,
+        "lang": "es",
+        "gid": 147
+    },
+    {
+        "question": "Haga que $(a_1, a_2, \\dots, a_n)$ sea una secuencia de n\u00fameros reales positivos, tal que \\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]Encuentre la suma de todos los posibles valores de $n.$",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 136,
+        "lang": "es",
+        "gid": 148
+    },
+    {
+        "question": "Encuentra el valor m\u00e1ximo de \\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]donde $-1 \\le x,$ $y \\le 1.$",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 139,
+        "lang": "es",
+        "gid": 149
+    },
+    {
+        "question": "Haga que $n$ sea un entero positivo. \u00bfCu\u00e1l es el mayor valor posible de $\\gcd(n + 7, 2n + 1)$?",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 140,
+        "lang": "es",
+        "gid": 150
+    },
+    {
+        "question": "Zach tiene tres bolsas y un mont\u00f3n de l\u00e1pices para colocar en las bolsas. Le dicen que coloque el mayor n\u00famero posible de l\u00e1pices en cada una de las tres bolsas, manteniendo tambi\u00e9n el mismo n\u00famero de l\u00e1pices en cada bolsa. \u00bfCu\u00e1l es el mayor n\u00famero de l\u00e1pices que podr\u00eda tener sobrantes?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 141,
+        "lang": "es",
+        "gid": 151
+    },
+    {
+        "question": "Un comit\u00e9 del Senado tiene 5 dem\u00f3cratas, 5 republicanos y 1 independiente. \u00bfDe cu\u00e1ntas maneras pueden sentarse alrededor de una mesa circular si todos los miembros de cada partido se sientan juntos? (Dos disposiciones se consideran equivalentes si una es una rotaci\u00f3n de la otra.)",
+        "answer": "28800",
+        "data_source": "MATH500",
+        "data_source_id": 142,
+        "lang": "es",
+        "gid": 152
+    },
+    {
+        "question": "Deja que $z$ sea un n\u00famero complejo tal que \\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\]Encuentra \\[z^{85} + \\frac{1}{z^{85}}.\\]",
+        "answer": "-2",
+        "data_source": "MATH500",
+        "data_source_id": 145,
+        "lang": "es",
+        "gid": 153
+    },
+    {
+        "question": "Sea $x,$ $y,$ and $z$ n\u00fameros reales positivos tales que $xyz = 2.$  Encuentre el valor m\u00ednimo de \\[x^4 + 4y^2 + 4z^4.\\]",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 147,
+        "lang": "es",
+        "gid": 154
+    },
+    {
+        "question": "Resuelve la siguiente ecuaci\u00f3n para $x$: \\[ \\ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 148,
+        "lang": "es",
+        "gid": 155
+    },
+    {
+        "question": "Si la edad de Rosa se divide entre 2, 3, 4 o 6, el residuo es 1. Si su edad se divide entre 7, el residuo es 0. Ella tiene menos de 75 a\u00f1os. \u00bfCu\u00e1ntos a\u00f1os tiene Rosa?",
+        "answer": "49",
+        "data_source": "MATH500",
+        "data_source_id": 149,
+        "lang": "es",
+        "gid": 156
+    },
+    {
+        "question": "Para todo n\u00famero entero positivo $n$, sea $\\text{mod}_5 (n)$ el residuo obtenido al dividir $n$ por 5. Define una funci\u00f3n $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\to \\{0,1,2,3,4\\}$ recursivamente de la siguiente manera:  \\[f(i,j) = \\begin{cases}\\text{mod}_5 (j+1) & \\text{ si } i = 0 \\text{ y } 0 \\le j \\le 4\\text{,}\\\\ f(i-1,1) & \\text{ si } i \\ge 1 \\text{ y } j = 0\\text{, y} \\\\ f(i-1, f(i,j-1)) & \\text{ si } i \\ge 1 \\text{ y } 1 \\le j \\le 4. \\end{cases}\\]  \u00bfCu\u00e1l es $f(2015,2)$?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 150,
+        "lang": "es",
+        "gid": 157
+    },
+    {
+        "question": "Haga que \\(x_1, x_2, x_3, y_1, y_2, y_3\\) sea n\u00fameros reales tales que   \\begin{align*} (x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\ (x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\ (x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25. \\end{align*}   Encuentre \\(\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2\\).",
+        "answer": "144",
+        "data_source": "MATH500",
+        "data_source_id": 151,
+        "lang": "es",
+        "gid": 158
+    },
+    {
+        "question": "Las medianas $AD$, $BE$ y $CF$ del tri\u00e1ngulo $ABC$ se intersectan en el centroide $G$. La l\u00ednea a trav\u00e9s de $G$ que es paralela a $BC$ intersecta $AB$ y $AC$ en $M$ y $N$, respectivamente. Si el \u00e1rea del tri\u00e1ngulo $ABC$ es 144, entonces encuentra el \u00e1rea del tri\u00e1ngulo $ENG$.",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 152,
+        "lang": "es",
+        "gid": 159
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la suma de todos los m\u00faltiplos de 7 entre 100 y 200?",
+        "answer": "2107",
+        "data_source": "MATH500",
+        "data_source_id": 158,
+        "lang": "es",
+        "gid": 160
+    },
+    {
+        "question": "El producto de dos enteros positivos pares consecutivos es 288. \u00bfCu\u00e1l es el mayor de los dos enteros?",
+        "answer": "18",
+        "data_source": "MATH500",
+        "data_source_id": 160,
+        "lang": "es",
+        "gid": 161
+    },
+    {
+        "question": "Eval\u00faa $\\log_2 64$.",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 161,
+        "lang": "es",
+        "gid": 162
+    },
+    {
+        "question": "El volumen de un cono est\u00e1 dado por la f\u00f3rmula $V = \\frac{1}{3}Bh$, donde $B$ es el \u00e1rea de la base y $h$ es la altura. El \u00e1rea de la base de un cono es 30 unidades cuadradas, y su altura es 6.5 unidades. \u00bfCu\u00e1l es la cantidad de unidades c\u00fabicas en su volumen?",
+        "answer": "65",
+        "data_source": "MATH500",
+        "data_source_id": 167,
+        "lang": "es",
+        "gid": 163
+    },
+    {
+        "question": "Hay un total de 70 cuadrados de tres tama\u00f1os diferentes cuyos v\u00e9rtices son puntos en esta rejilla rectangular de puntos de $3\\times n$. \u00bfCu\u00e1l es el valor de $n$?  [asy]  unitsize(0.4 inch);  dot((0,0),linewidth(9bp)); dot((1,0),linewidth(9bp)); dot((2,0),linewidth(9bp)); dot((0,1),linewidth(9bp)); dot((0,2),linewidth(9bp)); dot((1,1),linewidth(9bp)); dot((2,1),linewidth(9bp)); dot((1,2),linewidth(9bp)); dot((2,2),linewidth(9bp));  filldraw((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--cycle,black); filldraw((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--cycle,black); filldraw((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--cycle,black);  filldraw((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--cycle,black); filldraw((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--cycle,black); filldraw((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--cycle,black);  filldraw((2.95,1.95)--(3.05,1.95)--(3.05,2.05)--(2.95,2.05)--cycle,black); filldraw((2.45,1.95)--(2.55,1.95)--(2.55,2.05)--(2.45,2.05)--cycle,black); filldraw((3.45,1.95)--(3.55,1.95)--(3.55,2.05)--(3.45,2.05)--cycle,black);  dot((4,0),linewidth(9bp)); dot((5,0),linewidth(9bp)); dot((4,1),linewidth(9bp)); dot((5,1),linewidth(9bp)); dot((4,2),linewidth(9bp)); dot((5,2),linewidth(9bp));  [/asy]",
+        "answer": "19",
+        "data_source": "MATH500",
+        "data_source_id": 168,
+        "lang": "es",
+        "gid": 164
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el n\u00famero de unidades cuadradas en el \u00e1rea de un tri\u00e1ngulo cuyos lados miden 5, 5 y 6 unidades?",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 169,
+        "lang": "es",
+        "gid": 165
+    },
+    {
+        "question": "Encuentra el producto de las coordenadas $y$ de todas las soluciones distintas $(x,y)$ para las dos ecuaciones $y=x^2-8$ y $y^2=-5x+44$.",
+        "answer": "1736",
+        "data_source": "MATH500",
+        "data_source_id": 170,
+        "lang": "es",
+        "gid": 166
+    },
+    {
+        "question": "Si el cuarto t\u00e9rmino de una progresi\u00f3n aritm\u00e9tica es $200$ y el octavo t\u00e9rmino es $500$, \u00bfcu\u00e1l es el sexto t\u00e9rmino?",
+        "answer": "350",
+        "data_source": "MATH500",
+        "data_source_id": 172,
+        "lang": "es",
+        "gid": 167
+    },
+    {
+        "question": "Considere la serie geom\u00e9trica $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$. Si la suma es un cuadrado perfecto, \u00bfcu\u00e1l es el menor valor posible de $a$ donde $a$ es un n\u00famero entero positivo?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 173,
+        "lang": "es",
+        "gid": 168
+    },
+    {
+        "question": "\u00bfCu\u00e1ntas intersecciones con el eje $y$ tiene la gr\u00e1fica de la par\u00e1bola $x = y^2 - 4y - 1$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 174,
+        "lang": "es",
+        "gid": 169
+    },
+    {
+        "question": "Si $m$ y $n$ son enteros tales que $3m + 4n = 100$, \u00bfcu\u00e1l es el valor m\u00e1s peque\u00f1o posible de $\\left| m - n \\right|$ ?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 175,
+        "lang": "es",
+        "gid": 170
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la ra\u00edz cuadrada positiva del producto $10 \\times 15 \\times 24$?",
+        "answer": "60",
+        "data_source": "MATH500",
+        "data_source_id": 178,
+        "lang": "es",
+        "gid": 171
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos enteros positivos de dos d\u00edgitos son factores tanto de 100 como de 150?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 180,
+        "lang": "es",
+        "gid": 172
+    },
+    {
+        "question": "Dos tercios de los estudiantes de la Escuela Secundaria Baker toman clases de m\u00fasica. Hay 834 estudiantes que toman m\u00fasica. \u00bfCu\u00e1ntos estudiantes hay en la Escuela Secundaria Baker?",
+        "answer": "1251",
+        "data_source": "MATH500",
+        "data_source_id": 182,
+        "lang": "es",
+        "gid": 173
+    },
+    {
+        "question": "Si escribimos $\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ en la forma $\\dfrac{a\\sqrt{2} + b\\sqrt{3}}{c}$ de modo que $a$, $b$ y $c$ sean n\u00fameros enteros positivos y $c$ sea lo m\u00e1s peque\u00f1o posible, \u00bfcu\u00e1l es el valor de $a+b+c$?",
+        "answer": "23",
+        "data_source": "MATH500",
+        "data_source_id": 183,
+        "lang": "es",
+        "gid": 174
+    },
+    {
+        "question": "Encuentra $k$, si ${(3^k)}^6=3^6$.",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 185,
+        "lang": "es",
+        "gid": 175
+    },
+    {
+        "question": "\u00bfPara cu\u00e1ntos n\u00fameros enteros positivos $n>1$ se cumple que $2^{24}$ es una perfecta $n^{\\text{a}}$ potencia?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 186,
+        "lang": "es",
+        "gid": 176
+    },
+    {
+        "question": "Hillary tiene once monedas, todas de diez centavos y cinco centavos. En total, las monedas valen 75 centavos. \u00bfCu\u00e1ntas monedas de cinco centavos tiene?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 187,
+        "lang": "es",
+        "gid": 177
+    },
+    {
+        "question": "Encuentra el valor de $x$ m\u00e1s grande en el que los gr\u00e1ficos de $f(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+3x^3-6x^2+2x+1$ y $g(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ se intersectan, donde $\\lfloor x \\rfloor$ denota la funci\u00f3n parte entera de $x$, y $\\phi(n)$ denota la suma de los enteros positivos $\\leq$ y primos relativos con $n$.",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 188,
+        "lang": "es",
+        "gid": 178
+    },
+    {
+        "question": "Cinco puntos $A$, $B$, $C$, $D$ y $O$ est\u00e1n situados en un campo plano. $A$ est\u00e1 directamente al norte de $O$, $B$ est\u00e1 directamente al oeste de $O$, $C$ est\u00e1 directamente al sur de $O$ y $D$ est\u00e1 directamente al este de $O$. La distancia entre $C$ y $D$ es de 140 m. Un globo aerost\u00e1tico est\u00e1 posicionado en el aire en el punto $H$ directamente encima de $O$. El globo est\u00e1 sujeto en su lugar por cuatro cuerdas $HA$, $HB$, $HC$ y $HD$. La cuerda $HC$ tiene una longitud de 150 m y la cuerda $HD$ tiene una longitud de 130 m. [asy] size(250); pair A, B, C, D, O, H, W, X, Y, Z; O=(0,0); A=(1,1); D=(1.5,-.3); B=(-1.5,.3); C=(-1,-1); H=(0,2.5); W=(5/3)*(A+D); X=(5/3)*(A+B); Y=(-1)*(W); Z=(-1)*(X); draw(W--X--Y--Z--W); draw(A--C); draw(B--D); draw(O--H, linewidth(1)); draw(A--H, dashed); draw(B--H, dashed); draw(C--H, dashed); draw(D--H, dashed); dot(A); dot(B); dot(C); dot(D); dot(O); dot(H); label(\"A\", A, NE); label(\"B\", B, SW); label(\"C\", C, SE); label(\"D\", D, NE); label(\"O\", O, SE); label(\"H\", H, NW); [/asy]  Para reducir la longitud total de cuerda utilizada, la cuerda $HC$ y la cuerda $HD$ deben ser reemplazadas por una \u00fanica cuerda $HP$ donde $P$ es un punto sobre la l\u00ednea recta entre $C$ y $D$. (El globo permanece en la misma posici\u00f3n $H$ por encima de $O$ como se describi\u00f3 anteriormente). Determine la mayor longitud de cuerda que se puede ahorrar.",
+        "answer": "160",
+        "data_source": "MATH500",
+        "data_source_id": 189,
+        "lang": "es",
+        "gid": 179
+    },
+    {
+        "question": "El punto $(a, b)$ est\u00e1 sobre la l\u00ednea con la ecuaci\u00f3n $3x + 2y = 12$. Cuando $a = 4$, \u00bfcu\u00e1l es el valor de $b$?",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 191,
+        "lang": "es",
+        "gid": 180
+    },
+    {
+        "question": "En el $\\triangle PQR$, tenemos que $PQ = QR = 34$ y $PR = 32$. Encuentra la longitud de la mediana $\\overline{QM}$.",
+        "answer": "30",
+        "data_source": "MATH500",
+        "data_source_id": 192,
+        "lang": "es",
+        "gid": 181
+    },
+    {
+        "question": "Un polinomio con coeficientes enteros es de la forma \\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\] Encuentra el n\u00famero de diferentes posibles ra\u00edces racionales de este polinomio.",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 193,
+        "lang": "es",
+        "gid": 182
+    },
+    {
+        "question": "Sea $p(x)$ un polinomio m\u00f3nico de grado 4. Tres de las ra\u00edces de $p(x)$ son 1, 2 y 3. Encuentra $p(0) + p(4).$",
+        "answer": "24",
+        "data_source": "MATH500",
+        "data_source_id": 195,
+        "lang": "es",
+        "gid": 183
+    },
+    {
+        "question": "$441+2(21)(19)+361=x$. Resuelve para $x$.",
+        "answer": "1600",
+        "data_source": "MATH500",
+        "data_source_id": 196,
+        "lang": "es",
+        "gid": 184
+    },
+    {
+        "question": "Si $x^3$ es un factor positivo de $10!,$ \u00bfcu\u00e1ntos valores enteros posibles de $x$ hay?  (Recordatorio: Para un entero positivo $n$, la expresi\u00f3n $n!$ representa el producto de los enteros desde 1 hasta (e incluyendo) $n$.)",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 197,
+        "lang": "es",
+        "gid": 185
+    },
+    {
+        "question": "La media aritm\u00e9tica de 7, 2, $x$ y 10 es 9. \u00bfCu\u00e1l es el valor de $x$?",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 199,
+        "lang": "es",
+        "gid": 186
+    },
+    {
+        "question": "Si 4 daps = 7 yaps, y 5 yaps = 3 baps, \u00bfcu\u00e1ntos daps equivalen a 42 baps?",
+        "answer": "40",
+        "data_source": "MATH500",
+        "data_source_id": 200,
+        "lang": "es",
+        "gid": 187
+    },
+    {
+        "question": "Un grupo de $N$ estudiantes, donde $N < 50$, est\u00e1 de excursi\u00f3n. Si su profesor los divide en grupos de 8, el \u00faltimo grupo tiene 5 estudiantes. Si su profesor en cambio los divide en grupos de 6, el \u00faltimo grupo tiene 3 estudiantes. \u00bfCu\u00e1l es la suma de todos los posibles valores de $N$?",
+        "answer": "66",
+        "data_source": "MATH500",
+        "data_source_id": 201,
+        "lang": "es",
+        "gid": 188
+    },
+    {
+        "question": "Encuentra el resto cuando $(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ se divide por $x + 2$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 203,
+        "lang": "es",
+        "gid": 189
+    },
+    {
+        "question": "Sea $a,$ $b,$ $c,$ $d$ n\u00fameros complejos distintos tales que $|a| = |b| = |c| = |d| = 1$ y $a + b + c + d = 0.$ Encuentra el valor m\u00e1ximo de \\[|(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|.\\]",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 204,
+        "lang": "es",
+        "gid": 190
+    },
+    {
+        "question": "Mikka quiere pedir una pizza con dos ingredientes diferentes. Tiene 8 ingredientes distintos para elegir. \u00bfCu\u00e1ntas pizzas diferentes podr\u00eda pedir?",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 207,
+        "lang": "es",
+        "gid": 191
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos de los primeros cien n\u00fameros enteros positivos son divisibles por $3, 4,$ y $5?$",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 208,
+        "lang": "es",
+        "gid": 192
+    },
+    {
+        "question": "Cuando el n\u00famero entero de dos d\u00edgitos $``\\text{AB}\"$ se eleva al cubo, el valor es $912,\\!673$. \u00bfCu\u00e1l es el valor de $A + B$?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 209,
+        "lang": "es",
+        "gid": 193
+    },
+    {
+        "question": "Doce cuadrados de 1 por 1 forman un rect\u00e1ngulo, como se muestra. \u00bfCu\u00e1l es el \u00e1rea total de la regi\u00f3n sombreada? [asy] size(4cm);defaultpen(linewidth(0.75));  // Partes rellenas fill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75)); fill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));  // cuadr\u00edcula int j; for (j = 0; j < 4; ++j) {draw((j, 0)--(j, 4));} for (j = 0; j < 5; ++j) {draw((0, j)--(3, j));}  //diagonales draw((0, 4)--(3, 0)); draw((0, 4)--(2, 0)); [/asy]",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 210,
+        "lang": "es",
+        "gid": 194
+    },
+    {
+        "question": "Expresa $5^5\\div5^4-5^3+5^2\\cdot5^1$ como un entero.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 211,
+        "lang": "es",
+        "gid": 195
+    },
+    {
+        "question": "Recientemente, Frank tom\u00f3 una prueba de aptitud de cien preguntas donde cada respuesta correcta se puntuaba con $5$ puntos, cada respuesta incorrecta se puntuaba con $-2$ puntos y cada pregunta que no respondi\u00f3 se puntuaba con cero puntos. Frank respondi\u00f3 $80$ preguntas y obtuvo $232$ puntos. \u00bfCu\u00e1ntas preguntas respondi\u00f3 correctamente?",
+        "answer": "56",
+        "data_source": "MATH500",
+        "data_source_id": 212,
+        "lang": "es",
+        "gid": 196
+    },
+    {
+        "question": "Calcula \\[\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\\]donde $F_n$ denota el $n$-\u00e9simo n\u00famero de Fibonacci, as\u00ed que $F_0 = 0$ y $F_1 = 1.$",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 213,
+        "lang": "es",
+        "gid": 197
+    },
+    {
+        "question": "Hay 360 personas en mi escuela. 15 toman c\u00e1lculo, f\u00edsica y qu\u00edmica, y 15 no toman ninguna de ellas. 180 toman c\u00e1lculo. El doble de estudiantes toman qu\u00edmica que f\u00edsica. 75 toman tanto c\u00e1lculo como qu\u00edmica, y 75 toman tanto f\u00edsica como qu\u00edmica. Solo 30 toman tanto f\u00edsica como c\u00e1lculo. \u00bfCu\u00e1ntos estudiantes toman f\u00edsica?",
+        "answer": "110",
+        "data_source": "MATH500",
+        "data_source_id": 214,
+        "lang": "es",
+        "gid": 198
+    },
+    {
+        "question": "Si $x^2 - x - 1 = 0$, \u00bfcu\u00e1l es el valor de $x^3 - 2x + 1$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 215,
+        "lang": "es",
+        "gid": 199
+    },
+    {
+        "question": "En la tierra de Ink, el sistema de dinero es \u00fanico. Un Trinket es igual a 4 Blinkets, y 3 Blinkets son iguales a 7 Drinkets. En Trinkets, \u00bfcu\u00e1l es el valor de 56 Drinkets?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 216,
+        "lang": "es",
+        "gid": 200
+    },
+    {
+        "question": "El producto de los enteros 240 y $k$ es un cubo perfecto. \u00bfCu\u00e1l es el menor valor posible positivo de $k$?",
+        "answer": "900",
+        "data_source": "MATH500",
+        "data_source_id": 221,
+        "lang": "es",
+        "gid": 201
+    },
+    {
+        "question": "El \u00e1rea de $\\triangle ABC$ es 6 cent\u00edmetros cuadrados. $\\overline{AB}\\|\\overline{DE}$. $BD=4BC$. \u00bfCu\u00e1l es el n\u00famero de cent\u00edmetros cuadrados en el \u00e1rea de $\\triangle CDE$? [asy] draw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle); label(\"$A$\",(.1,1),N); label(\"$B$\",(-1,0),W); label(\"$C$\",(0,0),NE); label(\"$D$\",(3,0),E); label(\"$E$\",(-.3,-3),S); [/asy]",
+        "answer": "54",
+        "data_source": "MATH500",
+        "data_source_id": 222,
+        "lang": "es",
+        "gid": 202
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la suma de los d\u00edgitos en la representaci\u00f3n decimal terminante de la fracci\u00f3n $\\frac{4321}{5^7\\cdot2^8}$?",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 223,
+        "lang": "es",
+        "gid": 203
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el valor de $$ (3x-2)(4x+1)-(3x-2)4x+1 $$ cuando $x=4$?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 225,
+        "lang": "es",
+        "gid": 204
+    },
+    {
+        "question": "\u00bfDe cu\u00e1ntas maneras se pueden colocar 5 bolas en 2 cajas si las bolas no son distinguibles y tampoco lo son las cajas?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 226,
+        "lang": "es",
+        "gid": 205
+    },
+    {
+        "question": "Yann y Camille van a un restaurante. Si hay 10 platos en el men\u00fa, y cada uno pide un plato, \u00bfcu\u00e1ntas combinaciones diferentes de comidas pueden pedir Yann y Camille si se niegan a pedir el mismo plato? (S\u00ed importa qui\u00e9n pide qu\u00e9---Yann pidiendo pollo y Camille pidiendo pescado es diferente de Yann pidiendo pescado y Camille pidiendo pollo.)",
+        "answer": "90",
+        "data_source": "MATH500",
+        "data_source_id": 229,
+        "lang": "es",
+        "gid": 206
+    },
+    {
+        "question": "La media de las edades de Amy, Ben y Chris es 6. Hace cuatro a\u00f1os, Chris ten\u00eda la misma edad que Amy tiene ahora. Dentro de cuatro a\u00f1os, la edad de Ben ser\u00e1 $\\frac{3}{5}$ de la edad que Amy tendr\u00e1 en ese momento. \u00bfCu\u00e1ntos a\u00f1os tiene Chris ahora?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 231,
+        "lang": "es",
+        "gid": 207
+    },
+    {
+        "question": "Sea $f$ la funci\u00f3n definida por $f(x) = x^3 - 49x^2 + 623x - 2015,$ y sea $g(x) = f(x + 5).$ Calcula la suma de las ra\u00edces de $g.$",
+        "answer": "34",
+        "data_source": "MATH500",
+        "data_source_id": 234,
+        "lang": "es",
+        "gid": 208
+    },
+    {
+        "question": "Calcula   \\[\\frac{1}{\\coseno^2 10^\\circ} + \\frac{1}{\\seno^2 20^\\circ} + \\frac{1}{\\seno^2 40^\\circ}\\]",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 236,
+        "lang": "es",
+        "gid": 209
+    },
+    {
+        "question": "Si $x$, $y$ y $z$ son positivos con $xy = 24$, $xz = 48$ y $yz = 72$, entonces encuentra $x + y + z.$",
+        "answer": "22",
+        "data_source": "MATH500",
+        "data_source_id": 237,
+        "lang": "es",
+        "gid": 210
+    },
+    {
+        "question": "\u00bfQu\u00e9 valores reales de $x$ no est\u00e1n en el dominio de   $f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+        "answer": "-4",
+        "data_source": "MATH500",
+        "data_source_id": 238,
+        "lang": "es",
+        "gid": 211
+    },
+    {
+        "question": "El paralelogramo delimitado por las l\u00edneas $y=ax+c$, $y=ax+d$, $y=bx+c$ y $y=bx+d$ tiene un \u00e1rea de 18. El paralelogramo delimitado por las l\u00edneas $y=ax+c$, $y=ax-d$, $y=bx+c$ y $y=bx-d$ tiene un \u00e1rea de 72. Dado que $a$, $b$, $c$ y $d$ son enteros positivos, \u00bfcu\u00e1l es el menor valor posible de $a+b+c+d$?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 239,
+        "lang": "es",
+        "gid": 212
+    },
+    {
+        "question": "En el diagrama, $PT$ es paralelo a $QR.$ \u00bfCu\u00e1l es la medida del $\\angle PQR$ en grados?  [asy] draw((0,0)--(10,0),black+linewidth(1)); draw((0,0)--(10,0),MidArrow); draw((10,0)--(20,0),black+linewidth(1)); draw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1)); draw((-5,10)--(7,10),MidArrow); label(\"$x^{\\circ}$\",(-6,10),SE); label(\"$2x^{\\circ}$\",(7,10),SW); label(\"$128^{\\circ}$\",(10,0),NE); label(\"$P$\",(-7,10),N); label(\"$T$\",(7,10),N); label(\"$R$\",(10,0),S); label(\"$Q$\",(0,0),S); [/asy]",
+        "answer": "116",
+        "data_source": "MATH500",
+        "data_source_id": 240,
+        "lang": "es",
+        "gid": 213
+    },
+    {
+        "question": "La menor distancia entre el origen y un punto en el gr\u00e1fico de $y=\\frac{1}{2}x^2-9$ puede expresarse como $a$. Encuentra $a^2$.",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 241,
+        "lang": "es",
+        "gid": 214
+    },
+    {
+        "question": "Un tri\u00e1ngulo tiene lados que miden 1 unidad y 3 unidades. La longitud del tercer lado es un valor entero de unidades. \u00bfCu\u00e1l es la longitud del tercer lado, en unidades?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 243,
+        "lang": "es",
+        "gid": 215
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos lados tendr\u00eda un pol\u00edgono convexo si la suma de todos menos uno de sus \u00e1ngulos interiores es $1070^{\\circ}$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 244,
+        "lang": "es",
+        "gid": 216
+    },
+    {
+        "question": "Doce amigos se encontraron para cenar en la Casa de Ostras Sobrealimentadas de Oscar, y cada uno pidi\u00f3 una comida. Las porciones eran tan grandes, hab\u00eda suficiente comida para 18 personas. Si comparten, \u00bfcu\u00e1ntas comidas deber\u00edan haber pedido para tener justo suficiente comida para los 12 de ellos?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 246,
+        "lang": "es",
+        "gid": 217
+    },
+    {
+        "question": "Encuentra el \u00fanico entero $\\textbf{impar}$ $t$ tal que $0<t<23$ y $t+2$ es el inverso de $t$ m\u00f3dulo $23$.",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 249,
+        "lang": "es",
+        "gid": 218
+    },
+    {
+        "question": "Si $a$ es la intersecci\u00f3n con el eje $x$, $b$ es la intersecci\u00f3n con el eje $y$, y $m$ es la pendiente de la l\u00ednea con la ecuaci\u00f3n $\\frac{x}{4} + \\frac{y}{12} = 1$, \u00bfcu\u00e1l es el valor de $a + b + m$?",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 250,
+        "lang": "es",
+        "gid": 219
+    },
+    {
+        "question": "Seis coches llegan a un sem\u00e1foro en rojo, uno a la vez. En el sem\u00e1foro, hay tres carriles, uno para girar a la izquierda, uno para seguir recto, y uno para girar a la derecha. \u00bfDe cu\u00e1ntas formas pueden los coches hacer cola de manera que los tres carriles est\u00e9n ocupados?  Ten en cuenta que si el primer coche gira a la izquierda y el segundo sigue recto, esto se considera diferente de que el primer coche siga recto y el segundo coche gire a la izquierda. En otras palabras, los coches son distinguibles, pero llegan a la intersecci\u00f3n en un orden fijo.",
+        "answer": "540",
+        "data_source": "MATH500",
+        "data_source_id": 251,
+        "lang": "es",
+        "gid": 220
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el valor m\u00e1ximo de $4(x + 7)(2 - x)$, para todos los n\u00fameros reales $x$?",
+        "answer": "81",
+        "data_source": "MATH500",
+        "data_source_id": 252,
+        "lang": "es",
+        "gid": 221
+    },
+    {
+        "question": "Pat debe seleccionar seis galletas de una bandeja que contiene solamente galletas de chispas de chocolate, avena y mantequilla de man\u00ed. Hay al menos seis de cada uno de estos tres tipos de galletas en la bandeja. \u00bfCu\u00e1ntos surtidos diferentes de seis galletas se pueden seleccionar? (Nota que las galletas del mismo tipo no son distinguibles.)",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 254,
+        "lang": "es",
+        "gid": 222
+    },
+    {
+        "question": "Tengo una bolsa con canicas amarillas y azules. En este momento, la proporci\u00f3n de canicas azules a canicas amarillas es de 4:3. Si agrego 5 canicas azules y retiro 3 canicas amarillas, la proporci\u00f3n ser\u00e1 7:3. \u00bfCu\u00e1ntas canicas azules hab\u00eda en la bolsa antes de que agregara m\u00e1s?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 258,
+        "lang": "es",
+        "gid": 223
+    },
+    {
+        "question": "Calcula el producto del n\u00famero $5+\\sqrt{3}$ y su conjugado radical.",
+        "answer": "22",
+        "data_source": "MATH500",
+        "data_source_id": 259,
+        "lang": "es",
+        "gid": 224
+    },
+    {
+        "question": "Si $10^x - 10 = 9990,$ \u00bfa qu\u00e9 es igual $x$?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 262,
+        "lang": "es",
+        "gid": 225
+    },
+    {
+        "question": "En un pol\u00edgono regular, la medida de un \u00e1ngulo interior es 6.5 veces la medida de un \u00e1ngulo exterior. \u00bfCu\u00e1ntos lados tiene el pol\u00edgono?",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 263,
+        "lang": "es",
+        "gid": 226
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el t\u00e9rmino 2003\u00ba de la secuencia de n\u00fameros impares 1, 3, 5, 7, $\\dots$?",
+        "answer": "4005",
+        "data_source": "MATH500",
+        "data_source_id": 265,
+        "lang": "es",
+        "gid": 227
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el residuo cuando $1 + 2 + 3 + 4 + \\dots + 9 + 10$ se divide entre 9?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 268,
+        "lang": "es",
+        "gid": 228
+    },
+    {
+        "question": "Un prodigio matem\u00e1tico desea colocar 2 de sus medallas de oro indistinguibles de la IMO y 2 de sus medallas de oro indistinguibles de la IPhO en una fila. \u00bfCu\u00e1ntas disposiciones distintas son posibles?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 269,
+        "lang": "es",
+        "gid": 229
+    },
+    {
+        "question": "Una entrada para un espect\u00e1culo cuesta \\$20 a precio completo. Susan compra 4 entradas usando un cup\u00f3n que le da un descuento del 25\\%. Pam compra 5 entradas usando un cup\u00f3n que le da un descuento del 30\\%. \u00bfCu\u00e1ntos d\u00f3lares m\u00e1s paga Pam que Susan?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 270,
+        "lang": "es",
+        "gid": 230
+    },
+    {
+        "question": "Calcula $997^{-1}$ m\u00f3dulo $1000$. Expresa tu respuesta como un entero de $0$ a $999$.",
+        "answer": "333",
+        "data_source": "MATH500",
+        "data_source_id": 271,
+        "lang": "es",
+        "gid": 231
+    },
+    {
+        "question": "Si $0.\\overline{1331}$ se escribe como una fracci\u00f3n $\\frac{a}{b}$ con $a$ y $b$ siendo n\u00fameros enteros positivos con un m\u00e1ximo com\u00fan divisor de 1, \u00bfcu\u00e1l es $a+b$?",
+        "answer": "1030",
+        "data_source": "MATH500",
+        "data_source_id": 272,
+        "lang": "es",
+        "gid": 232
+    },
+    {
+        "question": "En 1992, se pod\u00eda comprar una porci\u00f3n de gelato en Italia por 1200 liras. El mismo gelato habr\u00eda costado $\\$1.50$ en EE. UU. A la tasa de cambio equivalente entre la lira y el d\u00f3lar, \u00bfcu\u00e1ntos d\u00f3lares ser\u00edan equivalentes a 1,000,000 liras?",
+        "answer": "1250",
+        "data_source": "MATH500",
+        "data_source_id": 273,
+        "lang": "es",
+        "gid": 233
+    },
+    {
+        "question": "Sea $f(x) = 2x - 3$ y $g(x) = x + 1$. \u00bfCu\u00e1l es el valor de $g(f(5) - 1)$?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 275,
+        "lang": "es",
+        "gid": 234
+    },
+    {
+        "question": "\u00bfPara cu\u00e1ntos valores reales de $x$ es $\\sqrt{120-\\sqrt{x}}$ un entero?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 276,
+        "lang": "es",
+        "gid": 235
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el mayor entero de ocho d\u00edgitos en base 2? Expresa tu respuesta en base 10.",
+        "answer": "255",
+        "data_source": "MATH500",
+        "data_source_id": 278,
+        "lang": "es",
+        "gid": 236
+    },
+    {
+        "question": "Supongamos que $a$ y $b$ son n\u00fameros primos diferentes mayores que 2. \u00bfCu\u00e1ntos divisores enteros hay para el entero $a(2a+b)-2a^{2}+ab$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 280,
+        "lang": "es",
+        "gid": 237
+    },
+    {
+        "question": "En la secuencia 0, 1, 1, 3, 6, 9, 27, ..., el primer t\u00e9rmino es 0. Los t\u00e9rminos subsiguientes se producen alternando la suma y la multiplicaci\u00f3n por cada entero sucesivo comenzando con 1. Por ejemplo, el segundo t\u00e9rmino se produce sumando 1 al primer t\u00e9rmino; el tercer t\u00e9rmino se produce multiplicando el segundo t\u00e9rmino por 1; el cuarto t\u00e9rmino se produce sumando 2 al tercer t\u00e9rmino; y as\u00ed sucesivamente. \u00bfCu\u00e1l es el valor del primer t\u00e9rmino que es mayor que 125?",
+        "answer": "129",
+        "data_source": "MATH500",
+        "data_source_id": 282,
+        "lang": "es",
+        "gid": 238
+    },
+    {
+        "question": "\u00bfCu\u00e1l es $\\left(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(\\dfrac{8}{37}\\right)^{55}$?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 283,
+        "lang": "es",
+        "gid": 239
+    },
+    {
+        "question": "Steve le dice a Jon, \"Estoy pensando en un polinomio cuyas ra\u00edces son todos enteros positivos. El polinomio tiene la forma $P(x) = 2x^3-2ax^2+(a^2-81)x-c$ para algunos enteros positivos $a$ y $c$. \u00bfPuedes decirme los valores de $a$ y $c$?\"  Despu\u00e9s de algunos c\u00e1lculos, Jon dice, \"Hay m\u00e1s de un polinomio de ese tipo.\"  Steve dice, \"Tienes raz\u00f3n. Aqu\u00ed est\u00e1 el valor de $a$.\" Escribe un n\u00famero entero positivo y pregunta, \"\u00bfPuedes decirme el valor de $c$?\"  Jon dice, \"Todav\u00eda hay dos posibles valores de $c$.\"  Encuentra la suma de los dos posibles valores de $c$.",
+        "answer": "440",
+        "data_source": "MATH500",
+        "data_source_id": 285,
+        "lang": "es",
+        "gid": 240
+    },
+    {
+        "question": "Un engranaje gira $33\\frac{1}{3}$ veces en un minuto. Otro engranaje gira 45 veces en un minuto. Inicialmente, una marca en cada engranaje est\u00e1 apuntando hacia el norte. \u00bfDespu\u00e9s de cu\u00e1ntos segundos los dos engranajes tendr\u00e1n sus marcas apuntando hacia el norte de nuevo?",
+        "answer": "36",
+        "data_source": "MATH500",
+        "data_source_id": 287,
+        "lang": "es",
+        "gid": 241
+    },
+    {
+        "question": "Una l\u00ednea est\u00e1 definida por \\[\\begin{pmatrix} 3 \\\\ -10 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -9 \\\\ -2 \\end{pmatrix}.\\]Otra l\u00ednea est\u00e1 definida por \\[\\begin{pmatrix} -5 \\\\ -3 \\\\ 6 \\end{pmatrix} + u \\begin{pmatrix} 4 \\\\ -18 \\\\ -4 \\end{pmatrix}.\\]Estas dos l\u00edneas son paralelas. Encuentre la distancia entre estas dos l\u00edneas.",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 288,
+        "lang": "es",
+        "gid": 242
+    },
+    {
+        "question": "Sea $a,$ $b,$ $c,$ $d$ n\u00fameros reales positivos. Encuentra el valor m\u00ednimo de \\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 289,
+        "lang": "es",
+        "gid": 243
+    },
+    {
+        "question": "Encuentra el valor de $r$ tal que $$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 290,
+        "lang": "es",
+        "gid": 244
+    },
+    {
+        "question": "Considera la regi\u00f3n rectangular con los siguientes puntos como v\u00e9rtices: $$ (5,4), (-5,4), (-5,-4), (5,-4).$$ \u00bfCu\u00e1ntos puntos con coordenadas enteras estar\u00e1n estrictamente en el interior de esta regi\u00f3n rectangular?",
+        "answer": "63",
+        "data_source": "MATH500",
+        "data_source_id": 291,
+        "lang": "es",
+        "gid": 245
+    },
+    {
+        "question": "Dado que \\begin{align*} x_{1}&=211,\\\\ x_{2}&=375,\\\\ x_{3}&=420,\\\\ x_{4}&=523,\\ \\text{y}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{cuando}\\ n\\geq5, \\end{align*} encuentra el valor de $x_{531}+x_{753}+x_{975}$.",
+        "answer": "898",
+        "data_source": "MATH500",
+        "data_source_id": 292,
+        "lang": "es",
+        "gid": 246
+    },
+    {
+        "question": "Un pal\u00edndromo es un n\u00famero que se lee igual hacia adelante y hacia atr\u00e1s. La suma de un conjunto particular de tres enteros positivos consecutivos es un pal\u00edndromo de tres d\u00edgitos. Si la suma es menor a 220, \u00bfcu\u00e1l es el mayor valor posible para el m\u00e1s grande de los tres enteros en el conjunto?",
+        "answer": "58",
+        "data_source": "MATH500",
+        "data_source_id": 294,
+        "lang": "es",
+        "gid": 247
+    },
+    {
+        "question": "Las soluciones de la ecuaci\u00f3n $z^4+4z^3i-6z^2-4zi-i=0$ son los v\u00e9rtices de un pol\u00edgono convexo en el plano complejo. El \u00e1rea de este pol\u00edgono puede expresarse en la forma $p^{a/b},$ donde $a,$ $b,$ $p$ son enteros positivos, $p$ es primo, y $a$ y $b$ son primos entre s\u00ed. Encuentra $a + b + p.$",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 295,
+        "lang": "es",
+        "gid": 248
+    },
+    {
+        "question": "Se dice que un libro tiene $n$ hojas si est\u00e1 compuesto por $n$ piezas de papel. Por otro lado, el n\u00famero de p\u00e1ginas es el doble del n\u00famero de hojas porque cada lado de una hoja de papel se define como una p\u00e1gina.  Si el n\u00famero de p\u00e1ginas en un libro es $3$ m\u00e1s que un m\u00faltiplo de $7$, y el n\u00famero de hojas es mayor a $100$, entonces, \u00bfcu\u00e1l es el n\u00famero m\u00ednimo posible de hojas?",
+        "answer": "103",
+        "data_source": "MATH500",
+        "data_source_id": 297,
+        "lang": "es",
+        "gid": 249
+    },
+    {
+        "question": "Considere el rect\u00e1ngulo con v\u00e9rtices en $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. \u00bfCu\u00e1ntas coordenadas enteras estar\u00e1n estrictamente dentro de la regi\u00f3n rectangular?",
+        "answer": "63",
+        "data_source": "MATH500",
+        "data_source_id": 299,
+        "lang": "es",
+        "gid": 250
+    },
+    {
+        "question": "Se dibujan cuatro c\u00edrculos distintos en un plano. \u00bfCu\u00e1l es el n\u00famero m\u00e1ximo de puntos donde al menos dos de los c\u00edrculos se intersectan?",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 300,
+        "lang": "es",
+        "gid": 251
+    },
+    {
+        "question": "Al convertir $\\frac{31}{11111}$ a decimal, el decimal resulta ser un decimal peri\u00f3dico. \u00bfCu\u00e1ntos d\u00edgitos se repiten en este decimal peri\u00f3dico?  Por ejemplo, si obtienes el decimal peri\u00f3dico $0.\\overline{123},$ entonces tu respuesta deber\u00eda ser $3,$ y si obtienes $0.436\\overline{7},$ tu respuesta deber\u00eda ser $1.$",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 302,
+        "lang": "es",
+        "gid": 252
+    },
+    {
+        "question": "Supongamos que $ABCD$ es un trapecio en el cual $\\overline{AD}|| \\overline{BC}$. Dado que $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ biseca el \u00e1ngulo $\\angle BAD$, y $[ABCD]=42$, calcula $[\\triangle ACD]$.",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 303,
+        "lang": "es",
+        "gid": 253
+    },
+    {
+        "question": "Encuentra el valor m\u00ednimo de \\[\\frac{(x + 5)(x + 2)}{x + 1}\\]para $x > 0$.",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 304,
+        "lang": "es",
+        "gid": 254
+    },
+    {
+        "question": "Encuentra el n\u00famero de ecuaciones cuadr\u00e1ticas de la forma $x^2 + ax + b = 0,$ tal que siempre que $c$ sea una ra\u00edz de la ecuaci\u00f3n, $c^2 - 2$ tambi\u00e9n sea una ra\u00edz de la ecuaci\u00f3n.",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 306,
+        "lang": "es",
+        "gid": 255
+    },
+    {
+        "question": "El producto de un conjunto de enteros positivos distintos es 84. \u00bfCu\u00e1l es la suma m\u00ednima posible de estos enteros?",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 309,
+        "lang": "es",
+        "gid": 256
+    },
+    {
+        "question": "La operaci\u00f3n @ est\u00e1 definida como $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ para fracciones simplificadas $\\frac{p}{q}$. \u00bfCu\u00e1l es el valor simplificado de $\\frac{7}{30}@\\frac{10}{21}$?",
+        "answer": "49",
+        "data_source": "MATH500",
+        "data_source_id": 310,
+        "lang": "es",
+        "gid": 257
+    },
+    {
+        "question": "Si $$1+12+123+1234+12345+123456+1234567+12345678$$ es congruente con $n$ m\u00f3dulo 9, donde $0\\le n<9$, \u00bfcu\u00e1l es el valor de $n$?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 311,
+        "lang": "es",
+        "gid": 258
+    },
+    {
+        "question": "Enteros positivos $a$, $b$ y $2009$, con $a<b<2009$, forman una secuencia geom\u00e9trica con una raz\u00f3n entera. \u00bfCu\u00e1l es el valor de $a$?",
+        "answer": "41",
+        "data_source": "MATH500",
+        "data_source_id": 315,
+        "lang": "es",
+        "gid": 259
+    },
+    {
+        "question": "La expresi\u00f3n $10x^2-x-24$ puede escribirse como $(Ax-8)(Bx+3),$ donde $A$ y $B$ son enteros. \u00bfCu\u00e1l es el valor de $AB + B$?",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 316,
+        "lang": "es",
+        "gid": 260
+    },
+    {
+        "question": "Dejen que $a,$ $b,$ y $c$ sean n\u00fameros reales distintos. Encuentren el grado del polinomio \\[p(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\\]",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 317,
+        "lang": "es",
+        "gid": 261
+    },
+    {
+        "question": "En la ecuaci\u00f3n $|x-4| -10 = 2$, \u00bfcu\u00e1l es el producto de todos los posibles valores de $x$?",
+        "answer": "-128",
+        "data_source": "MATH500",
+        "data_source_id": 319,
+        "lang": "es",
+        "gid": 262
+    },
+    {
+        "question": "Un robot que se mueve hacia adelante a una velocidad constante tarda 2.5 horas en recorrer 1 kil\u00f3metro. Avanzando a esta misma velocidad constante, le toma al robot 90 segundos recorrer la longitud de un pasillo en particular. \u00bfCu\u00e1ntos metros mide el pasillo?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 321,
+        "lang": "es",
+        "gid": 263
+    },
+    {
+        "question": "Sea $f(x) = x - 3$ y $q(x) = bx +1$. Si $f(q(1)) = -3$, \u00bfcu\u00e1l es el valor de $b$?",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 322,
+        "lang": "es",
+        "gid": 264
+    },
+    {
+        "question": "En el diagrama, dos c\u00edrculos, cada uno con centro en $D$, tienen radios de $1$ y $2$. El \u00e1rea total de la regi\u00f3n sombreada es $\\frac5{12}$ del \u00e1rea del c\u00edrculo m\u00e1s grande. \u00bfCu\u00e1ntos grados tiene la medida del (menor) $\\angle ADC$? [asy] size(4cm); defaultpen(linewidth(0.75)); real adc = 100; pair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0); path inner = arc(d, a/2, c/2, CW);  path outer = arc(d, c, a, CCW); guide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle; guide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle; fill(region1, gray(0.75)); fill(region2, gray(0.75)); draw(unitcircle); draw(scale(2) * unitcircle); draw(a--d--c); label(\"$A$\", a, N); label(\"$C$\", c, E); label(\"$D$\", d, NE); [/asy]",
+        "answer": "120",
+        "data_source": "MATH500",
+        "data_source_id": 324,
+        "lang": "es",
+        "gid": 265
+    },
+    {
+        "question": "Un recipiente cil\u00edndrico tiene una altura de 8 cm y un radio de 3 cm. \u00bfCu\u00e1ntos de estos recipientes cil\u00edndricos llenos de agua se necesitar\u00e1n para llenar un tanque esf\u00e9rico de radio 6 cm?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 325,
+        "lang": "es",
+        "gid": 266
+    },
+    {
+        "question": "Haga que $P(x)$ sea un polinomio m\u00f3nico de grado 3. Supongamos que $P(x)$ tiene resto $R(x)$ cuando se divide por $(x - 1)(x - 4),$ y resto $2R(x)$ cuando se divide por $(x - 2)(x - 3).$ Dado que $P(0) = 5,$ encuentra $P(5).$",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 327,
+        "lang": "es",
+        "gid": 267
+    },
+    {
+        "question": "Sea $f(x)=\\left\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ una funci\u00f3n que est\u00e1 definida para todos los valores de $x$ en $[0,\\infty)$ de tal manera que $f(x)$ es un n\u00famero real. \u00bfCu\u00e1ntos valores distintos existen en el rango de $f(x)$?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 328,
+        "lang": "es",
+        "gid": 268
+    },
+    {
+        "question": "Una bicicleta se desplaza a 20 pies por minuto. \u00bfCu\u00e1l es la velocidad de la bicicleta expresada en pulgadas por segundo?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 329,
+        "lang": "es",
+        "gid": 269
+    },
+    {
+        "question": "Un comit\u00e9 del Senado tiene 8 republicanos y 6 dem\u00f3cratas. \u00bfDe cu\u00e1ntas maneras podemos formar un subcomit\u00e9 de 5 miembros que tenga al menos un miembro de cada partido?",
+        "answer": "1940",
+        "data_source": "MATH500",
+        "data_source_id": 330,
+        "lang": "es",
+        "gid": 270
+    },
+    {
+        "question": "Haga que $x,$ $y,$ $z$ sean n\u00fameros reales positivos tales que $xyz(x + y + z) = 1$. Encuentra el valor m\u00ednimo de \\[(x + y)(y + z).\\]",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 332,
+        "lang": "es",
+        "gid": 271
+    },
+    {
+        "question": "Si \\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]donde $a,$ $b,$ $c,$ $d$ son enteros positivos, calcula $b.$",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 333,
+        "lang": "es",
+        "gid": 272
+    },
+    {
+        "question": "Si $a+b=8$, $b+c=-3$, y $a+c= -5$, \u00bfcu\u00e1l es el valor del producto $abc$?",
+        "answer": "-120",
+        "data_source": "MATH500",
+        "data_source_id": 334,
+        "lang": "es",
+        "gid": 273
+    },
+    {
+        "question": "La secuencia de Fibonacci es la secuencia 1, 1, 2, 3, 5, $\\ldots$ donde cada t\u00e9rmino es la suma de los dos t\u00e9rminos anteriores. \u00bfCu\u00e1l es el residuo cuando el t\u00e9rmino $100^{\\mathrm{vo}}$ de la secuencia se divide entre 4?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 335,
+        "lang": "es",
+        "gid": 274
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el valor de $513^2 - 487^2$?",
+        "answer": "26000",
+        "data_source": "MATH500",
+        "data_source_id": 336,
+        "lang": "es",
+        "gid": 275
+    },
+    {
+        "question": "El producto de tres enteros consecutivos es 120. Ese producto dividido por la media de los tres enteros es 24. \u00bfCu\u00e1l es el mayor de los tres enteros consecutivos?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 337,
+        "lang": "es",
+        "gid": 276
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el n\u00famero m\u00e1s peque\u00f1o que es uno menos que el doble de su rec\u00edproco?",
+        "answer": "-2",
+        "data_source": "MATH500",
+        "data_source_id": 341,
+        "lang": "es",
+        "gid": 277
+    },
+    {
+        "question": "\u00bfQu\u00e9 n\u00famero entero $x$ satisface $\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 342,
+        "lang": "es",
+        "gid": 278
+    },
+    {
+        "question": "Haga que \\[f(n) = \\begin{cases} 4n+3 &\\text{si }n<a, \\\\ 7n-12 &\\text{si }n\\ge{a}. \\end{cases} \\]Encuentra $a$ si la gr\u00e1fica de $y=f(n)$ es continua.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 344,
+        "lang": "es",
+        "gid": 279
+    },
+    {
+        "question": "Si $t(x) = 3-g(x)$ y $g(x) = \\sqrt{x}$, entonces \u00bfcu\u00e1l es $t(g(16))$?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 345,
+        "lang": "es",
+        "gid": 280
+    },
+    {
+        "question": "Resuelve para el valor positivo de $x$ tal que $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+        "answer": "66",
+        "data_source": "MATH500",
+        "data_source_id": 346,
+        "lang": "es",
+        "gid": 281
+    },
+    {
+        "question": "Calcule $\\dbinom{31}{28}$.",
+        "answer": "4495",
+        "data_source": "MATH500",
+        "data_source_id": 348,
+        "lang": "es",
+        "gid": 282
+    },
+    {
+        "question": "\u00bfDe cu\u00e1ntas maneras pueden sentarse 8 personas alrededor de una mesa cuadrada con 2 personas por lado? (Se consideran equivalentes dos configuraciones si una es una rotaci\u00f3n de la otra).",
+        "answer": "10080",
+        "data_source": "MATH500",
+        "data_source_id": 349,
+        "lang": "es",
+        "gid": 283
+    },
+    {
+        "question": "Encuentra el d\u00edgito de las unidades de $18^6.$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 350,
+        "lang": "es",
+        "gid": 284
+    },
+    {
+        "question": "Suponga que tengo $6$ libros diferentes, $2$ de los cuales son libros de matem\u00e1ticas. \u00bfDe cu\u00e1ntas maneras puedo apilar mis $6$ libros en un estante si no quiero que los libros de matem\u00e1ticas est\u00e9n uno al lado del otro?",
+        "answer": "480",
+        "data_source": "MATH500",
+        "data_source_id": 353,
+        "lang": "es",
+        "gid": 285
+    },
+    {
+        "question": "La suma de 27 enteros positivos consecutivos es $3^7$. \u00bfCu\u00e1l es su mediana?",
+        "answer": "81",
+        "data_source": "MATH500",
+        "data_source_id": 354,
+        "lang": "es",
+        "gid": 286
+    },
+    {
+        "question": "Sea $a,$ $b,$ y $c$ n\u00fameros reales positivos. Encuentra el valor m\u00ednimo de \\[\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\\]",
+        "answer": "100",
+        "data_source": "MATH500",
+        "data_source_id": 355,
+        "lang": "es",
+        "gid": 287
+    },
+    {
+        "question": "Tengo una baraja de $54$ cartas, y reparto todas las cartas a $x$ jugadores, con cada jugador recibiendo $y$ cartas. Si $x$ es al menos $2$ y $y$ es al menos $5$, entonces, \u00bfcu\u00e1ntos valores posibles hay para $x$?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 357,
+        "lang": "es",
+        "gid": 288
+    },
+    {
+        "question": "Supongamos que $x,$ $y,$ y $z$ satisfacen las ecuaciones \\begin{align*} xyz &= 4, \\\\ x^3 + y^3 + z^3 &= 4, \\\\ xy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12. \\end{align*}Calcula el valor de $xy + yz + zx.$",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 359,
+        "lang": "es",
+        "gid": 289
+    },
+    {
+        "question": "Tres m\u00e1s el rec\u00edproco de un n\u00famero es igual a 7 dividido por ese n\u00famero. \u00bfCu\u00e1l es el n\u00famero?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 363,
+        "lang": "es",
+        "gid": 290
+    },
+    {
+        "question": "Si $a$ y $b$ son enteros positivos tales que $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$, y $a<b$, \u00bfcu\u00e1ntos valores posibles hay para $a$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 365,
+        "lang": "es",
+        "gid": 291
+    },
+    {
+        "question": "Encuentra el residuo m\u00f3dulo $7$ de la suma $1+3+5+7+9+\\dots+195+197+199.$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 366,
+        "lang": "es",
+        "gid": 292
+    },
+    {
+        "question": "Supongamos que $f$ es una funci\u00f3n y $f^{-1}$ es la inversa de $f$. Si $f(1)=2$, $f(2) = 6$, y $f(3)=5$, entonces \u00bfcu\u00e1l es $f^{-1}(f^{-1}(6))$?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 367,
+        "lang": "es",
+        "gid": 293
+    },
+    {
+        "question": "Dos lados de un tri\u00e1ngulo miden cada uno $8$ unidades. Si el tercer lado tiene una longitud de n\u00famero entero, \u00bfcu\u00e1l es el mayor per\u00edmetro posible, en unidades, para el tri\u00e1ngulo?",
+        "answer": "31",
+        "data_source": "MATH500",
+        "data_source_id": 368,
+        "lang": "es",
+        "gid": 294
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el n\u00famero de cent\u00edmetros cuadrados en el \u00e1rea de este trapecio?  [asy] defaultpen(linewidth(0.7)); draw((0,0)--(27,0)--(15,9)--(0,9)--cycle); label(\"5 cm\",(21,4.5),NE); label(\"5 cm\",(7.5,9),N); label(\"3 cm\",(0,4.5),W); label(\"9 cm\",(13.5,0),S); draw(rightanglemark((0,9),(0,0),(27,0),35)); draw(rightanglemark((0,0),(0,9),(15,9),35)); [/asy]",
+        "answer": "21",
+        "data_source": "MATH500",
+        "data_source_id": 369,
+        "lang": "es",
+        "gid": 295
+    },
+    {
+        "question": "Encuentra el producto escalar de $\\begin{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ y $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}$.",
+        "answer": "-41",
+        "data_source": "MATH500",
+        "data_source_id": 370,
+        "lang": "es",
+        "gid": 296
+    },
+    {
+        "question": "Sea $a,$ $b,$ $c$ n\u00fameros reales tales que \\[|ax^2 + bx + c| \\le 1\\] para todo $0 \\le x \\le 1.$ Encuentra el valor m\u00e1ximo posible de $|a| + |b| + |c|.$",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 371,
+        "lang": "es",
+        "gid": 297
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la diferencia entre la ra\u00edz cuadrada positiva de 64 y la ra\u00edz c\u00fabica de 64?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 374,
+        "lang": "es",
+        "gid": 298
+    },
+    {
+        "question": "Si $A$ es la suma de los divisores positivos de $500$, \u00bfcu\u00e1l es la suma de los divisores primos distintos de $A$?",
+        "answer": "25",
+        "data_source": "MATH500",
+        "data_source_id": 375,
+        "lang": "es",
+        "gid": 299
+    },
+    {
+        "question": "El superfactorial $n\\$$ se define como $n\\$ = \\underbrace{ n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$. \u00bfCu\u00e1l es el d\u00edgito de las unidades de $4\\$$?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 377,
+        "lang": "es",
+        "gid": 300
+    },
+    {
+        "question": "\u00bfPara cu\u00e1ntos n\u00fameros primos de dos d\u00edgitos la suma de los d\u00edgitos es igual a 8?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 378,
+        "lang": "es",
+        "gid": 301
+    },
+    {
+        "question": "Los datos en la tabla a continuaci\u00f3n muestran el porcentaje de estudiantes que utilizan el autob\u00fas en una encuesta de la Secundaria Central; se encuest\u00f3 a 300 hombres y 300 mujeres en cada grado. \u00bfPara qu\u00e9 grado es el n\u00famero de sus estudiantes varones que utilizan el autob\u00fas m\u00e1s cercano al $135\\%$ del n\u00famero de sus estudiantes mujeres que utilizan el autob\u00fas? \\begin{tabular}{|l|c|c|}\\hline Grado & Varones & Mujeres \\\\ \\hline $9^{\\mathrm{no}}$ grado & $41.1\\%$ & $39.4\\%$ \\\\ \\hline $10^{\\mathrm{mo}}$ grado & $34.4\\%$ & $33.1\\%$ \\\\ \\hline $11^{\\mathrm{ro}}$ grado & $20.6\\%$ & $13.8\\%$ \\\\ \\hline $12^{\\mathrm{to}}$ grado & $11.6\\%$ & $8.6\\%$ \\\\ \\hline \\end{tabular}",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 379,
+        "lang": "es",
+        "gid": 302
+    },
+    {
+        "question": "Kathy necesita dinero para su viaje a Europa. Si tiene 300 d\u00f3lares estadounidenses en el banco, pero quiere retirar la mitad en libras esterlinas y la mitad en euros, \u00bfcu\u00e1ntos euros m\u00e1s que libras tendr\u00e1? Suponga que 1 libra = 1.64 USD y 1 euro = 1.32 USD, y redondee al n\u00famero entero m\u00e1s cercano.",
+        "answer": "22",
+        "data_source": "MATH500",
+        "data_source_id": 385,
+        "lang": "es",
+        "gid": 303
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos enteros hay en el conjunto soluci\u00f3n de $|x-2|\\leq 5.6$?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 386,
+        "lang": "es",
+        "gid": 304
+    },
+    {
+        "question": "Si $f(x)=5x^2+3x+4$, \u00bfcu\u00e1l es el valor de $f(-2)$?",
+        "answer": "18",
+        "data_source": "MATH500",
+        "data_source_id": 387,
+        "lang": "es",
+        "gid": 305
+    },
+    {
+        "question": "La menor distancia entre el origen y un punto en la gr\u00e1fica de $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ se puede expresar como $\\sqrt{a}/b$, donde $a$ y $b$ son enteros positivos tales que $a$ no es divisible por el cuadrado de ning\u00fan entero mayor que uno. Encuentra $a+b$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 390,
+        "lang": "es",
+        "gid": 306
+    },
+    {
+        "question": "Haga que $f$ sea definido por \\[f(x) = \\left\\{ \\begin{array}{cl} 3-x & \\text{ si } x \\leq 3, \\\\ -x^3+2x^2+3x & \\text{ si } x>3. \\end{array} \\right.\\] Calcula $f^{-1}(0)+f^{-1}(6)$.",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 391,
+        "lang": "es",
+        "gid": 307
+    },
+    {
+        "question": "Si $a = 8$, \u00bfcu\u00e1l es el valor de $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 395,
+        "lang": "es",
+        "gid": 308
+    },
+    {
+        "question": "El cuadril\u00e1tero $ABCD$ es un cuadrado con un \u00e1rea de 16 pulgadas cuadradas. La figura representa las piezas de un tangram chino en el que todos los tri\u00e1ngulos son is\u00f3sceles y la pieza \"e\" es un cuadrado. \u00bfCu\u00e1l es el \u00e1rea de la pieza gris, en pulgadas cuadradas?  [asy] fill((2,0)--(4,2)--(4,0)--cycle,gray(.7)); draw((0,0)--(0,4)--(4,4)--(4,0)--cycle,linewidth(1)); draw((0,0)--(4,4),linewidth(1)); draw((1,1)--(2,0)--(4,2),linewidth(1)); draw((0,4)--(3,1)--(3,3),linewidth(1)); label(\"$A$\",(0,4),W); label(\"$B$\",(4,4),E); label(\"$C$\",(4,0),E); label(\"$D$\",(0,0),W); label(\"e\",(2,1));  [/asy]",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 396,
+        "lang": "es",
+        "gid": 309
+    },
+    {
+        "question": "Si $3x + 2(1 + x) = 17$, \u00bfcu\u00e1l es el valor de $6x + 5$?",
+        "answer": "23",
+        "data_source": "MATH500",
+        "data_source_id": 397,
+        "lang": "es",
+        "gid": 310
+    },
+    {
+        "question": "\u00bfCu\u00e1ntos d\u00edgitos iguales se encuentran en las representaciones en base 7 y base 8 de $629_{10}$? Por ejemplo, $121_{3}$ y $413_{5}$ tendr\u00edan un d\u00edgito en com\u00fan.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 403,
+        "lang": "es",
+        "gid": 311
+    },
+    {
+        "question": "Roslyn tiene diez cajas. Cinco de las cajas contienen l\u00e1pices, cuatro de las cajas contienen bol\u00edgrafos, y dos de las cajas contienen tanto bol\u00edgrafos como l\u00e1pices. \u00bfCu\u00e1ntas cajas no contienen ni bol\u00edgrafos ni l\u00e1pices?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 404,
+        "lang": "es",
+        "gid": 312
+    },
+    {
+        "question": "Si nadie comparte una oficina, \u00bfde cu\u00e1ntas maneras pueden asignarse 3 personas a 5 oficinas diferentes? (Cada persona obtiene exactamente una oficina).",
+        "answer": "60",
+        "data_source": "MATH500",
+        "data_source_id": 405,
+        "lang": "es",
+        "gid": 313
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el residuo de dividir 2004 entre 12?",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 406,
+        "lang": "es",
+        "gid": 314
+    },
+    {
+        "question": "Si $f(x)=\\dfrac{2}{x+1}$, entonces \u00bfcu\u00e1l es el valor de $f^{-1}\\left(\\frac{1}{5}\\right)$?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 407,
+        "lang": "es",
+        "gid": 315
+    },
+    {
+        "question": "Haga que $N$ sea el d\u00edgito de las unidades del n\u00famero $21420N$. \u00bfQu\u00e9 valor distinto de cero de $N$ hace que este n\u00famero sea divisible por $6$?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 410,
+        "lang": "es",
+        "gid": 316
+    },
+    {
+        "question": "Seis brujas y diez hechiceros est\u00e1n en una reuni\u00f3n arcana. Las brujas han decidido dar la mano a cada uno de los hechiceros. Ninguna de las brujas se molest\u00f3 en darse la mano entre ellas, ya que son todas buenas amigas, y los hechiceros se odian entre s\u00ed y no se dieron la mano. \u00bfCu\u00e1ntos apretones de mano ocurrieron en la reuni\u00f3n?",
+        "answer": "60",
+        "data_source": "MATH500",
+        "data_source_id": 411,
+        "lang": "es",
+        "gid": 317
+    },
+    {
+        "question": "Haga que $P(x)$ sea un polinomio cuadr\u00e1tico con coeficientes reales que satisface $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ para todos los n\u00fameros reales $x$, y suponga que $P(11) = 181$. Encuentre $P(16)$.",
+        "answer": "406",
+        "data_source": "MATH500",
+        "data_source_id": 412,
+        "lang": "es",
+        "gid": 318
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la suma de los valores de $a$ que satisfacen la ecuaci\u00f3n $$(3)5^2-4(5-a)^2 \\div 3=63?$$",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 414,
+        "lang": "es",
+        "gid": 319
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el residuo cuando $129^{34}+96^{38}$ se divide por $11$?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 415,
+        "lang": "es",
+        "gid": 320
+    },
+    {
+        "question": "Haga que $f(x)$ sea el polinomio \\[f(x)=3x^4+5x^2-9x-2.\\] Si $g(x)$ es igual al polinomio $f(x-1)$, \u00bfcu\u00e1l es la suma de los coeficientes de $g$?",
+        "answer": "-2",
+        "data_source": "MATH500",
+        "data_source_id": 417,
+        "lang": "es",
+        "gid": 321
+    },
+    {
+        "question": "Si $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi,$ entonces $x$ satisface un polinomio c\u00fabico de la forma \\[ax^3 + bx^2 + cx + d = 0,\\]donde $a,$ $b,$ $c,$ y $d$ son enteros, y $a \\neq 0.$ Encuentra el valor m\u00e1s peque\u00f1o posible de $|a| + |b| + |c| + |d|.$",
+        "answer": "27",
+        "data_source": "MATH500",
+        "data_source_id": 421,
+        "lang": "es",
+        "gid": 322
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el entero m\u00e1s grande menor que $2010$ que tiene un residuo de $5$ cuando se divide por $7,$ un residuo de $10$ cuando se divide por $11,$ y un residuo de $10$ cuando se divide por $13$?",
+        "answer": "1440",
+        "data_source": "MATH500",
+        "data_source_id": 423,
+        "lang": "es",
+        "gid": 323
+    },
+    {
+        "question": "El valor de $y$ var\u00eda inversamente como $\\sqrt x$ y cuando $x=24$, $y=15$. \u00bfCu\u00e1l es $x$ cuando $y=3$?",
+        "answer": "600",
+        "data_source": "MATH500",
+        "data_source_id": 424,
+        "lang": "es",
+        "gid": 324
+    },
+    {
+        "question": "Tres l\u00e1pices y una goma de borrar jumbo cuestan $\\$1.24$. Cinco l\u00e1pices y una goma de borrar jumbo cuestan $\\$1.82$. Ning\u00fan precio incluye impuestos. En centavos, \u00bfcu\u00e1l es el costo de un l\u00e1piz?",
+        "answer": "29",
+        "data_source": "MATH500",
+        "data_source_id": 427,
+        "lang": "es",
+        "gid": 325
+    },
+    {
+        "question": "Haga que $a,$ $b,$ $c,$ $d$ sean n\u00fameros reales positivos tales que $a + b + c + d = 1.$ Encuentre el valor m\u00ednimo de \\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}.\\]",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 428,
+        "lang": "es",
+        "gid": 326
+    },
+    {
+        "question": "Haga que $a$ y $b$ sean n\u00fameros reales positivos tales que $ab^2 = 5.$ Encuentra el valor m\u00ednimo de $a^4 + b^8.$",
+        "answer": "50",
+        "data_source": "MATH500",
+        "data_source_id": 429,
+        "lang": "es",
+        "gid": 327
+    },
+    {
+        "question": "Si \\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\] para $n \\ge 1,$ y $f(1) = f(1986),$ calcule \\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]",
+        "answer": "331",
+        "data_source": "MATH500",
+        "data_source_id": 432,
+        "lang": "es",
+        "gid": 328
+    },
+    {
+        "question": "En un cierto tri\u00e1ngulo rect\u00e1ngulo is\u00f3sceles, la altura a la hipotenusa tiene una longitud de $4\\sqrt{2}$. \u00bfCu\u00e1l es el \u00e1rea del tri\u00e1ngulo?",
+        "answer": "32",
+        "data_source": "MATH500",
+        "data_source_id": 434,
+        "lang": "es",
+        "gid": 329
+    },
+    {
+        "question": "Se lanzan simult\u00e1neamente $n$ dados justos de 6 caras. La probabilidad de que exactamente dos de ellos muestren un n\u00famero distinto de 1 es $\\frac{25}{216}$. Encuentra $n$.",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 436,
+        "lang": "es",
+        "gid": 330
+    },
+    {
+        "question": "Los s\u00edmbolos $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ representan cuatro enteros diferentes del 1 al 9. Usando las ecuaciones a continuaci\u00f3n, \u00bfcu\u00e1l es el valor de $\\square$? \\begin{align*} \\triangle + \\square &= \\clubsuit \\\\ \\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\ \\triangle + \\triangle &= \\clubsuit + \\diamond. \\end{align*}",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 437,
+        "lang": "es",
+        "gid": 331
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el \u00faltimo d\u00edgito distinto de cero a la derecha del punto decimal en la expansi\u00f3n decimal de $\\frac{137}{500}$?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 438,
+        "lang": "es",
+        "gid": 332
+    },
+    {
+        "question": "Simplifica $(u+4)(u-1) - (u-3)(u+6)$.",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 440,
+        "lang": "es",
+        "gid": 333
+    },
+    {
+        "question": "Karla condujo su veh\u00edculo 12,000 millas el a\u00f1o pasado. \u00bfCu\u00e1ntos galones de gasolina habr\u00eda ahorrado el a\u00f1o pasado si hubiese conducido un coche h\u00edbrido eficiente que promedia 48 millas por gal\u00f3n en lugar de un SUV que promedia 15 millas por gal\u00f3n?",
+        "answer": "550",
+        "data_source": "MATH500",
+        "data_source_id": 441,
+        "lang": "es",
+        "gid": 334
+    },
+    {
+        "question": "Sea $f(x) = 2^x$. Encuentre $\\sqrt{f(f(f(f(1))))}$.",
+        "answer": "256",
+        "data_source": "MATH500",
+        "data_source_id": 442,
+        "lang": "es",
+        "gid": 335
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el valor entero de $x$ en la sucesi\u00f3n aritm\u00e9tica $3^2, x, 3^4$?",
+        "answer": "45",
+        "data_source": "MATH500",
+        "data_source_id": 443,
+        "lang": "es",
+        "gid": 336
+    },
+    {
+        "question": "El c\u00edrculo $x^2 + y^2 = 2$ y la par\u00e1bola $y^2 = 8x$ tienen dos tangentes comunes, formando cuatro puntos de tangencia. Encuentra el \u00e1rea del cuadril\u00e1tero formado por los cuatro puntos de tangencia.  [asy] unitsize(0.8 cm);  real upperparab (real x) {   return (sqrt(8*x)); }  real lowerparab (real x) {   return (-sqrt(8*x)); }  pair A, B, C, D;  A = (-1,1); B = (2,4); C = (-1,-1); D = (2,-4);  draw(graph(upperparab,0,3)); draw(graph(lowerparab,0,3)); draw(Circle((0,0),sqrt(2))); draw(interp(A,B,-0.2)--interp(A,B,1.2)); draw(interp(C,D,-0.2)--interp(C,D,1.2)); draw(A--C); draw(B--D);  dot(A); dot(B); dot(C); dot(D); [/asy]",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 445,
+        "lang": "es",
+        "gid": 337
+    },
+    {
+        "question": "La suma de los primeros $n$ t\u00e9rminos en la secuencia geom\u00e9trica infinita $\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$ es $\\frac{255}{512}$. Encuentra $n$.",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 446,
+        "lang": "es",
+        "gid": 338
+    },
+    {
+        "question": "Treinta y cinco estudiantes asisten a una reuni\u00f3n de un club de matem\u00e1ticas. El n\u00famero de chicas en la reuni\u00f3n es un m\u00faltiplo de 13 y hay m\u00e1s chicas que chicos asistiendo a la reuni\u00f3n. \u00bfCu\u00e1ntos chicos hay en la reuni\u00f3n?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 447,
+        "lang": "es",
+        "gid": 339
+    },
+    {
+        "question": "Calcula $17^{-1}\\pmod{83}$. Expresa tu respuesta como un residuo desde $0$ hasta $82$, inclusive.  (Puede ser \u00fatil considerar el hecho de que $17\\cdot 5=85$.)",
+        "answer": "44",
+        "data_source": "MATH500",
+        "data_source_id": 448,
+        "lang": "es",
+        "gid": 340
+    },
+    {
+        "question": "Si $a\\star b = 9a+2b-ab+5$, \u00bfcu\u00e1l es el valor de $5\\star1$?",
+        "answer": "47",
+        "data_source": "MATH500",
+        "data_source_id": 449,
+        "lang": "es",
+        "gid": 341
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el promedio de las dos soluciones enteras positivas m\u00e1s peque\u00f1as a la congruencia $$14u \\equiv 46 \\pmod{100}~?$$",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 450,
+        "lang": "es",
+        "gid": 342
+    },
+    {
+        "question": "La suma de los d\u00edgitos de un n\u00famero de dos d\u00edgitos es $13.$ La diferencia entre el n\u00famero y el n\u00famero con sus d\u00edgitos invertidos es $27.$ \u00bfCu\u00e1l es la suma del n\u00famero original y el n\u00famero con sus d\u00edgitos invertidos?",
+        "answer": "143",
+        "data_source": "MATH500",
+        "data_source_id": 452,
+        "lang": "es",
+        "gid": 343
+    },
+    {
+        "question": "Los grados 7\u00ba y 8\u00ba tienen matr\u00edculas de 520 y 650 respectivamente. Los dos grados tienen un total de 18 representantes en el Consejo Estudiantil. \u00bfCu\u00e1ntos representantes deber\u00eda tener el 8\u00ba grado si se desea una representaci\u00f3n justa de los dos grados?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 453,
+        "lang": "es",
+        "gid": 344
+    },
+    {
+        "question": "\u00bfDe cu\u00e1ntas maneras pueden seleccionarse 5 estudiantes de un grupo de 6 estudiantes?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 455,
+        "lang": "es",
+        "gid": 345
+    },
+    {
+        "question": "Determina el residuo de 54 m\u00f3dulo 6.",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 457,
+        "lang": "es",
+        "gid": 346
+    },
+    {
+        "question": "Cada semana, entre 30 y 50 estudiantes acuden a una clase de tiro con arco dirigida por Betty y Wilma. Usualmente, los estudiantes se dividen en grupos de igual tama\u00f1o para la pr\u00e1ctica de tiro. Sin embargo, esta semana, Betty not\u00f3 que no pod\u00eda dividir a los estudiantes en varios grupos de igual tama\u00f1o. Wilma observ\u00f3 que si ella y Betty se un\u00edan a los estudiantes en la pr\u00e1ctica, a\u00fan no pod\u00edan dividir a los arqueros en grupos de igual tama\u00f1o. \u00bfCu\u00e1ntos estudiantes acudieron a la clase de tiro con arco esta semana?",
+        "answer": "41",
+        "data_source": "MATH500",
+        "data_source_id": 458,
+        "lang": "es",
+        "gid": 347
+    },
+    {
+        "question": "Sea \\[f(n) = \\left\\{ \\begin{array}{cl} \\lfloor n \\rfloor & \\text{ si } n \\geq 4, \\\\ \\lceil n \\rceil & \\text{ si } n < 4. \\end{array} \\right.\\]Encuentra $f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 461,
+        "lang": "es",
+        "gid": 348
+    },
+    {
+        "question": "Linda, Sherry, June y Connie caminaron por sus vecindarios vendiendo galletas de las girl scouts. Linda gan\u00f3 $\\$27.47$, Sherry gan\u00f3 $\\$35.23$, June gan\u00f3 $\\$37.37$ y Connie gan\u00f3 $\\$26.52$. Despu\u00e9s de la venta, juntaron su dinero y fueron al banco para convertir las monedas en d\u00f3lares. \u00bfCu\u00e1nto dinero, en centavos, qued\u00f3 despu\u00e9s de que convirtieron tantas de las monedas en billetes como pudieron?",
+        "answer": "59",
+        "data_source": "MATH500",
+        "data_source_id": 462,
+        "lang": "es",
+        "gid": 349
+    },
+    {
+        "question": "\u00bfPara cu\u00e1ntos valores de $x$ la expresi\u00f3n $\\frac{x-5}{x^2-9}$ no est\u00e1 definida?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 463,
+        "lang": "es",
+        "gid": 350
+    },
+    {
+        "question": "Si $\\log_6 (x-y) + \\log_6 (x+y) = 2$ y $\\log_y 5x = 2$, entonces encuentra $x$.",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 464,
+        "lang": "es",
+        "gid": 351
+    },
+    {
+        "question": "Cuando los enteros positivos que tienen exactamente tres divisores positivos se enumeran en orden ascendente, \u00bfcu\u00e1l es el quinto n\u00famero de la lista?",
+        "answer": "121",
+        "data_source": "MATH500",
+        "data_source_id": 465,
+        "lang": "es",
+        "gid": 352
+    },
+    {
+        "question": "La ra\u00edz cuadrada de $t$ es mayor que $2$ y menor que $3.5$. \u00bfCu\u00e1ntos valores enteros de $t$ satisfacen esta condici\u00f3n?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 468,
+        "lang": "es",
+        "gid": 353
+    },
+    {
+        "question": "Eval\u00faa $\\lceil{\\sqrt{20}}\\rceil^2$.",
+        "answer": "25",
+        "data_source": "MATH500",
+        "data_source_id": 469,
+        "lang": "es",
+        "gid": 354
+    },
+    {
+        "question": "Sean $a,$ $b,$ $c,$ y $d$ n\u00fameros reales positivos tales que $a + b + c + d = 10.$ Encuentre el valor m\u00e1ximo de $ab^2 c^3 d^4.$",
+        "answer": "27648",
+        "data_source": "MATH500",
+        "data_source_id": 470,
+        "lang": "es",
+        "gid": 355
+    },
+    {
+        "question": "Una clase de 30 estudiantes recientemente hizo una prueba. Si 20 estudiantes obtuvieron 80, 8 estudiantes obtuvieron 90 y 2 estudiantes obtuvieron 100, \u00bfcu\u00e1l fue el promedio de la clase (la media) en esta prueba?",
+        "answer": "84",
+        "data_source": "MATH500",
+        "data_source_id": 471,
+        "lang": "es",
+        "gid": 356
+    },
+    {
+        "question": "A continuaci\u00f3n se muestra un cuadrado m\u00e1gico, lo que significa que la suma de los n\u00fameros en cada fila, en cada columna y en cada una de las $2$ diagonales principales son iguales. \u00bfCu\u00e1l es el valor de $n$?  [asy]size(125); for(int i = 0; i<4; ++i) {  draw((0,i)--(3,i),linewidth(1)); }  for(int j = 0; j<4; ++j) {  draw((j,0)--(j,3),linewidth(1)); }  label(\"$n-3$\",(.5,.5)); label(\"3\",(.5,1.5)); label(\"$n+1$\",(.5,2.5));  label(\"$n+2$\",(1.5,.5)); label(\"$2n-9$\",(1.5,1.5)); label(\"$1$\",(1.5,2.5));  label(\"$2$\",(2.5,.5)); label(\"$n$\",(2.5,1.5)); label(\"$n-1$\",(2.5,2.5)); [/asy]",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 473,
+        "lang": "es",
+        "gid": 357
+    },
+    {
+        "question": "Encuentra el valor de $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 474,
+        "lang": "es",
+        "gid": 358
+    },
+    {
+        "question": "Al lanzar un dado injusto de seis caras con las caras numeradas del 1 al 6, la probabilidad de obtener la cara $F$ es mayor que $1/6$, la probabilidad de obtener la cara opuesta a la cara $F$ es menor que $1/6$, la probabilidad de obtener cada una de las otras caras es $1/6$, y la suma de los n\u00fameros en cada par de caras opuestas es 7. Al lanzar dos de estos dados, la probabilidad de obtener una suma de 7 es $ \\frac{47}{288} $. Dado que la probabilidad de obtener la cara $F$ es $m/n$, donde $m$ y $n$ son enteros positivos primos relativos, encuentre $m+n$.",
+        "answer": "29",
+        "data_source": "MATH500",
+        "data_source_id": 475,
+        "lang": "es",
+        "gid": 359
+    },
+    {
+        "question": "Jim y Martha est\u00e1n juntos en la esquina de un campo rectangular. Jim camina en diagonal a trav\u00e9s del campo. Martha llega al mismo lugar caminando a lo largo de su longitud y ancho. El campo tiene 300 pies de ancho y 400 pies de largo. \u00bfCu\u00e1ntos pies menos que Martha camina Jim?",
+        "answer": "200",
+        "data_source": "MATH500",
+        "data_source_id": 476,
+        "lang": "es",
+        "gid": 360
+    },
+    {
+        "question": "El n\u00famero de dos d\u00edgitos $``B6,''$ donde $B$ es la cifra de las decenas, es el cuadrado de un n\u00famero entero positivo. \u00bfCu\u00e1ntos valores distintos posibles hay para $B$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 477,
+        "lang": "es",
+        "gid": 361
+    },
+    {
+        "question": "Existen finitamente muchos n\u00fameros primos $p$ para los cuales la congruencia $$8x\\equiv 1\\pmod{p}$$no tiene soluciones $x$. Determina la suma de todos esos $p$.",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 479,
+        "lang": "es",
+        "gid": 362
+    },
+    {
+        "question": "Sea $\\omega$ un n\u00famero complejo tal que $\\omega^3 = 1.$  Encuentre todos los valores posibles de \\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]INGRESE todos los valores posibles, separados por comas.",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 480,
+        "lang": "es",
+        "gid": 363
+    },
+    {
+        "question": "Si $\\frac{a}{b}$ es la probabilidad de que el rec\u00edproco de un n\u00famero entero impar positivo seleccionado al azar menor que 2010 d\u00e9 un decimal terminante, siendo $a$ y $b$ n\u00fameros enteros positivos primos relativos, \u00bfcu\u00e1l es $a+b$?",
+        "answer": "202",
+        "data_source": "MATH500",
+        "data_source_id": 482,
+        "lang": "es",
+        "gid": 364
+    },
+    {
+        "question": "Resuelve \\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 484,
+        "lang": "es",
+        "gid": 365
+    },
+    {
+        "question": "\u00bfCu\u00e1l es la distancia m\u00e1s corta que se puede recorrer si empiezas en cualquier punto, $A$, $B$, $C$ o $D$, y visitas los otros tres puntos una vez?  [asy] pair A,B,C, D; A = (-3,3); B = (3,0); C = (0, -4); D = (0,0); draw(D--B--C--cycle); draw(D--A--B--cycle);draw(D--A--C--cycle); label(\"$A$\", A, NW);label(\"$B$\", B, E); label(\"$C$\", C, S);label(\"$D$\", D, NE); label(\"3\", D--B, S); label(\"6\", A--B, NE); label(\"6\", A--C, SW); label(\"4\", D--C, NW+N); label(\"5\", A--D, SE+NE); label(\"5\", C--B, E); [/asy]",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 485,
+        "lang": "es",
+        "gid": 366
+    },
+    {
+        "question": "Una esfera de acero con un radio de 3 pulgadas se fabrica quitando metal de las esquinas de un cubo que tiene las longitudes de lado m\u00e1s cortas posibles. \u00bfCu\u00e1ntas pulgadas c\u00fabicas hay en el volumen del cubo?",
+        "answer": "216",
+        "data_source": "MATH500",
+        "data_source_id": 486,
+        "lang": "es",
+        "gid": 367
+    },
+    {
+        "question": "Determine el residuo m\u00f3dulo 4 de la siguiente suma: $$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 487,
+        "lang": "es",
+        "gid": 368
+    },
+    {
+        "question": "Sea $f(x)=|x-p|+|x-15|+|x-p-15|,$ donde $0 < p < 15.$ Determine el valor m\u00ednimo de $f(x)$ para $x$ en el intervalo $p \\leq x\\leq15.$",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 489,
+        "lang": "es",
+        "gid": 369
+    },
+    {
+        "question": "Suponga que el polinomio $$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\cdots + a_2x^2 + a_1x + a_0$$ tiene coeficientes enteros y sus ra\u00edces son enteros distintos.  Dado que $a_n=2$ y $a_0=66$, \u00bfcu\u00e1l es el valor m\u00ednimo posible de $|a_{n-1}|$?",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 490,
+        "lang": "es",
+        "gid": 370
+    },
+    {
+        "question": "Tom recibi\u00f3 un Mr. Potato Head por su cumplea\u00f1os. Ven\u00eda con 3 estilos de peinado, 2 pares de cejas, 1 par de ojos saltones, 2 pares de orejas y 2 pares de labios, un par de zapatos regulares y un par extra de zapatos de payaso. Si una personalidad completa del Mr. Potato Head incluye cejas, ojos, orejas, labios, zapatos y opcionalmente pelo, \u00bfcu\u00e1ntas personalidades disparatadas diferentes puede crear Tom? Ten en cuenta que Mr. Potato Head puede ser calvo.  Nota: No puedes \"mezclar y combinar\". Por ejemplo, no puedes tomar la ceja izquierda de un par y la ceja derecha del otro par.",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 491,
+        "lang": "es",
+        "gid": 371
+    },
+    {
+        "question": "El n\u00famero $(\\sqrt{2}+\\sqrt{3})^3$ puede ser escrito en la forma $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, donde $a$, $b$ y $c$ son enteros. \u00bfCu\u00e1l es el valor de $a+b+c$?",
+        "answer": "20",
+        "data_source": "MATH500",
+        "data_source_id": 493,
+        "lang": "es",
+        "gid": 372
+    },
+    {
+        "question": "Una secuencia $(a_n)$ se define de la siguiente manera: \\[a_{i + 1} = \\frac{1}{1 - a_i}\\]para $i \\ge 1$. Si $a_3 = a_1,$ calcula $(a_9)^9.$",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 498,
+        "lang": "es",
+        "gid": 373
+    }
+]

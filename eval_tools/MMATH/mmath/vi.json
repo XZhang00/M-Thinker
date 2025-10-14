@@ -1,0 +1,2994 @@
+[
+    {
+        "question": "M\u1ed7i bu\u1ed5i s\u00e1ng, Aya \u0111i b\u1ed9 d\u1ecdc theo m\u1ed9t qu\u00e3ng \u0111\u01b0\u1eddng d\u00e0i $9$ kil\u00f4m\u00e9t v\u00e0 d\u1eebng l\u1ea1i t\u1ea1i m\u1ed9t qu\u00e1n c\u00e0 ph\u00ea sau \u0111\u00f3. Khi c\u00f4 \u1ea5y \u0111i b\u1ed9 v\u1edbi t\u1ed1c \u0111\u1ed9 kh\u00f4ng \u0111\u1ed5i l\u00e0 $s$ kil\u00f4m\u00e9t m\u1ed7i gi\u1edd, c\u00f4 \u1ea5y m\u1ea5t 4 gi\u1edd \u0111\u1ec3 ho\u00e0n th\u00e0nh chuy\u1ebfn \u0111i bao g\u1ed3m $t$ ph\u00fat d\u00e0nh cho vi\u1ec7c ng\u1ed3i \u1edf qu\u00e1n c\u00e0 ph\u00ea. Khi c\u00f4 \u1ea5y \u0111i b\u1ed9 v\u1edbi t\u1ed1c \u0111\u1ed9 l\u00e0 $s+2$ kil\u00f4m\u00e9t m\u1ed7i gi\u1edd, c\u00f4 \u1ea5y m\u1ea5t 2 gi\u1edd 24 ph\u00fat \u0111\u1ec3 ho\u00e0n th\u00e0nh chuy\u1ebfn \u0111i, c\u0169ng bao g\u1ed3m $t$ ph\u00fat d\u00e0nh \u1edf qu\u00e1n c\u00e0 ph\u00ea. Gi\u1ea3 s\u1eed Aya \u0111i b\u1ed9 v\u1edbi t\u1ed1c \u0111\u1ed9 l\u00e0 $s+\\frac{1}{2}$ kil\u00f4m\u00e9t m\u1ed7i gi\u1edd. H\u00e3y t\u00ecm s\u1ed1 ph\u00fat m\u00e0 Aya m\u1ea5t \u0111\u1ec3 ho\u00e0n th\u00e0nh chuy\u1ebfn \u0111i bao g\u1ed3m $t$ ph\u00fat d\u00e0nh t\u1ea1i qu\u00e1n c\u00e0 ph\u00ea.",
+        "answer": "204",
+        "data_source": "AIME2024",
+        "data_source_id": 0,
+        "lang": "vi",
+        "gid": 0
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 Cho tam gi\u00e1c $ABC$ n\u1ed9i ti\u1ebfp tr\u00ean \u0111\u01b0\u1eddng tr\u00f2n $\\omega$. C\u00e1c ti\u1ebfp tuy\u1ebfn c\u1ee7a $\\omega$ t\u1ea1i $B$ v\u00e0 $C$ c\u1eaft nhau t\u1ea1i $D$, \u0111\u1ed3ng th\u1eddi \u0111o\u1ea1n th\u1eb3ng $AD$ c\u1eaft $\\omega$ t\u1ea1i $P$. Bi\u1ebft $AB=5$, $BC=9$, $AC=10$, khi \u0111\u00f3 $AP$ c\u00f3 th\u1ec3 bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $\\frac{m}{n}$ v\u1edbi $m$ v\u00e0 $n$ l\u00e0 hai s\u1ed1 nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ednh gi\u00e1 tr\u1ecb $m+n$.  \uff09\uff1a",
+        "answer": "113",
+        "data_source": "AIME2024",
+        "data_source_id": 1,
+        "lang": "vi",
+        "gid": 1
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 M\u1ed7i \u0111\u1ec9nh c\u1ee7a m\u1ed9t b\u00e1t gi\u00e1c \u0111\u1ec1u \u0111\u01b0\u1ee3c t\u00f4 m\u00e0u \u0111\u1ed9c l\u1eadp \u0111\u1ecf ho\u1eb7c xanh v\u1edbi x\u00e1c su\u1ea5t nh\u01b0 nhau. X\u00e1c su\u1ea5t \u0111\u1ec3 b\u00e1t gi\u00e1c c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c xoay sao cho t\u1ea5t c\u1ea3 \u0111\u1ec9nh xanh tr\u00f9ng v\u1edbi c\u00e1c v\u1ecb tr\u00ed ban \u0111\u1ea7u l\u00e0 \u0111\u1ec9nh \u0111\u1ecf l\u00e0 $\\tfrac{m}{n}$, trong \u0111\u00f3 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $m+n$?  \uff09\uff1a",
+        "answer": "371",
+        "data_source": "AIME2024",
+        "data_source_id": 2,
+        "lang": "vi",
+        "gid": 2
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08\u0110\u1ecbnh ngh\u0129a $f(x)=|| x|-\\tfrac{1}{2}|$ v\u00e0 $g(x)=|| x|-\\tfrac{1}{4}|$. T\u00ecm s\u1ed1 giao \u0111i\u1ec3m gi\u1eefa \u0111\u1ed3 th\u1ecb hai h\u00e0m s\u1ed1 $$y=4 g(f(\\sin (2 \\pi x))) \\quad\\text{ v\u00e0 }\\quad x=4 g(f(\\cos (3 \\pi y))).$$  \uff09\uff1a",
+        "answer": "385",
+        "data_source": "AIME2024",
+        "data_source_id": 3,
+        "lang": "vi",
+        "gid": 3
+    },
+    {
+        "question": "Cho $p$ l\u00e0 s\u1ed1 nguy\u00ean t\u1ed1 nh\u1ecf nh\u1ea5t sao cho t\u1ed3n t\u1ea1i s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $n$ m\u00e0 $n^{4}+1$ chia h\u1ebft cho $p^{2}$. T\u00ecm s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t $m$ sao cho $m^{4}+1$ chia h\u1ebft cho $p^{2}$.",
+        "answer": "110",
+        "data_source": "AIME2024",
+        "data_source_id": 4,
+        "lang": "vi",
+        "gid": 4
+    },
+    {
+        "question": "Cho t\u1ee9 di\u1ec7n \\(ABCD\\) sao cho \\(AB = CD = \\sqrt{41}\\), \\(AC = BD = \\sqrt{80}\\), v\u00e0 \\(BC = AD = \\sqrt{89}\\). T\u1ed3n t\u1ea1i \u0111i\u1ec3m \\(I\\) b\u00ean trong t\u1ee9 di\u1ec7n sao cho kho\u1ea3ng c\u00e1ch t\u1eeb \\(I\\) \u0111\u1ebfn m\u1ed7i m\u1eb7t c\u1ee7a t\u1ee9 di\u1ec7n \u0111\u1ec1u b\u1eb1ng nhau. Kho\u1ea3ng c\u00e1ch n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng \\(\\frac{m \\sqrt{n}}{p}\\), trong \u0111\u00f3 \\(m\\), \\(n\\), v\u00e0 \\(p\\) l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng, \\(m\\) v\u00e0 \\(p\\) nguy\u00ean t\u1ed1 c\u00f9ng nhau, v\u00e0 \\(n\\) kh\u00f4ng chia h\u1ebft cho b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a b\u1ea5t k\u1ef3 s\u1ed1 nguy\u00ean t\u1ed1 n\u00e0o. T\u00ecm \\(m + n + p\\).",
+        "answer": "104",
+        "data_source": "AIME2024",
+        "data_source_id": 5,
+        "lang": "vi",
+        "gid": 5
+    },
+    {
+        "question": "Cho $\\mathcal{B}$ l\u00e0 t\u1eadp h\u1ee3p c\u00e1c h\u1ed9p ch\u1eef nh\u1eadt c\u00f3 di\u1ec7n t\u00edch b\u1ec1 m\u1eb7t l\u00e0 $54$ v\u00e0 th\u1ec3 t\u00edch l\u00e0 $23$. G\u1ecdi $r$ l\u00e0 b\u00e1n k\u00ednh c\u1ee7a h\u00ecnh c\u1ea7u nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 ch\u1ee9a m\u1ed7i h\u1ed9p ch\u1eef nh\u1eadt l\u00e0 ph\u1ea7n t\u1eed c\u1ee7a $\\mathcal{B}$. Gi\u00e1 tr\u1ecb c\u1ee7a $r^2$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng $\\frac{p}{q}$, trong \u0111\u00f3 $p$ v\u00e0 $q$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $p+q$.",
+        "answer": "721",
+        "data_source": "AIME2024",
+        "data_source_id": 6,
+        "lang": "vi",
+        "gid": 6
+    },
+    {
+        "question": "C\u00f3 t\u1ed3n t\u1ea1i c\u00e1c s\u1ed1 th\u1ef1c $x$ v\u00e0 $y$, c\u1ea3 hai \u0111\u1ec1u l\u1edbn h\u01a1n 1, sao cho $\\log_x\\left(y^x\\right)=\\log_y\\left(x^{4y}\\right)=10$. T\u00ecm $xy$.",
+        "answer": "25",
+        "data_source": "AIME2024",
+        "data_source_id": 7,
+        "lang": "vi",
+        "gid": 7
+    },
+    {
+        "question": "Alice v\u00e0 Bob ch\u01a1i tr\u00f2 ch\u01a1i sau. M\u1ed9t ch\u1ed3ng $n$ \u0111\u1ed3ng xu \u0111\u01b0\u1ee3c \u0111\u1eb7t tr\u01b0\u1edbc h\u1ecd. Hai ng\u01b0\u1eddi ch\u01a1i l\u1ea7n l\u01b0\u1ee3t v\u1edbi Alice \u0111i tr\u01b0\u1edbc. Trong m\u1ed7i l\u01b0\u1ee3t, ng\u01b0\u1eddi ch\u01a1i lo\u1ea1i b\u1ecf $1$ \u0111\u1ed3ng xu ho\u1eb7c $4$ \u0111\u1ed3ng xu kh\u1ecfi ch\u1ed3ng. Ng\u01b0\u1eddi lo\u1ea1i b\u1ecf \u0111\u1ed3ng xu cu\u1ed1i c\u00f9ng th\u00ec th\u1eafng. T\u00ecm s\u1ed1 l\u01b0\u1ee3ng s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $n$ nh\u1ecf h\u01a1n ho\u1eb7c b\u1eb1ng $2024$ m\u00e0 t\u1ed3n t\u1ea1i m\u1ed9t chi\u1ebfn l\u01b0\u1ee3c cho Bob \u0111\u1ea3m b\u1ea3o r\u1eb1ng Bob s\u1ebd th\u1eafng tr\u00f2 ch\u01a1i b\u1ea5t k\u1ec3 Alice ch\u01a1i nh\u01b0 th\u1ebf n\u00e0o.",
+        "answer": "809",
+        "data_source": "AIME2024",
+        "data_source_id": 8,
+        "lang": "vi",
+        "gid": 8
+    },
+    {
+        "question": "Jen tham gia m\u1ed9t tr\u00f2 ch\u01a1i x\u1ed5 s\u1ed1 b\u1eb1ng c\u00e1ch ch\u1ecdn $4$ s\u1ed1 kh\u00e1c nhau t\u1eeb $S=\\{1,2,3,\\cdots,9,10\\}.$ $4$ s\u1ed1 \u0111\u01b0\u1ee3c ch\u1ecdn ng\u1eabu nhi\u00ean t\u1eeb $S.$ C\u00f4 \u1ea5y s\u1ebd th\u1eafng m\u1ed9t gi\u1ea3i th\u01b0\u1edfng n\u1ebfu \u00edt nh\u1ea5t hai trong s\u1ed1 c\u00e1c s\u1ed1 c\u00f4 \u1ea5y ch\u1ecdn tr\u00f9ng v\u1edbi c\u00e1c s\u1ed1 \u0111\u01b0\u1ee3c ch\u1ecdn ng\u1eabu nhi\u00ean, v\u00e0 s\u1ebd th\u1eafng gi\u1ea3i \u0111\u1eb7c bi\u1ec7t n\u1ebfu t\u1ea5t c\u1ea3 b\u1ed1n s\u1ed1 c\u1ee7a c\u00f4 \u1ea5y tr\u00f9ng v\u1edbi c\u00e1c s\u1ed1 \u0111\u01b0\u1ee3c ch\u1ecdn ng\u1eabu nhi\u00ean. X\u00e1c su\u1ea5t \u0111\u1ec3 c\u00f4 \u1ea5y th\u1eafng gi\u1ea3i \u0111\u1eb7c bi\u1ec7t v\u1edbi \u0111i\u1ec1u ki\u1ec7n c\u00f4 \u1ea5y \u0111\u00e3 th\u1eafng m\u1ed9t gi\u1ea3i l\u00e0 $\\tfrac{m}{n}$, trong \u0111\u00f3 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $m+n$.",
+        "answer": "116",
+        "data_source": "AIME2024",
+        "data_source_id": 9,
+        "lang": "vi",
+        "gid": 9
+    },
+    {
+        "question": "H\u00ecnh ch\u1eef nh\u1eadt $ABCD$ v\u00e0 $EFGH$ \u0111\u01b0\u1ee3c v\u1ebd sao cho c\u00e1c \u0111i\u1ec3m $D, E, C, F$ th\u1eb3ng h\u00e0ng. Ngo\u00e0i ra, c\u00e1c \u0111i\u1ec3m $A, D, H, G$ n\u1eb1m tr\u00ean m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n. N\u1ebfu $BC=16$, $AB=107$, $FG=17$ v\u00e0 $EF=184$, h\u1ecfi \u0111\u1ed9 d\u00e0i c\u1ee7a $CE$ l\u00e0 bao nhi\u00eau?",
+        "answer": "104",
+        "data_source": "AIME2024",
+        "data_source_id": 10,
+        "lang": "vi",
+        "gid": 10
+    },
+    {
+        "question": "X\u00e9t c\u00e1c \u0111\u01b0\u1eddng \u0111i d\u00e0i $16$ \u0111i theo \u0111\u01b0\u1eddng k\u1ebb t\u1eeb g\u00f3c d\u01b0\u1edbi b\u00ean tr\u00e1i \u0111\u1ebfn g\u00f3c tr\u00ean b\u00ean ph\u1ea3i tr\u00ean l\u01b0\u1edbi $8\\times 8$. T\u00ecm s\u1ed1 l\u01b0\u1ee3ng \u0111\u01b0\u1eddng \u0111i nh\u01b0 v\u1eady thay \u0111\u1ed5i h\u01b0\u1edbng \u0111\u00fang b\u1ed1n l\u1ea7n, nh\u01b0 trong c\u00e1c v\u00ed d\u1ee5 \u0111\u01b0\u1ee3c hi\u1ec3n th\u1ecb d\u01b0\u1edbi \u0111\u00e2y.",
+        "answer": "294",
+        "data_source": "AIME2024",
+        "data_source_id": 11,
+        "lang": "vi",
+        "gid": 11
+    },
+    {
+        "question": "T\u00ecm ph\u1ea7n th\u1ef1c l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a \\[(75+117i)z+\\frac{96+144i}{z}\\] v\u1edbi $z$ l\u00e0 s\u1ed1 ph\u1ee9c th\u1ecfa m\u00e3n $|z|=4$.",
+        "answer": "540",
+        "data_source": "AIME2024",
+        "data_source_id": 12,
+        "lang": "vi",
+        "gid": 12
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 T\u00e1m h\u00ecnh tr\u00f2n b\u00e1n k\u00ednh $34$ x\u1ebfp ti\u1ebfp x\u00fac li\u00ean ti\u1ebfp, trong \u0111\u00f3 hai h\u00ecnh tr\u00f2n l\u1ea7n l\u01b0\u1ee3t ti\u1ebfp x\u00fac v\u1edbi c\u1ea1nh $AB$ v\u00e0 $BC$ c\u1ee7a tam gi\u00e1c $ABC$. C\u00f3 th\u1ec3 x\u1ebfp $2024$ h\u00ecnh tr\u00f2n b\u00e1n k\u00ednh $1$ theo c\u00e1ch t\u01b0\u01a1ng t\u1ef1. B\u00e1n k\u00ednh n\u1ed9i ti\u1ebfp c\u1ee7a tam gi\u00e1c $ABC$ c\u00f3 th\u1ec3 bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $\\frac{m}{n}$ v\u1edbi $m$ v\u00e0 $n$ nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $m+n$.  \uff09\uff1a",
+        "answer": "197",
+        "data_source": "AIME2024",
+        "data_source_id": 13,
+        "lang": "vi",
+        "gid": 13
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 G\u1ecdi $A$, $B$, $C$, $D$ l\u00e0 c\u00e1c \u0111i\u1ec3m tr\u00ean hyperbola $\\frac{x^2}{20}- \\frac{y^2}{24} = 1$ sao cho $ABCD$ l\u00e0 h\u00ecnh thoi c\u00f3 hai \u0111\u01b0\u1eddng ch\u00e9o c\u1eaft nhau t\u1ea1i g\u1ed1c t\u1ecda \u0111\u1ed9. T\u00ecm s\u1ed1 th\u1ef1c l\u1edbn nh\u1ea5t nh\u1ecf h\u01a1n $BD^2$ v\u1edbi m\u1ecdi h\u00ecnh thoi th\u1ecfa m\u00e3n.  \uff09\uff1a",
+        "answer": "480",
+        "data_source": "AIME2024",
+        "data_source_id": 14,
+        "lang": "vi",
+        "gid": 14
+    },
+    {
+        "question": "Trong s\u1ed1 900 c\u01b0 d\u00e2n c\u1ee7a Aimeville, c\u00f3 195 ng\u01b0\u1eddi s\u1edf h\u1eefu nh\u1eabn kim c\u01b0\u01a1ng, 367 ng\u01b0\u1eddi s\u1edf h\u1eefu b\u1ed9 g\u1eady ch\u01a1i golf, v\u00e0 562 ng\u01b0\u1eddi s\u1edf h\u1eefu x\u1ebbng l\u00e0m v\u01b0\u1eddn. Ngo\u00e0i ra, m\u1ed7i c\u01b0 d\u00e2n trong s\u1ed1 900 ng\u01b0\u1eddi \u0111\u00f3 \u0111\u1ec1u s\u1edf h\u1eefu m\u1ed9t t\u00fai k\u1eb9o h\u00ecnh tr\u00e1i tim. C\u00f3 437 c\u01b0 d\u00e2n s\u1edf h\u1eefu \u0111\u00fang hai trong s\u1ed1 nh\u1eefng th\u1ee9 n\u00e0y, v\u00e0 234 c\u01b0 d\u00e2n s\u1edf h\u1eefu \u0111\u00fang ba trong s\u1ed1 nh\u1eefng th\u1ee9 n\u00e0y. T\u00ecm s\u1ed1 l\u01b0\u1ee3ng c\u01b0 d\u00e2n c\u1ee7a Aimeville s\u1edf h\u1eefu c\u1ea3 b\u1ed1n th\u1ee9 n\u00e0y.",
+        "answer": "73",
+        "data_source": "AIME2024",
+        "data_source_id": 15,
+        "lang": "vi",
+        "gid": 15
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 X\u00e9t tam gi\u00e1c $ABC$ c\u00f3 t\u00e2m \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp $O$, t\u00e2m \u0111\u01b0\u1eddng tr\u00f2n n\u1ed9i ti\u1ebfp $I$ th\u1ecfa m\u00e3n $\\overline{IA}\\perp\\overline{OI}$, b\u00e1n k\u00ednh \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp b\u1eb1ng $13$ v\u00e0 b\u00e1n k\u00ednh \u0111\u01b0\u1eddng tr\u00f2n n\u1ed9i ti\u1ebfp b\u1eb1ng $6$. T\u00ednh t\u00edch $AB\\cdot AC$.  \uff09\uff1a",
+        "answer": "468",
+        "data_source": "AIME2024",
+        "data_source_id": 16,
+        "lang": "vi",
+        "gid": 16
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 c\u00e1c b\u1ed9 ba s\u1ed1 nguy\u00ean kh\u00f4ng \u00e2m \\((a,b,c)\\) th\u1ecfa m\u00e3n \\(a + b + c = 300\\) v\u00e0 \\begin{equation*} a^2b + a^2c + b^2a + b^2c + c^2a + c^2b = 6,000,000. \\end{equation*}",
+        "answer": "601",
+        "data_source": "AIME2024",
+        "data_source_id": 17,
+        "lang": "vi",
+        "gid": 17
+    },
+    {
+        "question": "G\u1ecdi \\(O=(0,0)\\), \\(A=\\left(\\tfrac{1}{2},0\\right)\\), v\u00e0 \\(B=\\left(0,\\tfrac{\\sqrt{3}}{2}\\right)\\) l\u00e0 c\u00e1c \u0111i\u1ec3m trong m\u1eb7t ph\u1eb3ng t\u1ecda \u0111\u1ed9. G\u1ecdi \\(\\mathcal{F}\\) l\u00e0 t\u1eadp h\u1ee3p c\u00e1c \u0111o\u1ea1n th\u1eb3ng \\(\\overline{PQ}\\) c\u00f3 \u0111\u1ed9 d\u00e0i b\u1eb1ng m\u1ed9t, n\u1eb1m trong g\u00f3c ph\u1ea7n t\u01b0 th\u1ee9 nh\u1ea5t v\u1edbi \\(P\\) n\u1eb1m tr\u00ean tr\u1ee5c \\(x\\) v\u00e0 \\(Q\\) n\u1eb1m tr\u00ean tr\u1ee5c \\(y\\). C\u00f3 m\u1ed9t \u0111i\u1ec3m duy nh\u1ea5t \\(C\\) tr\u00ean \\(\\overline{AB}\\), kh\u00e1c v\u1edbi \\(A\\) v\u00e0 \\(B\\), kh\u00f4ng thu\u1ed9c b\u1ea5t k\u1ef3 \u0111o\u1ea1n th\u1eb3ng n\u00e0o t\u1eeb \\(\\mathcal{F}\\) ngo\u1ea1i tr\u1eeb \\(\\overline{AB}\\). Khi \u0111\u00f3 \\(OC^2=\\tfrac{p}{q}\\), \u1edf \u0111\u00e2y \\(p\\) v\u00e0 \\(q\\) l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0 nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm \\(p+q\\).",
+        "answer": "23",
+        "data_source": "AIME2024",
+        "data_source_id": 18,
+        "lang": "vi",
+        "gid": 18
+    },
+    {
+        "question": "Cho $\\omega\\neq 1$ l\u00e0 c\u0103n b\u1eadc 13 c\u1ee7a \u0111\u01a1n v\u1ecb. T\u00ecm s\u1ed1 d\u01b0 khi \\[\\prod_{k=0}^{12}(2-2\\omega^k+\\omega^{2k})\\] \u0111\u01b0\u1ee3c chia cho 1000.",
+        "answer": "321",
+        "data_source": "AIME2024",
+        "data_source_id": 19,
+        "lang": "vi",
+        "gid": 19
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08X\u00e9t $$b\\ge 2$$ l\u00e0 s\u1ed1 nguy\u00ean. M\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $$n$$ \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 $$b\\text-\\textit{ho\u00e0n h\u1ea3o}$$ n\u1ebfu n\u00f3 c\u00f3 \u0111\u00fang hai ch\u1eef s\u1ed1 trong h\u1ec7 c\u01a1 s\u1ed1 $$b$$ v\u00e0 t\u1ed5ng hai ch\u1eef s\u1ed1 b\u1eb1ng $$\\sqrt{n}$$. V\u00ed d\u1ee5, $$81$$ l\u00e0 $$13\\text-\\textit{ho\u00e0n h\u1ea3o}$$ v\u00ec $$81 = \\underline{6} \\ \\underline{3}_{13}$$ v\u00e0 $$6 + 3 = \\sqrt{81}$$. T\u00ecm s\u1ed1 nguy\u00ean $$b\\ge 2$$ nh\u1ecf nh\u1ea5t sao cho c\u00f3 h\u01a1n m\u01b0\u1eddi s\u1ed1 $$b\\text-\\textit{ho\u00e0n h\u1ea3o}$$.  \uff09\uff1a",
+        "answer": "211",
+        "data_source": "AIME2024",
+        "data_source_id": 20,
+        "lang": "vi",
+        "gid": 20
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08\u9ed8\u8ba4\u6b63\u786e\uff0c\u4e0d\u586b\u5373\u53ef\u3002\u5982\u6709\u9519\u8bef\uff0c\u53ef\u4ee5\u590d\u5236\u539f\u7ffb\u8bd1\u7c98\u8d34\u5e76\u4fee\u6539 \uff09\uff1a",
+        "answer": "315",
+        "data_source": "AIME2024",
+        "data_source_id": 21,
+        "lang": "vi",
+        "gid": 21
+    },
+    {
+        "question": "Danh s\u00e1ch c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 nh\u1eefng t\u00ednh ch\u1ea5t sau: $\\bullet$ T\u1ed5ng c\u1ee7a c\u00e1c ph\u1ea7n t\u1eed trong danh s\u00e1ch l\u00e0 $30$. $\\bullet$ Y\u1ebfu t\u1ed1 duy nh\u1ea5t xu\u1ea5t hi\u1ec7n nhi\u1ec1u nh\u1ea5t trong danh s\u00e1ch l\u00e0 $9$. $\\bullet$ Trung v\u1ecb c\u1ee7a danh s\u00e1ch l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng kh\u00f4ng xu\u1ea5t hi\u1ec7n trong ch\u00ednh danh s\u00e1ch. T\u00ecm t\u1ed5ng b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c ph\u1ea7n t\u1eed trong danh s\u00e1ch.",
+        "answer": "236",
+        "data_source": "AIME2024",
+        "data_source_id": 22,
+        "lang": "vi",
+        "gid": 22
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 c\u00e1ch \u0111\u1ec3 \u0111\u1eb7t m\u1ed9t ch\u1eef s\u1ed1 v\u00e0o m\u1ed7i \u00f4 c\u1ee7a l\u01b0\u1edbi 2x3 sao cho t\u1ed5ng c\u1ee7a hai s\u1ed1 \u0111\u01b0\u1ee3c h\u00ecnh th\u00e0nh b\u1eb1ng c\u00e1ch \u0111\u1ecdc t\u1eeb tr\u00e1i sang ph\u1ea3i l\u00e0 $999$, v\u00e0 t\u1ed5ng c\u1ee7a ba s\u1ed1 \u0111\u01b0\u1ee3c h\u00ecnh th\u00e0nh b\u1eb1ng c\u00e1ch \u0111\u1ecdc t\u1eeb tr\u00ean xu\u1ed1ng d\u01b0\u1edbi l\u00e0 $99$. B\u00ean d\u01b0\u1edbi l\u00e0 m\u1ed9t v\u00ed d\u1ee5 v\u1ec1 s\u1ef1 s\u1eafp x\u1ebfp n\u00e0y v\u00ec $8+991=999$ v\u00e0 $9+9+81=99$. \\[\\begin{array}{|c|c|c|} \\hline 0 & 0 & 8 \\\\ \\hline 9 & 9 & 1 \\\\ \\hline \\end{array}\\]",
+        "answer": "45",
+        "data_source": "AIME2024",
+        "data_source_id": 23,
+        "lang": "vi",
+        "gid": 23
+    },
+    {
+        "question": "Cho $x,y$ v\u00e0 $z$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng th\u1ecfa m\u00e3n h\u1ec7 ph\u01b0\u01a1ng tr\u00ecnh sau: \\[\\log_2\\left({x \\over yz}\\right) = {1 \\over 2}\\]\\[\\log_2\\left({y \\over xz}\\right) = {1 \\over 3}\\]\\[\\log_2\\left({z \\over xy}\\right) = {1 \\over 4}\\] Th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $\\left|\\log_2(x^4y^3z^2)\\right|$ l\u00e0 $\\tfrac{m}{n}$ n\u01a1i m\u00e0 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng t\u01b0\u01a1ng \u0111\u1ed1i nguy\u00ean t\u1ed1. T\u00ecm $m+n$.",
+        "answer": "33",
+        "data_source": "AIME2024",
+        "data_source_id": 24,
+        "lang": "vi",
+        "gid": 24
+    },
+    {
+        "question": "\u0110\u1eb7t ABCDEF l\u00e0 m\u1ed9t l\u1ee5c gi\u00e1c l\u1ed3i c\u00f3 c\u00e1c c\u1ea1nh b\u1eb1ng nhau m\u00e0 trong \u0111\u00f3 t\u1ea5t c\u1ea3 c\u00e1c c\u1eb7p c\u1ea1nh \u0111\u1ed1i di\u1ec7n \u0111\u1ec1u song song. Tam gi\u00e1c c\u00f3 c\u00e1c c\u1ea1nh l\u00e0 ph\u1ea7n k\u00e9o d\u00e0i c\u1ee7a c\u00e1c \u0111o\u1ea1n th\u1eb3ng AB, CD, v\u00e0 EF c\u00f3 \u0111\u1ed9 d\u00e0i c\u00e1c c\u1ea1nh l\u00e0 200, 240, v\u00e0 300. T\u00ecm \u0111\u1ed9 d\u00e0i c\u1ea1nh c\u1ee7a l\u1ee5c gi\u00e1c.",
+        "answer": "80",
+        "data_source": "AIME2024",
+        "data_source_id": 25,
+        "lang": "vi",
+        "gid": 25
+    },
+    {
+        "question": "Alice ch\u1ecdn m\u1ed9t t\u1eadp h\u1ee3p $A$ c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng. Sau \u0111\u00f3 Bob li\u1ec7t k\u00ea t\u1ea5t c\u1ea3 c\u00e1c t\u1eadp h\u1ee3p h\u1eefu h\u1ea1n kh\u00f4ng r\u1ed7ng $B$ c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u1edbi t\u00ednh ch\u1ea5t r\u1eb1ng ph\u1ea7n t\u1eed l\u1edbn nh\u1ea5t c\u1ee7a $B$ thu\u1ed9c v\u1ec1 $A$. Danh s\u00e1ch c\u1ee7a Bob c\u00f3 2024 t\u1eadp h\u1ee3p. T\u00ecm t\u1ed5ng c\u00e1c ph\u1ea7n t\u1eed c\u1ee7a A.",
+        "answer": "55",
+        "data_source": "AIME2024",
+        "data_source_id": 26,
+        "lang": "vi",
+        "gid": 26
+    },
+    {
+        "question": "G\u1ecdi $N$ l\u00e0 s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 b\u1ed1n ch\u1eef s\u1ed1 l\u1edbn nh\u1ea5t c\u00f3 t\u00ednh ch\u1ea5t r\u1eb1ng b\u1ea5t c\u1ee9 khi n\u00e0o m\u1ed9t trong c\u00e1c ch\u1eef s\u1ed1 c\u1ee7a n\u00f3 \u0111\u01b0\u1ee3c thay \u0111\u1ed5i th\u00e0nh $1$, s\u1ed1 k\u1ebft qu\u1ea3 thu \u0111\u01b0\u1ee3c s\u1ebd chia h\u1ebft cho $7$. G\u1ecdi $Q$ v\u00e0 $R$ l\u1ea7n l\u01b0\u1ee3t l\u00e0 th\u01b0\u01a1ng v\u00e0 s\u1ed1 d\u01b0 khi $N$ \u0111\u01b0\u1ee3c chia cho $1000$. T\u00ecm $Q+R$.",
+        "answer": "699",
+        "data_source": "AIME2024",
+        "data_source_id": 27,
+        "lang": "vi",
+        "gid": 27
+    },
+    {
+        "question": "H\u00ecnh Torus $T$ l\u00e0 m\u1eb7t \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch quay m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 b\u00e1n k\u00ednh $3$ xung quanh m\u1ed9t tr\u1ee5c n\u1eb1m trong m\u1eb7t ph\u1eb3ng c\u1ee7a \u0111\u01b0\u1eddng tr\u00f2n \u0111\u00f3, c\u00e1ch t\u00e2m c\u1ee7a \u0111\u01b0\u1eddng tr\u00f2n m\u1ed9t kho\u1ea3ng $6$ (gi\u1ed1ng nh\u01b0 h\u00ecnh d\u1ea1ng c\u1ee7a m\u1ed9t chi\u1ebfc b\u00e1nh r\u00e1n). G\u1ecdi $S$ l\u00e0 m\u1ed9t h\u00ecnh c\u1ea7u c\u00f3 b\u00e1n k\u00ednh $11$. Khi $T$ n\u1eb1m tr\u00ean ph\u00eda trong c\u1ee7a $S$, n\u00f3 ti\u1ebfp x\u00fac ngo\u1ea1i vi v\u1edbi $S$ d\u1ecdc theo m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 b\u00e1n k\u00ednh $r_i$, v\u00e0 khi $T$ n\u1eb1m tr\u00ean ph\u00eda ngo\u00e0i c\u1ee7a $S$, n\u00f3 ti\u1ebfp x\u00fac ngo\u1ea1i vi v\u1edbi $S$ d\u1ecdc theo m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 b\u00e1n k\u00ednh $r_o$. Hi\u1ec7u s\u1ed1 $r_i-r_o$ c\u00f3 th\u1ec3 vi\u1ebft d\u01b0\u1edbi d\u1ea1ng $\\tfrac{m}{n}$, n\u01a1i m\u00e0 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $m+n$. [asy] unitsize(0.3 inch); draw(ellipse((0,0), 3, 1.75)); draw((-1.2,0.1)..(-0.8,-0.03)..(-0.4,-0.11)..(0,-0.15)..(0.4,-0.11)..(0.8,-0.03)..(1.2,0.1)); draw((-1,0.04)..(-0.5,0.12)..(0,0.16)..(0.5,0.12)..(1,0.04)); draw((0,2.4)--(0,-0.15)); draw((0,-0.15)--(0,-1.75), dashed); draw((0,-1.75)--(0,-2.25)); draw(ellipse((2,0), 1, 0.9)); draw((2.03,-0.02)--(2.9,-0.4)); [/asy]",
+        "answer": "127",
+        "data_source": "AIME2024",
+        "data_source_id": 28,
+        "lang": "vi",
+        "gid": 28
+    },
+    {
+        "question": "C\u00f3 m\u1ed9t b\u1ed9 s\u01b0u t\u1eadp g\u1ed3m $25$ con chip tr\u1eafng kh\u00f4ng th\u1ec3 ph\u00e2n bi\u1ec7t v\u00e0 $25$ con chip \u0111en kh\u00f4ng th\u1ec3 ph\u00e2n bi\u1ec7t. T\u00ecm s\u1ed1 c\u00e1ch \u0111\u1ec3 \u0111\u1eb7t m\u1ed9t s\u1ed1 chip n\u00e0y v\u00e0o c\u00e1c \u00f4 \u0111\u01a1n v\u1ecb c\u1ee7a l\u01b0\u1edbi $5\\times5$ sao cho:  m\u1ed7i \u00f4 ch\u1ee9a t\u1ed1i \u0111a m\u1ed9t chip t\u1ea5t c\u1ea3 c\u00e1c chip trong c\u00f9ng m\u1ed9t h\u00e0ng v\u00e0 t\u1ea5t c\u1ea3 c\u00e1c chip trong c\u00f9ng m\u1ed9t c\u1ed9t c\u00f3 c\u00f9ng m\u00e0u b\u1ea5t k\u1ef3 chip n\u00e0o \u0111\u01b0\u1ee3c \u0111\u1eb7t th\u00eam v\u00e0o l\u01b0\u1edbi \u0111\u1ec1u vi ph\u1ea1m m\u1ed9t ho\u1eb7c nhi\u1ec1u h\u01a1n hai \u0111i\u1ec1u ki\u1ec7n tr\u00ean.",
+        "answer": "902",
+        "data_source": "AIME2024",
+        "data_source_id": 29,
+        "lang": "vi",
+        "gid": 29
+    },
+    {
+        "question": "T\u00ecm t\u1ed5ng t\u1ea5t c\u1ea3 c\u00e1c c\u01a1 s\u1ed1 nguy\u00ean $b>9$ sao cho $17_{b}$ l\u00e0 \u01b0\u1edbc s\u1ed1 c\u1ee7a $97_{b}$.",
+        "answer": "70",
+        "data_source": "AIME2025",
+        "data_source_id": 0,
+        "lang": "vi",
+        "gid": 30
+    },
+    {
+        "question": "Tr\u00ean $\\triangle ABC$, c\u00e1c \u0111i\u1ec3m $A, D, E$, v\u00e0 $B$ n\u1eb1m theo th\u1ee9 t\u1ef1 \u0111\u00f3 tr\u00ean c\u1ea1nh $\\overline{AB}$ v\u1edbi $AD=4, DE=16$, v\u00e0 $EB=8$. C\u00e1c \u0111i\u1ec3m $A, F, G$, v\u00e0 $C$ n\u1eb1m theo th\u1ee9 t\u1ef1 \u0111\u00f3 tr\u00ean c\u1ea1nh $\\overline{AC}$ v\u1edbi $AF=13, FG=52$, v\u00e0 $GC=26$. G\u1ecdi $M$ l\u00e0 \u0111i\u1ec3m \u0111\u1ed1i x\u1ee9ng c\u1ee7a $D$ qua $F$, v\u00e0 g\u1ecdi $N$ l\u00e0 \u0111i\u1ec3m \u0111\u1ed1i x\u1ee9ng c\u1ee7a $G$ qua $E$. T\u1ee9 gi\u00e1c $DEGF$ c\u00f3 di\u1ec7n t\u00edch 288. T\u00ecm di\u1ec7n t\u00edch c\u1ee7a h\u00ecnh b\u1ea3y c\u1ea1nh $AFNBCEM$.",
+        "answer": "588",
+        "data_source": "AIME2025",
+        "data_source_id": 1,
+        "lang": "vi",
+        "gid": 31
+    },
+    {
+        "question": "C\u00e1c th\u00e0nh vi\u00ean c\u1ee7a m\u1ed9t \u0111\u1ed9i b\u00f3ng ch\u00e0y g\u1ed3m 9 ng\u01b0\u1eddi \u0111\u00e3 \u0111\u1ebfn m\u1ed9t qu\u00e1n kem sau tr\u1eadn \u0111\u1ea5u. M\u1ed7i c\u1ea7u th\u1ee7 c\u00f3 m\u1ed9t c\u00e2y kem m\u1ed9t vi\u00ean v\u1ecb chocolate, vani, ho\u1eb7c d\u00e2u. \u00cdt nh\u1ea5t m\u1ed9t c\u1ea7u th\u1ee7 ch\u1ecdn m\u1ed7i h\u01b0\u01a1ng v\u1ecb, v\u00e0 s\u1ed1 l\u01b0\u1ee3ng c\u1ea7u th\u1ee7 ch\u1ecdn chocolate nhi\u1ec1u h\u01a1n s\u1ed1 l\u01b0\u1ee3ng c\u1ea7u th\u1ee7 ch\u1ecdn vani, s\u1ed1 l\u01b0\u1ee3ng ch\u1ecdn vani l\u1ea1i nhi\u1ec1u h\u01a1n s\u1ed1 l\u01b0\u1ee3ng ch\u1ecdn d\u00e2u. \u0110\u1eb7t $N$ l\u00e0 s\u1ed1 l\u01b0\u1ee3ng c\u00e1c s\u1ef1 ph\u00e2n c\u00f4ng h\u01b0\u01a1ng v\u1ecb cho c\u00e1c c\u1ea7u th\u1ee7 \u0111\u00e1p \u1ee9ng nh\u1eefng \u0111i\u1ec1u ki\u1ec7n n\u00e0y. T\u00ecm ph\u1ea7n d\u01b0 khi $N$ \u0111\u01b0\u1ee3c chia cho 1000.",
+        "answer": "16",
+        "data_source": "AIME2025",
+        "data_source_id": 2,
+        "lang": "vi",
+        "gid": 32
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 c\u00e1c c\u1eb7p s\u1ed1 th\u1ee9 t\u1ef1 $(x, y)$, trong \u0111\u00f3 c\u1ea3 $x$ v\u00e0 $y$ \u0111\u1ec1u l\u00e0 s\u1ed1 nguy\u00ean t\u1eeb $-100$ \u0111\u1ebfn $100$ (bao g\u1ed3m c\u1ea3 hai gi\u1edbi h\u1ea1n), sao cho $12x^{2} - xy - 6y^{2} = 0$.",
+        "answer": "117",
+        "data_source": "AIME2025",
+        "data_source_id": 3,
+        "lang": "vi",
+        "gid": 33
+    },
+    {
+        "question": "C\u00f3 $8!=40320$ s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 t\u00e1m ch\u1eef s\u1ed1 s\u1eed d\u1ee5ng m\u1ed7i ch\u1eef s\u1ed1 t\u1eeb $1,2,3,4,5,6,7,8$ \u0111\u00fang m\u1ed9t l\u1ea7n. \u0110\u1eb7t $N$ l\u00e0 s\u1ed1 c\u00e1c s\u1ed1 nguy\u00ean n\u00e0y chia h\u1ebft cho 22. T\u00ecm s\u1ef1 kh\u00e1c bi\u1ec7t gi\u1eefa $N$ v\u00e0 2025.",
+        "answer": "279",
+        "data_source": "AIME2025",
+        "data_source_id": 4,
+        "lang": "vi",
+        "gid": 34
+    },
+    {
+        "question": "M\u1ed9t h\u00ecnh thang c\u00e2n c\u00f3 m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n n\u1ed9i ti\u1ebfp ti\u1ebfp x\u00fac v\u1edbi c\u1ea3 b\u1ed1n c\u1ea1nh c\u1ee7a n\u00f3. B\u00e1n k\u00ednh c\u1ee7a h\u00ecnh tr\u00f2n l\u00e0 3, v\u00e0 di\u1ec7n t\u00edch c\u1ee7a h\u00ecnh thang l\u00e0 72. Cho ph\u00e9p hai c\u1ea1nh song song c\u1ee7a h\u00ecnh thang c\u00f3 \u0111\u1ed9 d\u00e0i $r$ v\u00e0 $s$, v\u1edbi $r \\neq s$. T\u00ecm $r^{2}+s^{2}$.",
+        "answer": "504",
+        "data_source": "AIME2025",
+        "data_source_id": 5,
+        "lang": "vi",
+        "gid": 35
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 12 k\u00fd t\u1ef1 $A, B, C, D, E, F, G, H, I, J, K$, v\u00e0 $L$ \u0111\u01b0\u1ee3c gh\u00e9p ng\u1eabu nhi\u00ean th\u00e0nh 6 c\u1eb7p. M\u1ed7i c\u1eb7p \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp theo th\u1ee9 t\u1ef1 ch\u1eef c\u00e1i t\u1ea1o th\u00e0nh 6 t\u1eeb gh\u00e9p \u0111\u00f4i, sau \u0111\u00f3 li\u1ec7t k\u00ea theo th\u1ee9 t\u1ef1 ch\u1eef c\u00e1i. V\u00ed d\u1ee5, k\u1ebft qu\u1ea3 c\u00f3 th\u1ec3 l\u00e0 $AB, CJ, DG, EK, FL, HI$. X\u00e1c su\u1ea5t \u0111\u1ec3 t\u1eeb cu\u1ed1i c\u00f9ng ch\u1ee9a $G$ l\u00e0 $\\frac{m}{n}$ ($m$ v\u00e0 $n$ nguy\u00ean t\u1ed1 c\u00f9ng nhau). T\u00ecm $m+n$.  \uff09\uff1a",
+        "answer": "821",
+        "data_source": "AIME2025",
+        "data_source_id": 6,
+        "lang": "vi",
+        "gid": 36
+    },
+    {
+        "question": "Cho $k$ l\u00e0 s\u1ed1 th\u1ef1c sao cho h\u1ec7 ph\u01b0\u01a1ng tr\u00ecnh $|25+20i-z|=5$ v\u00e0 $|z-4-k|=|z-3i-k|$ c\u00f3 \u0111\u00fang m\u1ed9t nghi\u1ec7m ph\u1ee9c $z$. T\u1ed5ng t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb kh\u1ea3 d\u0129 c\u1ee7a $k$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng $\\frac{m}{n}$, n\u01a1i m\u00e0 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng t\u01b0\u01a1ng \u0111\u1ed1i nguy\u00ean t\u1ed1. T\u00ecm $m+n$. \u1ede \u0111\u00e2y $i=\\sqrt{-1}$.",
+        "answer": "77",
+        "data_source": "AIME2025",
+        "data_source_id": 7,
+        "lang": "vi",
+        "gid": 37
+    },
+    {
+        "question": "Parabol c\u00f3 ph\u01b0\u01a1ng tr\u00ecnh $y=x^{2}-4$ \u0111\u01b0\u1ee3c xoay m\u1ed9t g\u00f3c $60^{\\circ}$ ng\u01b0\u1ee3c chi\u1ec1u kim \u0111\u1ed3ng h\u1ed3 quanh g\u1ed1c t\u1ecda \u0111\u1ed9. \u0110i\u1ec3m duy nh\u1ea5t \u1edf g\u00f3c th\u1ee9 t\u01b0 n\u01a1i parabol g\u1ed1c v\u00e0 \u1ea3nh c\u1ee7a n\u00f3 c\u1eaft nhau c\u00f3 t\u1ecda \u0111\u1ed9 $y$ l\u00e0 $\\frac{a-\\sqrt{b}}{c}$, n\u01a1i m\u00e0 $a$, $b$, v\u00e0 $c$ l\u00e0 nh\u1eefng s\u1ed1 nguy\u00ean d\u01b0\u01a1ng, v\u00e0 $a$ v\u1edbi $c$ l\u00e0 c\u1eb7p nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $a+b+c$.",
+        "answer": "62",
+        "data_source": "AIME2025",
+        "data_source_id": 8,
+        "lang": "vi",
+        "gid": 38
+    },
+    {
+        "question": "27 \u00f4 c\u1ee7a l\u01b0\u1edbi $3\\times9$ \u0111\u01b0\u1ee3c \u0111i\u1ec1n b\u1eb1ng c\u00e1c s\u1ed1 t\u1eeb 1 \u0111\u1ebfn 9 sao cho m\u1ed7i h\u00e0ng ch\u1ee9a 9 s\u1ed1 kh\u00e1c nhau, v\u00e0 m\u1ed7i kh\u1ed1i $3\\times3$ \u0111\u01b0\u1ee3c khoanh v\u00f9ng m\u1ea1nh m\u1ebd trong v\u00ed d\u1ee5 d\u01b0\u1edbi \u0111\u00e2y ch\u1ee9a 9 s\u1ed1 kh\u00e1c nhau, gi\u1ed1ng nh\u01b0 ba h\u00e0ng \u0111\u1ea7u ti\u00ean c\u1ee7a m\u1ed9t b\u00e0i to\u00e1n Sudoku.  | 4 | 2 | 8 | 9 | 6 | 3 | 1 | 7 | 5 |   | 3 | 7 | 9 | 5 | 2 | 1 | 6 | 8 | 4 |   | 5 | 6 | 1 | 8 | 4 | 7 | 9 | 2 | 3 |  S\u1ed1 l\u01b0\u1ee3ng c\u00e1c c\u00e1ch kh\u00e1c nhau \u0111\u1ec3 \u0111i\u1ec1n v\u00e0o l\u01b0\u1edbi nh\u01b0 v\u1eady c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng $p^a\\cdot q^b\\cdot r^c\\cdot s^d$, n\u01a1i m\u00e0 $p,q,r,$ v\u00e0 $s$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean t\u1ed1 ph\u00e2n bi\u1ec7t v\u00e0 $a,b,c,$ v\u00e0 $d$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng. T\u00ecm $p\\cdot a+q\\cdot b+r\\cdot c+s\\cdot d$.",
+        "answer": "81",
+        "data_source": "AIME2025",
+        "data_source_id": 9,
+        "lang": "vi",
+        "gid": 39
+    },
+    {
+        "question": "M\u1ed9t h\u00e0m tuy\u1ebfn t\u00ednh t\u1eebng kh\u00fac c\u00f3 t\u00ednh chu k\u1ef3 \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh b\u1edfi $f(x)=\\begin{cases}x&\\text{n\u1ebfu }x\\in[-1,1)\\\\2-x&\\text{n\u1ebfu } x\\in[1,3)\\end{cases}$ v\u00e0 $f(x+4)=f(x)$ v\u1edbi m\u1ecdi s\u1ed1 th\u1ef1c $x$. \u0110\u1ed3 th\u1ecb c\u1ee7a $f(x)$ c\u00f3 h\u00ecnh d\u1ea1ng nh\u01b0 r\u0103ng c\u01b0a. Parabol $x=34y^2$ c\u1eaft \u0111\u1ed3 th\u1ecb c\u1ee7a $f(x)$ t\u1ea1i m\u1ed9t s\u1ed1 h\u1eefu h\u1ea1n \u0111i\u1ec3m. T\u1ed5ng c\u1ee7a c\u00e1c t\u1ecda \u0111\u1ed9 $y$ t\u1ea1i nh\u1eefng \u0111i\u1ec3m giao n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $\\frac{a+b\\sqrt{c}}{d}$, \u1edf \u0111\u00e2y $a,b,c,$ v\u00e0 $d$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng, $a,b,$ v\u00e0 $d$ c\u00f3 \u01b0\u1edbc chung l\u1edbn nh\u1ea5t b\u1eb1ng 1, v\u00e0 $c$ kh\u00f4ng chia h\u1ebft cho b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a b\u1ea5t k\u1ef3 s\u1ed1 nguy\u00ean t\u1ed1 n\u00e0o. T\u00ecm $a+b+c+d$.",
+        "answer": "259",
+        "data_source": "AIME2025",
+        "data_source_id": 10,
+        "lang": "vi",
+        "gid": 40
+    },
+    {
+        "question": "B\u1ed9 \u0111i\u1ec3m trong kh\u00f4ng gian t\u1ecda \u0111\u1ed9 3 chi\u1ec1u n\u1eb1m trong m\u1eb7t ph\u1eb3ng $x+y+z=75$ m\u00e0 t\u1ecda \u0111\u1ed9 c\u1ee7a ch\u00fang th\u1ecfa m\u00e3n c\u00e1c b\u1ea5t \u0111\u1eb3ng th\u1ee9c $x-yz<y-zx<z-xy$ t\u1ea1o th\u00e0nh ba v\u00f9ng l\u1ed3i r\u1eddi nhau. Ch\u00ednh x\u00e1c m\u1ed9t trong nh\u1eefng v\u00f9ng \u0111\u00f3 c\u00f3 di\u1ec7n t\u00edch h\u1eefu h\u1ea1n. Di\u1ec7n t\u00edch c\u1ee7a v\u00f9ng h\u1eefu h\u1ea1n n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $a\\sqrt{b}$, trong \u0111\u00f3 $a$ v\u00e0 $b$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0 $b$ kh\u00f4ng chia h\u1ebft cho b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a b\u1ea5t k\u1ef3 s\u1ed1 nguy\u00ean t\u1ed1 n\u00e0o. T\u00ecm $a+b$.",
+        "answer": "510",
+        "data_source": "AIME2025",
+        "data_source_id": 11,
+        "lang": "vi",
+        "gid": 41
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 Alex chia h\u00ecnh tr\u00f2n th\u00e0nh b\u1ed1n ph\u1ea7n b\u1eb1ng nhau b\u1edfi hai \u0111\u01b0\u1eddng k\u00ednh vu\u00f4ng g\u00f3c t\u1ea1i t\u00e2m. Anh v\u1ebd th\u00eam 25 \u0111o\u1ea1n th\u1eb3ng ng\u1eabu nhi\u00ean qua h\u00ecnh tr\u00f2n, m\u1ed7i \u0111o\u1ea1n n\u1ed1i hai \u0111i\u1ec3m ch\u1ecdn ng\u1eabu nhi\u00ean tr\u00ean chu vi thu\u1ed9c c\u00e1c ph\u1ea7n kh\u00e1c nhau. T\u00ednh gi\u00e1 tr\u1ecb k\u1ef3 v\u1ecdng s\u1ed1 v\u00f9ng t\u1ea1o b\u1edfi t\u1ed5ng c\u1ed9ng 27 \u0111o\u1ea1n th\u1eb3ng n\u00e0y.  \uff09\uff1a",
+        "answer": "204",
+        "data_source": "AIME2025",
+        "data_source_id": 12,
+        "lang": "vi",
+        "gid": 42
+    },
+    {
+        "question": "H\u00e3y cho ng\u0169 gi\u00e1c l\u1ed3i $ABCDE$ v\u1edbi $AB=14, BC=7, CD=24, DE=13, EA=26,$ v\u00e0 $\\angle B=\\angle E=60^\\circ$. \u0110\u1ed1i v\u1edbi m\u1ed7i \u0111i\u1ec3m $X$ tr\u00ean m\u1eb7t ph\u1eb3ng, x\u00e1c \u0111\u1ecbnh $f(X)=AX+BX+CX+DX+EX$. Gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u00f3 c\u1ee7a $f(X)$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $m+n\\sqrt{p}$, trong \u0111\u00f3 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0 $p$ kh\u00f4ng chia h\u1ebft cho b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a b\u1ea5t k\u1ef3 s\u1ed1 nguy\u00ean t\u1ed1 n\u00e0o. T\u00ecm $m+n+p$.",
+        "answer": "60",
+        "data_source": "AIME2025",
+        "data_source_id": 13,
+        "lang": "vi",
+        "gid": 43
+    },
+    {
+        "question": "H\u00e3y \u0111\u1ec3 $N$ bi\u1ec3u th\u1ecb s\u1ed1 l\u01b0\u1ee3ng ba s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 th\u1ee9 t\u1ef1 $(a,b,c)$ sao cho $a,b,c\\leq3^6$ v\u00e0 $a^3+b^3+c^3$ l\u00e0 b\u1ed9i s\u1ed1 c\u1ee7a $3^7$. T\u00ecm ph\u1ea7n d\u01b0 khi $N$ chia cho $1000$.",
+        "answer": "735",
+        "data_source": "AIME2025",
+        "data_source_id": 14,
+        "lang": "vi",
+        "gid": 44
+    },
+    {
+        "question": "N\u1ebfu s\u1ed1 th\u1ef1c $m > 1$ tho\u1ea3 m\u00e3n $\\log_9(\\log_8 m) = 2024$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $\\log_3(\\log_2 m)$ l\u00e0 bao nhi\u00eau?",
+        "answer": "$4049$",
+        "data_source": "CNMO",
+        "data_source_id": 0,
+        "lang": "vi",
+        "gid": 45
+    },
+    {
+        "question": "Cho m\u1ed9t d\u00e3y s\u1ed1 h\u00ecnh h\u1ecdc v\u00f4 h\u1ea1n $\\{a_n\\}$ c\u00f3 t\u1ec9 s\u1ed1 c\u00f4ng b\u1ed9i chung $q$ th\u1ecfa m\u00e3n $0 < |q| < 1$. N\u1ebfu t\u1ed5ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 h\u1ea1ng trong $\\{a_n\\}$ b\u1eb1ng t\u1ed5ng b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 h\u1ea1ng, th\u00ec ph\u1ea1m vi gi\u00e1 tr\u1ecb cho $a_2$ l\u00e0 g\u00ec?",
+        "answer": "$[-\\frac{1}{4}, 0) \\cup (0, 2)$",
+        "data_source": "CNMO",
+        "data_source_id": 1,
+        "lang": "vi",
+        "gid": 46
+    },
+    {
+        "question": "Cho c\u00e1c s\u1ed1 th\u1ef1c $a, b$ sao cho t\u1eadp $A = \\{x \\in \\mathbf{R} \\mid x^2-10x+a \\leq 0\\}$ v\u00e0 $B = \\{x \\in \\mathbf{R} \\mid bx \\leq b^3\\}$ giao nhau t\u1ea1i [4,9], h\u1ecfi gi\u00e1 tr\u1ecb c\u1ee7a $a+b$ l\u00e0 bao nhi\u00eau?",
+        "answer": "$7$",
+        "data_source": "CNMO",
+        "data_source_id": 2,
+        "lang": "vi",
+        "gid": 47
+    },
+    {
+        "question": "Trong m\u1ed9t h\u00ecnh ch\u00f3p tam gi\u00e1c $P-ABC$, n\u1ebfu $PA \\perp$ \u0111\u00e1y $ABC$, v\u00e0 \u0111\u1ed9 d\u00e0i c\u00e1c c\u1ea1nh $AB$, $BP$, $BC$, $CP$ l\u1ea7n l\u01b0\u1ee3t l\u00e0 1, 2, 3, 4, th\u00ec th\u1ec3 t\u00edch c\u1ee7a h\u00ecnh ch\u00f3p tam gi\u00e1c n\u00e0y l\u00e0 bao nhi\u00eau?",
+        "answer": "$\\frac{3}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 3,
+        "lang": "vi",
+        "gid": 48
+    },
+    {
+        "question": "Cho m\u1ed9t con x\u00fac x\u1eafc kh\u00f4ng \u0111\u1ec1u, x\u00e1c su\u1ea5t \u0111\u1ec3 gieo ra c\u00e1c s\u1ed1 $1, 2, 3, 4, 5, 6$ t\u1ea1o th\u00e0nh m\u1ed9t d\u00e3y c\u1ea5p s\u1ed1 c\u1ed9ng. Gieo con x\u00fac x\u1eafc hai l\u1ea7n m\u1ed9t c\u00e1ch \u0111\u1ed9c l\u1eadp, \u0111i\u1ec3m s\u1ed1 l\u1ea7n l\u01b0\u1ee3t l\u00e0 $a, b$. N\u1ebfu x\u00e1c su\u1ea5t c\u1ee7a bi\u1ebfn c\u1ed1 $a+b=7$ x\u1ea3y ra l\u00e0 $\\frac{1}{7}$, th\u00ec x\u00e1c su\u1ea5t c\u1ee7a bi\u1ebfn c\u1ed1 $a=b$ x\u1ea3y ra l\u00e0 bao nhi\u00eau?",
+        "answer": "$\\frac{4}{21}$",
+        "data_source": "CNMO",
+        "data_source_id": 4,
+        "lang": "vi",
+        "gid": 49
+    },
+    {
+        "question": "H\u00e3y \u0111\u1ec3 $f(x)$ l\u00e0 m\u1ed9t h\u00e0m s\u1ed1 v\u1edbi t\u1eadp x\u00e1c \u0111\u1ecbnh l\u00e0 $\\mathbf{R}$ v\u00e0 chu k\u1ef3 d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t l\u00e0 5. N\u1ebfu h\u00e0m s\u1ed1 $g(x)=f(2^x)$ c\u00f3 25 nghi\u1ec7m trong kho\u1ea3ng $[0,5)$, h\u1ecfi $g(x)$ c\u00f3 bao nhi\u00eau nghi\u1ec7m trong kho\u1ea3ng $[1,4)$?",
+        "answer": "$11$",
+        "data_source": "CNMO",
+        "data_source_id": 5,
+        "lang": "vi",
+        "gid": 50
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08Cho $F_1$, $F_2$ l\u00e0 hai ti\u00eau \u0111i\u1ec3m c\u1ee7a elip $\\Omega$. L\u1ea5y \u0111i\u1ec3m $P$ b\u1ea5t k\u1ef3 tr\u00ean $\\Omega$ (kh\u00f4ng tr\u00f9ng v\u1edbi \u0111\u1ea7u m\u00fat tr\u1ee5c l\u1edbn), g\u1ecdi $O$ l\u00e0 t\u00e2m \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp tam gi\u00e1c $\\triangle PF_1F_2$. Bi\u1ebft $\\overrightarrow{PO} \\cdot \\overrightarrow{F_1F_2} = 2\\overrightarrow{PF_1} \\cdot \\overrightarrow{PF_2}$, t\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a t\u00e2m sai $e$ c\u1ee7a $\\Omega$.  \uff09\uff1a",
+        "answer": "$\\frac{\\sqrt{6}}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 6,
+        "lang": "vi",
+        "gid": 51
+    },
+    {
+        "question": "N\u1ebfu ba s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $a, b, c$ c\u00f3 t\u1ed5ng c\u1ed9ng 8 ch\u1eef s\u1ed1, v\u00e0 8 ch\u1eef s\u1ed1 \u0111\u00f3 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp th\u00e0nh 2, 0, 2, 4, 0, 9, 0, 8, th\u00ec $(a, b, c)$ \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 'd\u00e3y may m\u1eafn', v\u00ed d\u1ee5 (9, 8, 202400) l\u00e0 m\u1ed9t d\u00e3y may m\u1eafn. C\u00f3 bao nhi\u00eau d\u00e3y may m\u1eafn $(a, b, c)$ th\u1ecfa m\u00e3n $10 < a < b < c$?",
+        "answer": "$591$",
+        "data_source": "CNMO",
+        "data_source_id": 7,
+        "lang": "vi",
+        "gid": 52
+    },
+    {
+        "question": "Trong $\\triangle ABC$, cho $\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$, t\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $\\cos C$.",
+        "answer": "$\\frac{\\sqrt{7}}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 8,
+        "lang": "vi",
+        "gid": 53
+    },
+    {
+        "question": "Trong h\u1ec7 t\u1ecda \u0111\u1ed9 Descartes, h\u00e3y \u0111\u1ec3 \u0111\u1ec9nh b\u00ean ph\u1ea3i c\u1ee7a hyperbol $\\Gamma: x^2 - y^2 = 1$ l\u00e0 $A$. M\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 t\u00e2m n\u1eb1m tr\u00ean tr\u1ee5c $y$ v\u00e0 ch\u1ea1m v\u00e0o t\u1eebng nh\u00e1nh c\u1ee7a $\\Gamma$ \u0111\u00fang m\u1ed9t l\u1ea7n \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 '\u0111\u01b0\u1eddng tr\u00f2n t\u1ed1t'. N\u1ebfu hai \u0111\u01b0\u1eddng tr\u00f2n t\u1ed1t ch\u1ea1m ngo\u00e0i t\u1ea1i \u0111i\u1ec3m $P$ v\u00e0 c\u00f3 c\u00e1c t\u00e2m c\u00e1ch nhau m\u1ed9t kho\u1ea3ng c\u00e1ch $d$, t\u00ecm t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a $\\frac{d}{|PA|}$.",
+        "answer": "$2\\sqrt{2}$",
+        "data_source": "CNMO",
+        "data_source_id": 9,
+        "lang": "vi",
+        "gid": 54
+    },
+    {
+        "question": "Cho c\u00e1c s\u1ed1 ph\u1ee9c $z, w$ sao cho $z + w = 2$, t\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $S = |z^2 - 2w| + |w^2 - 2z|$.",
+        "answer": "$8\\sqrt{5} - 16$",
+        "data_source": "CNMO",
+        "data_source_id": 10,
+        "lang": "vi",
+        "gid": 55
+    },
+    {
+        "question": "Cho c\u00e1c s\u1ed1 th\u1ef1c $a, b$, n\u1ebfu t\u1eadp h\u1ee3p gi\u1ea3i ph\u00e1p c\u1ee7a b\u1ea5t \u0111\u1eb3ng th\u1ee9c b\u1eadc hai $x^2 + b < ax$ l\u00e0 $(1,5)$, th\u00ec t\u1eadp h\u1ee3p gi\u1ea3i ph\u00e1p c\u1ee7a b\u1ea5t \u0111\u1eb3ng th\u1ee9c b\u1eadc hai $x^2 - ax > bx$ l\u00e0 g\u00ec?",
+        "answer": "$(-\\infty,-1)\\cup(6,+\\infty)$",
+        "data_source": "CNMO",
+        "data_source_id": 11,
+        "lang": "vi",
+        "gid": 56
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a $y=\\frac{4^x+1}{2^x+1}$ l\u00e0 bao nhi\u00eau?",
+        "answer": "$2\\sqrt{2}-2$",
+        "data_source": "CNMO",
+        "data_source_id": 12,
+        "lang": "vi",
+        "gid": 57
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08M\u1ed9t con \u1ebfch nh\u1ea3y gi\u1eefa b\u1ed1n \u0111\u1ec9nh h\u00ecnh vu\u00f4ng $ABCD$, m\u1ed7i l\u1ea7n nh\u1ea3y \u0111\u1ebfn m\u1ed9t trong hai \u0111\u1ec9nh li\u1ec1n k\u1ec1 v\u1edbi x\u00e1c su\u1ea5t b\u1eb1ng nhau v\u00e0 \u0111\u1ed9c l\u1eadp. N\u1ebfu \u1ebfch b\u1eaft \u0111\u1ea7u t\u1eeb \u0111\u1ec9nh $A$, t\u00ednh x\u00e1c su\u1ea5t n\u00f3 tr\u1edf v\u1ec1 $A$ sau b\u01b0\u1edbc nh\u1ea3y th\u1ee9 6.  \uff09\uff1a",
+        "answer": "$\\frac{1}{2}$",
+        "data_source": "CNMO",
+        "data_source_id": 13,
+        "lang": "vi",
+        "gid": 58
+    },
+    {
+        "question": "D\u00e3y s\u1ed1 $\\{a_n\\}$ th\u1ecfa m\u00e3n $a_1=1$, v\u00e0 v\u1edbi m\u1ecdi s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $n$, ta c\u00f3 $a_{n+1}=10^{n}{a_n^2}$. H\u1ecfi c\u00f4ng th\u1ee9c t\u1ed5ng qu\u00e1t c\u1ee7a d\u00e3y s\u1ed1 $\\{a_n\\}$ l\u00e0 g\u00ec?",
+        "answer": "$10^{2^n-n-1}$",
+        "data_source": "CNMO",
+        "data_source_id": 14,
+        "lang": "vi",
+        "gid": 59
+    },
+    {
+        "question": "N\u1ebfu ba s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $a, b, c$ c\u00f3 t\u1ed5ng c\u1ed9ng 8 ch\u1eef s\u1ed1, v\u00e0 8 ch\u1eef s\u1ed1 n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c x\u1ebfp th\u00e0nh 2, 0, 2, 4, 0, 9, 0, 8, th\u00ec b\u1ed9 ba $(a, b, c)$ \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 'b\u1ed9 may m\u1eafn', v\u00ed d\u1ee5 (9, 8, 202400) l\u00e0 m\u1ed9t b\u1ed9 may m\u1eafn. C\u00f3 bao nhi\u00eau b\u1ed9 may m\u1eafn $(a, b, c)$ th\u1ecfa m\u00e3n $10 < a < b < 100$?",
+        "answer": "$291$",
+        "data_source": "CNMO",
+        "data_source_id": 15,
+        "lang": "vi",
+        "gid": 60
+    },
+    {
+        "question": "Trong $\\triangle ABC$, cho bi\u1ebft $\\cos C = \\frac{\\sin A + \\cos A}{2} = \\frac{\\sin B + \\cos B}{2}$, t\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $\\sin C$.",
+        "answer": "$\\frac{3}{4}$",
+        "data_source": "CNMO",
+        "data_source_id": 16,
+        "lang": "vi",
+        "gid": 61
+    },
+    {
+        "question": "Trong h\u1ec7 t\u1ecda \u0111\u1ed9 Descartes, m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 t\u00e2m n\u1eb1m tr\u00ean tr\u1ee5c tung $y$ v\u00e0 ti\u1ebfp x\u00fac v\u1edbi m\u1ed7i nh\u00e1nh c\u1ee7a hyperbol $\\Gamma: x^2 - y^2 = 1$ \u0111\u00fang m\u1ed9t l\u1ea7n \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 '\u0111\u01b0\u1eddng tr\u00f2n t\u1ed1t'. C\u00f3 m\u1ed9t h\u1eb1ng s\u1ed1 $\\lambda$ v\u00e0 m\u1ed9t \u0111i\u1ec3m c\u1ed1 \u0111\u1ecbnh $A$ tr\u00ean tr\u1ee5c ho\u00e0nh sao cho n\u1ebfu hai \u0111\u01b0\u1eddng tr\u00f2n t\u1ed1t ti\u1ebfp x\u00fac ngo\u00e0i t\u1ea1i \u0111i\u1ec3m $P$, th\u00ec kho\u1ea3ng c\u00e1ch gi\u1eefa hai t\u00e2m $d = \\lambda |PA|$ kh\u00f4ng?",
+        "answer": "$\\lambda=2\\sqrt{2}, A(\\pm 1, 0)$",
+        "data_source": "CNMO",
+        "data_source_id": 17,
+        "lang": "vi",
+        "gid": 62
+    },
+    {
+        "question": "196 c\u00f3 bao nhi\u00eau \u01b0\u1edbc s\u1ed1 nguy\u00ean d\u01b0\u01a1ng?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 3,
+        "lang": "vi",
+        "gid": 63
+    },
+    {
+        "question": "M\u1ed9t h\u00ecnh l\u1ee5c gi\u00e1c \u0111\u1ec1u c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c chia th\u00e0nh s\u00e1u tam gi\u00e1c \u0111\u1ec1u. N\u1ebfu chu vi c\u1ee7a m\u1ed9t trong nh\u1eefng tam gi\u00e1c l\u00e0 21 inch, th\u00ec chu vi, t\u00ednh b\u1eb1ng inch, c\u1ee7a h\u00ecnh l\u1ee5c gi\u00e1c \u0111\u1ec1u l\u00e0 bao nhi\u00eau?",
+        "answer": "42",
+        "data_source": "MATH500",
+        "data_source_id": 5,
+        "lang": "vi",
+        "gid": 64
+    },
+    {
+        "question": "C\u00e2u h\u1ecfi c\u1ee7a t\u00f4i l\u00e0: S\u1ed1 l\u1eadp ph\u01b0\u01a1ng d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng t\u1ed5ng c\u1ee7a ba s\u1ed1 nguy\u00ean li\u00ean ti\u1ebfp l\u00e0 g\u00ec?",
+        "answer": "27",
+        "data_source": "MATH500",
+        "data_source_id": 6,
+        "lang": "vi",
+        "gid": 65
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 Bi\u1ec3u th\u1ee9c $2\\cdot 3 \\cdot 4\\cdot 5+1$ b\u1eb1ng 121 do ph\u00e9p nh\u00e2n \u0111\u01b0\u1ee3c \u01b0u ti\u00ean tr\u01b0\u1edbc ph\u00e9p c\u1ed9ng. Tuy nhi\u00ean, c\u00f3 th\u1ec3 thu \u0111\u01b0\u1ee3c c\u00e1c gi\u00e1 tr\u1ecb kh\u00e1c 121 b\u1eb1ng c\u00e1ch th\u00eam d\u1ea5u ngo\u1eb7c. V\u00ed d\u1ee5: $$ (2\\cdot (3\\cdot 4)) \\cdot (5+1) = 144. $$H\u1ecfi c\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb kh\u1ea3 d\u0129 thu \u0111\u01b0\u1ee3c t\u1eeb bi\u1ec3u th\u1ee9c $2\\cdot 3\\cdot 4 \\cdot 5 + 1$ khi th\u00eam d\u1ea5u ngo\u1eb7c? (Ch\u00fa \u00fd: kh\u00f4ng \u0111\u01b0\u1ee3c thay \u0111\u1ed5i th\u1ee9 t\u1ef1 s\u1ed1 h\u1ea1ng, ch\u1ec9 \u0111\u01b0\u1ee3c th\u00eam d\u1ea5u ngo\u1eb7c).  \uff09\uff1a",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 9,
+        "lang": "vi",
+        "gid": 66
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t l\u00e0 b\u1ed9i s\u1ed1 c\u1ee7a 30 m\u00e0 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft ch\u1ec9 v\u1edbi c\u00e1c ch\u1eef s\u1ed1 0 v\u00e0 2 l\u00e0 bao nhi\u00eau?",
+        "answer": "2220",
+        "data_source": "MATH500",
+        "data_source_id": 10,
+        "lang": "vi",
+        "gid": 67
+    },
+    {
+        "question": "C\u00e1c \u01b0\u1edbc s\u1ed1 th\u00edch h\u1ee3p c\u1ee7a 12 l\u00e0 1, 2, 3, 4 v\u00e0 6. M\u1ed9t \u01b0\u1edbc s\u1ed1 th\u00edch h\u1ee3p c\u1ee7a m\u1ed9t s\u1ed1 nguy\u00ean $N$ l\u00e0 m\u1ed9t \u01b0\u1edbc s\u1ed1 d\u01b0\u01a1ng c\u1ee7a $N$ nh\u1ecf h\u01a1n $N$. T\u1ed5ng c\u1ee7a c\u00e1c \u01b0\u1edbc s\u1ed1 th\u00edch h\u1ee3p c\u1ee7a t\u1ed5ng c\u1ee7a c\u00e1c \u01b0\u1edbc s\u1ed1 th\u00edch h\u1ee3p c\u1ee7a 284 l\u00e0 bao nhi\u00eau?",
+        "answer": "284",
+        "data_source": "MATH500",
+        "data_source_id": 12,
+        "lang": "vi",
+        "gid": 68
+    },
+    {
+        "question": "Th\u1ec3 t\u00edch c\u1ee7a h\u00ecnh tr\u1ee5 \u0111\u01b0\u1ee3c hi\u1ec3n th\u1ecb l\u00e0 $45\\pi$ cm kh\u1ed1i. Chi\u1ec1u cao c\u1ee7a h\u00ecnh tr\u1ee5 l\u00e0 bao nhi\u00eau cm? [asy] size(120); draw(shift(2.2,0)*yscale(0.3)*Circle((0,0), 1.2));  draw((1,0)--(1,-2)); draw((3.4,0)--(3.4,-2));  draw((1,-2)..(2.2,-2.36)..(3.4,-2));  label(\"$h$\",midpoint((3.4,0)--(3.4,-2)),E);  draw (((2.2,0)--(3.4,0)));  label(\"$r=3$\",midpoint((2.2,0)--(3.4,0)),N);  [/asy]",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 13,
+        "lang": "vi",
+        "gid": 69
+    },
+    {
+        "question": "T\u00ednh to\u00e1n: $1-2+3-4+5- \\dots +99-100$.",
+        "answer": "-50",
+        "data_source": "MATH500",
+        "data_source_id": 16,
+        "lang": "vi",
+        "gid": 70
+    },
+    {
+        "question": "\u0110o\u1ea1n th\u1eb3ng $\\overline{BC}$ song song v\u1edbi \u0111o\u1ea1n th\u1eb3ng \u0111i qua $A$, v\u00e0 $AB = BC$. H\u1ecfi s\u1ed1 \u0111\u1ed9 bi\u1ec3u di\u1ec5n b\u1edfi $x$ l\u00e0 bao nhi\u00eau?  [asy] draw((0,0)--(10,0)); draw((0,3)--(10,3)); draw((2,3)--(8,0)); draw((2,3)--(4,0)); label(\"$A$\",(2,3),N); label(\"$B$\",(4,0),S); label(\"$C$\",(8,0),S); label(\"$124^{\\circ}$\",(2,3),SW); label(\"$x^{\\circ}$\",(4.5,3),S); [/asy]",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 18,
+        "lang": "vi",
+        "gid": 71
+    },
+    {
+        "question": "Cho $a$ l\u00e0 m\u1ed9t s\u1ed1 th\u1ef1c d\u01b0\u01a1ng sao cho t\u1ea5t c\u1ea3 c\u00e1c nghi\u1ec7m c\u1ee7a \\[x^3 + ax^2 + ax + 1 = 0\\]l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c. T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u00f3 c\u1ee7a $a.$",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 19,
+        "lang": "vi",
+        "gid": 72
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 nguy\u00ean l\u1edbn nh\u1ea5t nh\u1ecf h\u01a1n $(\\sqrt{7} + \\sqrt{5})^6.$ (Kh\u00f4ng s\u1eed d\u1ee5ng m\u00e1y t\u00ednh!)",
+        "answer": "13535",
+        "data_source": "MATH500",
+        "data_source_id": 21,
+        "lang": "vi",
+        "gid": 73
+    },
+    {
+        "question": "Denali v\u00e0 Nate l\u00e0m vi\u1ec7c cho m\u1ed9t doanh nghi\u1ec7p d\u1eabn d\u1eaft ch\u00f3 v\u00e0 \u0111\u01b0\u1ee3c tr\u1ea3 ti\u1ec1n cho m\u1ed7i con ch\u00f3 m\u00e0 h\u1ecd d\u1eaft. Denali ch\u1ecbu tr\u00e1ch nhi\u1ec7m cho $16$ con ch\u00f3 v\u00e0 Nate ch\u1ecbu tr\u00e1ch nhi\u1ec7m cho $12$ con ch\u00f3. Theo ch\u00ednh s\u00e1ch m\u1edbi c\u1ee7a c\u00f4ng ty, h\u1ecd s\u1ebd \u0111\u01b0\u1ee3c giao ho\u1eb7c kh\u00f4ng \u0111\u01b0\u1ee3c giao ch\u00f3 m\u1edbi th\u00e0nh t\u1eebng nh\u00f3m $x$ con ch\u00f3. T\u1ec9 l\u1ec7 l\u01b0\u01a1ng c\u1ee7a Denali so v\u1edbi Nate s\u1ebd gi\u1ed1ng nhau n\u1ebfu Denali b\u1eaft \u0111\u1ea7u d\u1eaft th\u00eam $4x$ con ch\u00f3 v\u00e0 Nate v\u1eabn \u1edf $12$ con ch\u00f3 ho\u1eb7c n\u1ebfu $x$ con ch\u00f3 c\u1ee7a Nate \u0111\u01b0\u1ee3c giao l\u1ea1i cho Denali. T\u00ecm $x$ n\u1ebfu $x\\neq0$.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 22,
+        "lang": "vi",
+        "gid": 74
+    },
+    {
+        "question": "M\u1ed9t c\u00f4ng nh\u00e2n nh\u1eadn m\u1ee9c l\u01b0\u01a1ng h\u00e0ng n\u0103m l\u00e0 $\\$20,000$, m\u00e0 anh ta lu\u00f4n g\u1eedi v\u00e0o t\u00e0i kho\u1ea3n ti\u1ebft ki\u1ec7m v\u00e0o cu\u1ed1i n\u0103m. V\u00e0o cu\u1ed1i n\u0103m th\u1ee9 ba (khi anh ta th\u1ef1c hi\u1ec7n l\u1ea7n g\u1eedi ti\u1ec1n th\u1ee9 ba), anh ta mu\u1ed1n c\u00f3 \u00edt nh\u1ea5t $\\$66,200$ trong t\u00e0i kho\u1ea3n \u0111\u1ec3 t\u00e0i tr\u1ee3 cho vi\u1ec7c mua nh\u00e0. L\u00e3i su\u1ea5t k\u00e9p t\u1ed1i thi\u1ec3u m\u00e0 t\u00e0i kho\u1ea3n ti\u1ebft ki\u1ec7m ph\u1ea3i cung c\u1ea5p l\u00e0 bao nhi\u00eau? H\u00e3y bi\u1ec3u di\u1ec5n c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n d\u01b0\u1edbi d\u1ea1ng t\u1ef7 l\u1ec7 ph\u1ea7n tr\u0103m, nh\u01b0ng kh\u00f4ng bao g\u1ed3m d\u1ea5u ph\u1ea7n tr\u0103m.",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 24,
+        "lang": "vi",
+        "gid": 75
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau c\u00e1ch \u0111\u1ec3 $7$ ng\u01b0\u1eddi ng\u1ed3i xung quanh m\u1ed9t b\u00e0n tr\u00f2n n\u1ebfu kh\u00f4ng c\u00f3 hai ng\u01b0\u1eddi trong s\u1ed1 $3$ ng\u01b0\u1eddi Pierre, Rosa, v\u00e0 Thomas c\u00f3 th\u1ec3 ng\u1ed3i c\u1ea1nh nhau? (C\u00e1c c\u00e1ch s\u1eafp x\u1ebfp ng\u1ed3i m\u00e0 l\u00e0 c\u00e1c v\u00f2ng quay c\u1ee7a nhau \u0111\u01b0\u1ee3c coi l\u00e0 gi\u1ed1ng nhau.)",
+        "answer": "144",
+        "data_source": "MATH500",
+        "data_source_id": 26,
+        "lang": "vi",
+        "gid": 76
+    },
+    {
+        "question": "C\u00e2u l\u1ea1c b\u1ed9 to\u00e1n \u0111ang t\u1ed5 ch\u1ee9c m\u1ed9t bu\u1ed5i b\u00e1n h\u00e0ng \u0111\u1ec3 g\u00e2y qu\u1ef9 cho m\u1ed9t chuy\u1ebfn \u0111i s\u1eafp t\u1edbi. H\u1ecd b\u00e1n $54$ b\u00e1nh quy v\u1edbi gi\u00e1 ba c\u00e1i cho $\\$1$, v\u00e0 $20$ b\u00e1nh cupcake v\u1edbi gi\u00e1 $\\$2$ m\u1ed7i c\u00e1i, v\u00e0 $35$ b\u00e1nh brownie v\u1edbi gi\u00e1 $\\$1$ m\u1ed7i c\u00e1i. N\u1ebfu chi ph\u00ed \u0111\u1ec3 l\u00e0m nh\u1eefng m\u00f3n n\u00e0y c\u1ee7a c\u00e2u l\u1ea1c b\u1ed9 to\u00e1n l\u00e0 $\\$15$, l\u1ee3i nhu\u1eadn c\u1ee7a h\u1ecd l\u00e0 bao nhi\u00eau?",
+        "answer": "78",
+        "data_source": "MATH500",
+        "data_source_id": 27,
+        "lang": "vi",
+        "gid": 77
+    },
+    {
+        "question": "Qu\u00e2n \u0111\u1ed9i Hy L\u1ea1p ch\u1ee9a hai lo\u1ea1i binh s\u0129: binh s\u0129 t\u1ea7ng l\u1edbp tr\u00ean v\u00e0 binh s\u0129 t\u1ea7ng l\u1edbp d\u01b0\u1edbi. N\u1ebfu c\u00f3 t\u1ed5ng c\u1ed9ng 5 binh s\u0129 t\u1ea7ng l\u1edbp tr\u00ean v\u00e0 10 binh s\u0129 t\u1ea7ng l\u1edbp d\u01b0\u1edbi \u1edf m\u1ed9t ph\u1ea7n n\u00e0o \u0111\u00f3 c\u1ee7a Athens, v\u00e0 tr\u1eadn chi\u1ebfn \u1edf Thermopylae \u0111\u00f2i h\u1ecfi m\u1ed9t l\u1ef1c l\u01b0\u1ee3ng g\u1ed3m 4 binh s\u0129 t\u1ea7ng l\u1edbp tr\u00ean v\u00e0 8 binh s\u0129 t\u1ea7ng l\u1edbp d\u01b0\u1edbi, c\u00f3 bao nhi\u00eau bi\u1ec7t \u0111\u1ed9i kh\u00e1c nhau c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c g\u1eedi \u0111i?",
+        "answer": "225",
+        "data_source": "MATH500",
+        "data_source_id": 29,
+        "lang": "vi",
+        "gid": 78
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau c\u00e1ch \u0111\u1ec3 8 ng\u01b0\u1eddi ng\u1ed3i xung quanh m\u1ed9t b\u00e0n tr\u00f2n n\u1ebfu 3 trong s\u1ed1 h\u1ecd - Pierre, Rosa v\u00e0 Thomas - t\u1ea5t c\u1ea3 \u0111\u1ec1u mu\u1ed1n ng\u1ed3i c\u1ea1nh nhau? (Hai ph\u01b0\u01a1ng \u00e1n ng\u1ed3i \u0111\u01b0\u1ee3c coi l\u00e0 gi\u1ed1ng nhau n\u1ebfu m\u1ed9t ph\u01b0\u01a1ng \u00e1n l\u00e0 s\u1ef1 xoay v\u00f2ng c\u1ee7a ph\u01b0\u01a1ng \u00e1n kia.)",
+        "answer": "720",
+        "data_source": "MATH500",
+        "data_source_id": 32,
+        "lang": "vi",
+        "gid": 79
+    },
+    {
+        "question": "T\u00ecm h\u1ea1ng t\u1eed h\u1eb1ng trong s\u1ef1 m\u1edf r\u1ed9ng c\u1ee7a \\(\\left(10x^3-\\frac{1}{2x^2}\\right)^{5}\\)",
+        "answer": "-125",
+        "data_source": "MATH500",
+        "data_source_id": 34,
+        "lang": "vi",
+        "gid": 80
+    },
+    {
+        "question": "N\u1ebfu $n \\equiv 2 \\pmod{7}$, t\u00ecm s\u1ed1 d\u01b0 khi $(n + 2)(n + 4)(n + 6)$ \u0111\u01b0\u1ee3c chia cho 7.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 35,
+        "lang": "vi",
+        "gid": 81
+    },
+    {
+        "question": "M\u1ed9t ng\u0169 gi\u00e1c \u0111\u1ec1u \u0111\u01b0\u1ee3c xoay theo chi\u1ec1u ng\u01b0\u1ee3c kim \u0111\u1ed3ng h\u1ed3 xung quanh trung t\u00e2m c\u1ee7a n\u00f3. S\u1ed1 \u0111\u1ed9 t\u1ed1i thi\u1ec3u n\u00f3 ph\u1ea3i \u0111\u01b0\u1ee3c xoay cho \u0111\u1ebfn khi n\u00f3 tr\u00f9ng v\u1edbi v\u1ecb tr\u00ed ban \u0111\u1ea7u c\u1ee7a n\u00f3 l\u00e0 bao nhi\u00eau?",
+        "answer": "72",
+        "data_source": "MATH500",
+        "data_source_id": 37,
+        "lang": "vi",
+        "gid": 82
+    },
+    {
+        "question": "N\u1ebfu m\u1ed9t h\u1ed9p \u0111\u1ef1ng \u0111\u1ed3 \u0103n nh\u1eb9 k\u00edch th\u01b0\u1edbc nh\u1ecf ch\u1ee9a \u0111\u00e0o c\u00f3 $40$ calo v\u00e0 chi\u1ebfm $2\\%$ nhu c\u1ea7u calo h\u00e0ng ng\u00e0y c\u1ee7a m\u1ed9t ng\u01b0\u1eddi, th\u00ec c\u1ea7n bao nhi\u00eau calo \u0111\u1ec3 \u0111\u00e1p \u1ee9ng nhu c\u1ea7u calo h\u00e0ng ng\u00e0y c\u1ee7a m\u1ed9t ng\u01b0\u1eddi?",
+        "answer": "2000",
+        "data_source": "MATH500",
+        "data_source_id": 38,
+        "lang": "vi",
+        "gid": 83
+    },
+    {
+        "question": "K\u1ebft qu\u1ea3 l\u00e0 g\u00ec khi \u01b0\u1edbc chung l\u1edbn nh\u1ea5t c\u1ee7a 6432 v\u00e0 132 t\u0103ng th\u00eam 11?",
+        "answer": "23",
+        "data_source": "MATH500",
+        "data_source_id": 39,
+        "lang": "vi",
+        "gid": 84
+    },
+    {
+        "question": "M\u1ed9t h\u00ecnh b\u00e1t gi\u00e1c \u0111\u1ec1u c\u00f3 chu vi b\u1eb1ng v\u1edbi h\u00ecnh l\u1ee5c gi\u00e1c \u0111\u1ec1u hi\u1ec3n th\u1ecb \u1edf \u0111\u00e2y v\u1edbi c\u1ea1nh d\u00e0i 16 cm. H\u00e3y t\u00ednh \u0111\u1ed9 d\u00e0i c\u1ee7a m\u1ed7i c\u1ea1nh c\u1ee7a h\u00ecnh b\u00e1t gi\u00e1c. [asy]size(80); pair A = dir(120); pair B=dir(60); pair M=(A+B)/2; draw(dir(360)--B--A--dir(180)--dir(240)--dir(300)--cycle); label(\"16 cm\", M, N);[/asy]",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 40,
+        "lang": "vi",
+        "gid": 85
+    },
+    {
+        "question": "T\u1ecda \u0111\u1ed9 c\u1ee7a m\u1ed9t h\u00ecnh b\u00ecnh h\u00e0nh l\u00e0 (5, 3), (6, 8), (7, 4) v\u00e0 $(x, y)$ v\u00e0 $x > 7$. Gi\u00e1 tr\u1ecb c\u1ee7a $x + y$ l\u00e0 bao nhi\u00eau?",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 41,
+        "lang": "vi",
+        "gid": 86
+    },
+    {
+        "question": "Nghi\u1ec7m c\u1ee7a b\u1ea5t ph\u01b0\u01a1ng tr\u00ecnh $-4 < 2(x - 1) < 8$ \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $a < x < b$. T\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $a + b$.",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 42,
+        "lang": "vi",
+        "gid": 87
+    },
+    {
+        "question": "Trong tam gi\u00e1c vu\u00f4ng $ABC$ v\u1edbi $\\angle B = 90^\\circ$, ta c\u00f3 $\\sin A = 2\\cos A$. T\u00ednh $\\tan A$ l\u00e0 bao nhi\u00eau?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 45,
+        "lang": "vi",
+        "gid": 88
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t $n$ m\u00e0 t\u1ea5t c\u1ea3 c\u00e1c nghi\u1ec7m c\u1ee7a $z^4 + z^2 + 1 = 0$ \u0111\u1ec1u l\u00e0 nghi\u1ec7m b\u1eadc $n$ c\u1ee7a \u0111\u01a1n v\u1ecb l\u00e0 g\u00ec?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 46,
+        "lang": "vi",
+        "gid": 89
+    },
+    {
+        "question": "Bi\u1ec3u \u0111\u1ed3 c\u1ee7a $f(x)=\\frac{2x}{x^2-5x-14}$ c\u00f3 c\u00e1c ti\u1ec7m c\u1eadn d\u1ecdc $x=a$ v\u00e0 $x=b$, c\u00f9ng v\u1edbi ti\u1ec7m c\u1eadn ngang $y=c$.  T\u00ecm $a+b+c$.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 47,
+        "lang": "vi",
+        "gid": 90
+    },
+    {
+        "question": "M\u1ed9t n\u1eeda gi\u00e1 tr\u1ecb c\u1ee7a $3x - 9$ l\u00e0 $x + 37$. T\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $x$?",
+        "answer": "83",
+        "data_source": "MATH500",
+        "data_source_id": 49,
+        "lang": "vi",
+        "gid": 91
+    },
+    {
+        "question": "B\u1ea1n c\u00f3 b\u1ea3y t\u00fai v\u00e0ng. M\u1ed7i t\u00fai ch\u1ee9a c\u00f9ng m\u1ed9t s\u1ed1 l\u01b0\u1ee3ng \u0111\u1ed3ng v\u00e0ng. M\u1ed9t ng\u00e0y, b\u1ea1n t\u00ecm th\u1ea5y m\u1ed9t t\u00fai ch\u1ee9a 53 \u0111\u1ed3ng v\u00e0ng. B\u1ea1n quy\u1ebft \u0111\u1ecbnh ph\u00e2n ph\u1ed1i l\u1ea1i s\u1ed1 l\u01b0\u1ee3ng \u0111\u1ed3ng v\u00e0ng m\u00e0 b\u1ea1n c\u00f3 sao cho t\u1ea5t c\u1ea3 t\u00e1m t\u00fai b\u1ea1n \u0111ang c\u1ea7m \u0111\u1ec1u ch\u1ee9a c\u00f9ng m\u1ed9t s\u1ed1 l\u01b0\u1ee3ng \u0111\u1ed3ng v\u00e0ng. B\u1ea1n th\u00e0nh c\u00f4ng trong vi\u1ec7c ph\u00e2n ph\u1ed1i l\u1ea1i t\u1ea5t c\u1ea3 c\u00e1c \u0111\u1ed3ng v\u00e0ng, v\u00e0 b\u1ea1n c\u0169ng nh\u1eadn th\u1ea5y r\u1eb1ng b\u1ea1n c\u00f3 h\u01a1n 200 \u0111\u1ed3ng v\u00e0ng. S\u1ed1 \u0111\u1ed3ng v\u00e0ng \u00edt nh\u1ea5t b\u1ea1n c\u00f3 th\u1ec3 \u0111\u00e3 c\u00f3 tr\u01b0\u1edbc khi t\u00ecm th\u1ea5y t\u00fai ch\u1ee9a 53 \u0111\u1ed3ng v\u00e0ng l\u00e0 bao nhi\u00eau?",
+        "answer": "203",
+        "data_source": "MATH500",
+        "data_source_id": 50,
+        "lang": "vi",
+        "gid": 92
+    },
+    {
+        "question": "\u0110\u01a1n gi\u1ea3n h\u00f3a: $\\frac{\\sqrt{2.5^2-0.7^2}}{2.7-2.5}$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 52,
+        "lang": "vi",
+        "gid": 93
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed $f$ l\u00e0 m\u1ed9t \u0111a th\u1ee9c sao cho \\[(x-1)\\cdot f(x)=3x^4+x^3 - 25x^2 +38x -17.\\] H\u1ecfi b\u1eadc c\u1ee7a $f$ l\u00e0 bao nhi\u00eau?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 55,
+        "lang": "vi",
+        "gid": 94
+    },
+    {
+        "question": "T\u1ed5ng c\u1ee7a $N$ s\u1ed1 l\u1ebb d\u01b0\u01a1ng \u0111\u1ea7u ti\u00ean l\u00e0 121. Gi\u00e1 tr\u1ecb c\u1ee7a $N$ l\u00e0 bao nhi\u00eau?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 56,
+        "lang": "vi",
+        "gid": 95
+    },
+    {
+        "question": "Riproarin' Ringo \u0111ang c\u1ed1 lai m\u1ed9t con b\u00ea ngoan c\u1ed1. Ringo quy\u1ebft \u0111\u1ecbnh s\u1ebd cho con b\u00ea m\u1ed9t c\u01a1 h\u1ed9i b\u1eb1ng c\u00e1ch t\u00ednh to\u00e1n \\[|(1-i)^8|\\] tr\u01b0\u1edbc khi lao theo con b\u00ea. \u0110\u00e1p s\u1ed1 n\u00e0o m\u00e0 Ringo n\u00ean t\u00ecm ra?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 57,
+        "lang": "vi",
+        "gid": 96
+    },
+    {
+        "question": "T\u00ednh $99^2+99+1$ trong \u0111\u1ea7u b\u1ea1n.",
+        "answer": "9901",
+        "data_source": "MATH500",
+        "data_source_id": 58,
+        "lang": "vi",
+        "gid": 97
+    },
+    {
+        "question": "Trong m\u1ed9t l\u1edbp h\u1ecdc c\u00f3 50 h\u1ecdc sinh, c\u00f3 28 h\u1ecdc sinh tham gia MATHCOUNTS, c\u00f3 21 h\u1ecdc sinh tham gia c\u00e2u l\u1ea1c b\u1ed9 khoa h\u1ecdc, v\u00e0 c\u00f3 6 h\u1ecdc sinh kh\u00f4ng tham gia b\u1ea5t k\u1ef3 ho\u1ea1t \u0111\u1ed9ng n\u00e0o. H\u1ecfi c\u00f3 bao nhi\u00eau h\u1ecdc sinh tham gia c\u1ea3 MATHCOUNTS v\u00e0 c\u00e2u l\u1ea1c b\u1ed9 khoa h\u1ecdc?",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 59,
+        "lang": "vi",
+        "gid": 98
+    },
+    {
+        "question": "Cho m\u1ed9t s\u1ed1 th\u1ef1c $a$ v\u00e0 $b$, ph\u01b0\u01a1ng tr\u00ecnh \\[ 8x^3 + 4ax^2 + 2bx + a = 0 \\] c\u00f3 ba nghi\u1ec7m d\u01b0\u01a1ng ph\u00e2n bi\u1ec7t. N\u1ebfu t\u1ed5ng c\u00e1c logarit c\u01a1 s\u1ed1 2 c\u1ee7a c\u00e1c nghi\u1ec7m l\u00e0 5, gi\u00e1 tr\u1ecb c\u1ee7a $a$ l\u00e0 bao nhi\u00eau?",
+        "answer": "-256",
+        "data_source": "MATH500",
+        "data_source_id": 61,
+        "lang": "vi",
+        "gid": 99
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08\u8bd1\uff1aT\u00ecm s\u1ed1 th\u1ef1c d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t $C$ sao cho \\[\\left\\| \\begin{pmatrix} 2 & 3 \\\\ 0 & -2 \\end{pmatrix} \\bold{v} \\right\\| \\le C \\|\\bold{v}\\|\\] v\u1edbi m\u1ecdi vect\u01a1 hai chi\u1ec1u $\\bold{v}.$  L\u01b0u \u00fd r\u1eb1ng \u0111\u1ed1i v\u1edbi vect\u01a1 hai chi\u1ec1u $\\mathbf{a},$ $\\|\\mathbf{a}\\|$ l\u00e0 chu\u1ea9n c\u1ee7a $\\mathbf{a}.$\uff09\uff1a",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 62,
+        "lang": "vi",
+        "gid": 100
+    },
+    {
+        "question": "\u0110\u1eb7t \\[x^8 + 3x^4 - 4 = p_1(x) p_2(x) \\dotsm p_k(x),\\]n\u01a1i m\u1ed7i \u0111a th\u1ee9c kh\u00f4ng h\u1eb1ng s\u1ed1 $p_i(x)$ l\u00e0 monic v\u1edbi c\u00e1c h\u1ec7 s\u1ed1 nguy\u00ean v\u00e0 kh\u00f4ng th\u1ec3 ph\u00e2n gi\u1ea3i th\u00eam v\u1edbi c\u00e1c s\u1ed1 nguy\u00ean. T\u00ednh to\u00e1n $p_1(1) + p_2(1) + \\dots + p_k(1).$",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 63,
+        "lang": "vi",
+        "gid": 101
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $1^{(2^{235423523})}$ l\u00e0 bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 65,
+        "lang": "vi",
+        "gid": 102
+    },
+    {
+        "question": "Chi\u1ec1u d\u00e0i c\u1ee7a hai c\u1ea1nh \u0111\u1ed1i di\u1ec7n c\u1ee7a m\u1ed9t h\u00ecnh vu\u00f4ng b\u1ecb gi\u1ea3m \u0111i $40\\%$ trong khi chi\u1ec1u d\u00e0i c\u1ee7a hai c\u1ea1nh c\u00f2n l\u1ea1i \u0111\u01b0\u1ee3c t\u0103ng l\u00ean $50\\%$ \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u1ed9t h\u00ecnh ch\u1eef nh\u1eadt. Ph\u1ea7n tr\u0103m di\u1ec7n t\u00edch c\u1ee7a h\u00ecnh vu\u00f4ng gi\u1ea3m \u0111i bao nhi\u00eau?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 67,
+        "lang": "vi",
+        "gid": 103
+    },
+    {
+        "question": "V\u1edbi m\u1ed9t gi\u00e1 tr\u1ecb c\u1ee7a $x,$ $0 < x < 180,$ \\[\\tan 53^\\circ \\tan 81^\\circ \\tan x^\\circ = \\tan 53^\\circ + \\tan 81^\\circ + \\tan x^\\circ.\\] T\u00ecm $x.$",
+        "answer": "46",
+        "data_source": "MATH500",
+        "data_source_id": 68,
+        "lang": "vi",
+        "gid": 104
+    },
+    {
+        "question": "Cho $z$ l\u00e0 m\u1ed9t s\u1ed1 ph\u1ee9c sao cho $z^5 = 1$ v\u00e0 $z \\neq 1.$ T\u00ednh \\[z + \\frac{1}{z} + z^2 + \\frac{1}{z^2}.\\]",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 69,
+        "lang": "vi",
+        "gid": 105
+    },
+    {
+        "question": "\u0110\u1ed9 d\u00e0i, \u0111\u01a1n v\u1ecb, c\u1ee7a b\u00e1n k\u00ednh c\u1ee7a m\u1ed9t h\u00ecnh c\u1ea7u c\u00f3 th\u1ec3 t\u00edch v\u00e0 di\u1ec7n t\u00edch b\u1ec1 m\u1eb7t, \u0111\u01a1n v\u1ecb kh\u1ed1i v\u00e0 \u0111\u01a1n v\u1ecb vu\u00f4ng, t\u01b0\u01a1ng \u1ee9ng, c\u00f3 gi\u00e1 tr\u1ecb s\u1ed1 b\u1eb1ng nhau l\u00e0 bao nhi\u00eau?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 72,
+        "lang": "vi",
+        "gid": 106
+    },
+    {
+        "question": "N\u1ebfu mi\u1ec1n x\u00e1c \u0111\u1ecbnh c\u1ee7a h\u00e0m $\\log x^2$ l\u00e0 $x < a$ ho\u1eb7c $x > b$, v\u1edbi m\u1ed9t s\u1ed1 $a$ v\u00e0 $b$ n\u00e0o \u0111\u00f3, t\u00ecm $a + b$.",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 76,
+        "lang": "vi",
+        "gid": 107
+    },
+    {
+        "question": "N\u1ebfu $2^8=4^x$, gi\u00e1 tr\u1ecb c\u1ee7a $x$ l\u00e0 g\u00ec?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 77,
+        "lang": "vi",
+        "gid": 108
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $x$ l\u00e0 bao nhi\u00eau \u0111\u1ec3 $2^3\\cdot3^x=72$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 79,
+        "lang": "vi",
+        "gid": 109
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 l\u01b0\u1ee3ng gi\u00e1 tr\u1ecb nguy\u00ean c\u1ee7a $k$ trong kho\u1ea3ng \u0111\u00f3ng $[-500,500]$ sao cho ph\u01b0\u01a1ng tr\u00ecnh $\\log(kx)=2\\log(x+2)$ c\u00f3 \u0111\u00fang m\u1ed9t nghi\u1ec7m th\u1ef1c.",
+        "answer": "501",
+        "data_source": "MATH500",
+        "data_source_id": 80,
+        "lang": "vi",
+        "gid": 110
+    },
+    {
+        "question": "M\u01b0\u1eddi con treek n\u1eb7ng b\u1eb1ng ba con squig v\u00e0 m\u1ed9t con goolee. Hai con treek v\u00e0 m\u1ed9t con goolee c\u00f3 tr\u1ecdng l\u01b0\u1ee3ng b\u1eb1ng m\u1ed9t con squig. Tr\u1ecdng l\u01b0\u1ee3ng k\u1ebft h\u1ee3p c\u1ee7a bao nhi\u00eau con treek th\u00ec b\u1eb1ng tr\u1ecdng l\u01b0\u1ee3ng c\u1ee7a m\u1ed9t con squig?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 81,
+        "lang": "vi",
+        "gid": 111
+    },
+    {
+        "question": "Gi\u1ea3i ph\u01b0\u01a1ng tr\u00ecnh v\u1edbi $x: 3^{2x} + 19 = 10^x$.",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 83,
+        "lang": "vi",
+        "gid": 112
+    },
+    {
+        "question": "T\u00edch c\u1ee7a $3t^2+5t+a$ v\u00e0 $4t^2+bt-2$ l\u00e0 $12t^4+26t^3-8t^2-16t+6$. Gi\u00e1 tr\u1ecb c\u1ee7a $a+b$ l\u00e0 bao nhi\u00eau?",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 84,
+        "lang": "vi",
+        "gid": 113
+    },
+    {
+        "question": "B\u1ea1n c\u00f3 5 c\u00e1i \u00e1o, 6 c\u1eb7p qu\u1ea7n v\u00e0 8 c\u00e1i m\u0169. B\u1ea1n c\u00f3 th\u1ec3 t\u1ea1o ra bao nhi\u00eau b\u1ed9 trang ph\u1ee5c bao g\u1ed3m m\u1ed9t c\u00e1i \u00e1o, m\u1ed9t c\u1eb7p qu\u1ea7n, v\u00e0 m\u1ed9t c\u00e1i m\u0169?",
+        "answer": "240",
+        "data_source": "MATH500",
+        "data_source_id": 86,
+        "lang": "vi",
+        "gid": 114
+    },
+    {
+        "question": "T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a $x$ th\u1ecfa m\u00e3n ph\u01b0\u01a1ng tr\u00ecnh $|5x-1|=x+3$.",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 87,
+        "lang": "vi",
+        "gid": 115
+    },
+    {
+        "question": "Xem x\u00e9t h\u00e0m s\u1ed1 \\[ f(x) = \\begin{cases} ax^2 & \\text{n\u1ebfu } x \\geq a,\\\\ ax +2a& \\text{n\u1ebfu } x <a, \\end{cases} \\] n\u01a1i $a$ l\u00e0 m\u1ed9t s\u1ed1 n\u00e0o \u0111\u00f3.  Gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a $a$ l\u00e0 bao nhi\u00eau sao cho \u0111\u1ed3 th\u1ecb c\u1ee7a $y=f(x)$ giao c\u1eaft m\u1ed7i \u0111\u01b0\u1eddng ngang \u00edt nh\u1ea5t m\u1ed9t l\u1ea7n?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 88,
+        "lang": "vi",
+        "gid": 116
+    },
+    {
+        "question": "T\u00ecm \u01b0\u1edbc s\u1ed1 chung l\u1edbn nh\u1ea5t c\u1ee7a $3339$, $2961$ v\u00e0 $1491$.",
+        "answer": "21",
+        "data_source": "MATH500",
+        "data_source_id": 89,
+        "lang": "vi",
+        "gid": 117
+    },
+    {
+        "question": "Cho $f(x) = \\frac{\\sqrt{x-1}}{x-2}$, s\u1ed1 nguy\u00ean nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 cho $x$ sao cho $f(x)$ c\u00f3 gi\u00e1 tr\u1ecb th\u1ef1c l\u00e0 bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 91,
+        "lang": "vi",
+        "gid": 118
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $c$ l\u00e0 bao nhi\u00eau \u0111\u1ec3 \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 ph\u01b0\u01a1ng tr\u00ecnh $x^2 - 10x + y^2 + 6y + c = 0$ c\u00f3 b\u00e1n k\u00ednh l\u00e0 1?",
+        "answer": "33",
+        "data_source": "MATH500",
+        "data_source_id": 93,
+        "lang": "vi",
+        "gid": 119
+    },
+    {
+        "question": "Trong t\u1ee9 gi\u00e1c $ABCD$, g\u00f3c $BAD$ v\u00e0 g\u00f3c $CDA$ \u0111\u01b0\u1ee3c chia th\u00e0nh ba ph\u1ea7n b\u1eb1ng nhau nh\u01b0 h\u00ecnh v\u1ebd. H\u1ecfi s\u1ed1 \u0111o c\u1ee7a g\u00f3c $AFD$ l\u00e0 bao nhi\u00eau \u0111\u1ed9?  [asy] size(150); pair A , B, C, D; A = (0,0); B = (2, 4); C = (7,4); D = (7, -2); draw( (0,0)--(2,4) -- (7,4) -- (7, -2)-- cycle); label(\"$A$\", A, SW); label(\"$B$\", B, NW); label(\"$C$\", C, NE); label(\"$D$\", D, SE); pair E, F; E = (4.5-.2,1-.2); F = (5, 3); draw(A--E--D); draw(A--F--D); label(\"$E$\", E, N); label(\"$F$\", F, NW); dot(A);dot(B);dot(C);dot(D);dot(E);dot(F); label(\"$x$\", (1, 1.5), S); label(\"$x$\", (2, 1), S+W); label(\"$x$\", (2, -1), N+N+N+W); label(\"$y$\", (5.5+.3, .5-.3), S); label(\"$y$\", (6.5+.3, 0)); label(\"$y$\", (5+.5, -1.5+.3)); label(\"$110^{\\circ}$\",(2.5,3.5)); label(\"$100^{\\circ}$\",(6.5-.2,3.5)); [/asy]",
+        "answer": "80",
+        "data_source": "MATH500",
+        "data_source_id": 94,
+        "lang": "vi",
+        "gid": 120
+    },
+    {
+        "question": "Chi\u1ebfu c\u1ee7a $\\begin{pmatrix} 2 \\\\ y \\\\ -5 \\end{pmatrix}$ l\u00ean $\\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}$ l\u00e0 \\[\\frac{5}{6} \\begin{pmatrix} 1 \\\\ -2 \\\\ 1 \\end{pmatrix}.\\]T\u00ecm $y.$",
+        "answer": "-4",
+        "data_source": "MATH500",
+        "data_source_id": 95,
+        "lang": "vi",
+        "gid": 121
+    },
+    {
+        "question": "Ph\u01b0\u01a1ng tr\u00ecnh \\[x^{10} + (13x - 1)^{10} = 0,\\] c\u00f3 10 nghi\u1ec7m ph\u1ee9c $r_1,$ $\\overline{r}_1,$ $r_2,$ $\\overline{r}_2,$ $r_3,$ $\\overline{r}_3,$ $r_4,$ $\\overline{r}_4,$ $r_5,$ $\\overline{r}_5,$ \u1edf \u0111\u00e2y v\u1ea1ch tr\u00ean \u0111\u1ea7u bi\u1ec3u th\u1ecb ph\u00e9p l\u1ea5y s\u1ed1 ph\u1ee9c li\u00ean h\u1ee3p. T\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a \\[\\frac 1{r_1\\overline{r}_1}+\\frac 1{r_2\\overline{r}_2}+\\frac 1{r_3\\overline{r}_3}+\\frac 1{r_4\\overline{r}_4}+\\frac 1{r_5\\overline{r}_5}.\\]",
+        "answer": "850",
+        "data_source": "MATH500",
+        "data_source_id": 101,
+        "lang": "vi",
+        "gid": 122
+    },
+    {
+        "question": "\u0110\u1ed3 th\u1ecb c\u1ee7a $x^2 + y^2 + 6x - 24y + 72 = 0$ v\u00e0 $x^2 - y^2 + 6x + 16y - 46 = 0$ c\u1eaft nhau t\u1ea1i b\u1ed1n \u0111i\u1ec3m. T\u00ednh t\u1ed5ng kho\u1ea3ng c\u00e1ch t\u1eeb b\u1ed1n \u0111i\u1ec3m n\u00e0y \u0111\u1ebfn \u0111i\u1ec3m $(-3,2).$",
+        "answer": "40",
+        "data_source": "MATH500",
+        "data_source_id": 104,
+        "lang": "vi",
+        "gid": 123
+    },
+    {
+        "question": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 s\u1ed1 h\u1ecdc sinh c\u1ee7a t\u00e1m qu\u1eadn \u0111\u01b0\u1ee3c li\u1ec7t k\u00ea, s\u1ed1 trung v\u1ecb h\u1ecdc sinh v\u00e0o n\u0103m $2005$ l\u00e0 bao nhi\u00eau?  \\begin{tabular}[t]{|l|c|c|c|c|c|} \\multicolumn{6}{c}{\\textbf{S\u1ed1 H\u1ecdc Sinh Theo Qu\u1eadn}}\\\\\\hline \\textbf{QU\u1eacN}&\\textbf{$2001$}&\\textbf{$2002$}&\\textbf{$2003$}&\\textbf{$2004$}&\\textbf{$2005$}\\\\\\hline Aiken&124&141&130&143&136\\\\\\hline Bamberg&17&15&15&14&11\\\\\\hline Barnwell&25&22&26&28&29\\\\\\hline Berkeley&583&557&554&553&524\\\\\\hline Calhoun&15&12&10&18&11\\\\\\hline Cherokee&19&13&18&13&19\\\\\\hline Chesterfield&46&18&13&22&29\\\\\\hline Colleton&64&49&52&46&41\\\\\\hline \\end{tabular}",
+        "answer": "29",
+        "data_source": "MATH500",
+        "data_source_id": 105,
+        "lang": "vi",
+        "gid": 124
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08C\u00f3 bao nhi\u00eau ph\u1ea7n t\u1eed trong t\u1eadp giao c\u1ee7a t\u1eadp h\u1ee3p t\u1ea5t c\u1ea3 s\u1ed1 nguy\u00ean t\u1ed1 nh\u1ecf h\u01a1n 30 v\u00e0 t\u1eadp h\u1ee3p t\u1ea5t c\u1ea3 s\u1ed1 l\u1ebb l\u1edbn h\u01a1n kh\u00f4ng?\uff09\uff1a",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 107,
+        "lang": "vi",
+        "gid": 125
+    },
+    {
+        "question": "Cho $F_1$ v\u00e0 $F_2$ l\u00e0 c\u00e1c ti\u00eau \u0111i\u1ec3m c\u1ee7a elip $kx^2 + y^2 = 1,$ v\u1edbi $k > 1$ l\u00e0 m\u1ed9t h\u1eb1ng s\u1ed1. Gi\u1ea3 s\u1eed c\u00f3 m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n \u0111i qua $F_1$ v\u00e0 $F_2$ v\u00e0 ti\u1ebfp x\u00fac v\u1edbi elip t\u1ea1i hai \u0111i\u1ec3m tr\u00ean tr\u1ee5c ho\u00e0nh. T\u00ednh $k.$",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 108,
+        "lang": "vi",
+        "gid": 126
+    },
+    {
+        "question": "M\u1ed9t d\u00e3y t\u0103ng nghi\u00eam ng\u1eb7t c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $a_1$, $a_2$, $a_3$, $\\dots$ c\u00f3 t\u00ednh ch\u1ea5t l\u00e0 v\u1edbi m\u1ecdi s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $k$, d\u00e3y con $a_{2k-1}$, $a_{2k}$, $a_{2k+1}$ l\u00e0 m\u1ed9t c\u1ea5p s\u1ed1 nh\u00e2n v\u00e0 d\u00e3y con $a_{2k}$, $a_{2k+1}$, $a_{2k+2}$ l\u00e0 m\u1ed9t c\u1ea5p s\u1ed1 c\u1ed9ng. Gi\u1ea3 s\u1eed r\u1eb1ng $a_{13} = 2016$. T\u00ecm $a_1$.",
+        "answer": "504",
+        "data_source": "MATH500",
+        "data_source_id": 110,
+        "lang": "vi",
+        "gid": 127
+    },
+    {
+        "question": "\u00d4ng Brennan c\u00f3 7 ch\u00e0ng trai v\u00e0 4 c\u00f4 g\u00e1i trong l\u1edbp th\u1ed1ng k\u00ea c\u1ee7a m\u00ecnh. \u00d4ng ta c\u00f3 th\u1ec3 l\u1ef1a ch\u1ecdn bao nhi\u00eau c\u00e1ch \u0111\u1ec3 ch\u1ecdn 3 ch\u00e0ng trai v\u00e0 2 c\u00f4 g\u00e1i \u0111\u1ec3 thuy\u1ebft tr\u00ecnh nh\u00f3m v\u00e0o ng\u00e0y mai? (Th\u1ee9 t\u1ef1 l\u1ef1a ch\u1ecdn ch\u00e0ng trai v\u00e0 c\u00f4 g\u00e1i kh\u00f4ng quan tr\u1ecdng.)",
+        "answer": "210",
+        "data_source": "MATH500",
+        "data_source_id": 111,
+        "lang": "vi",
+        "gid": 128
+    },
+    {
+        "question": "\u0110\u01a1n gi\u1ea3n h\u00f3a $\\frac{1+\\sqrt{2}}{2+\\sqrt{3}}$. Gi\u1ea3i ph\u00e1p c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c chuy\u1ec3n \u0111\u1ed5i th\u00e0nh d\u1ea1ng $A(1+\\sqrt{B})-(\\sqrt{C}+\\sqrt{D})$, n\u01a1i $A$, $B$, $C$, v\u00e0 $D$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng. $A+B+C+D$ l\u00e0 g\u00ec?",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 112,
+        "lang": "vi",
+        "gid": 129
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $(26^2 - 24^2 - 10)^2 - 10^2$ l\u00e0 bao nhi\u00eau?",
+        "answer": "8000",
+        "data_source": "MATH500",
+        "data_source_id": 113,
+        "lang": "vi",
+        "gid": 130
+    },
+    {
+        "question": "T\u00ecm t\u00edch $CD$ c\u1ee7a c\u00e1c s\u1ed1 nguy\u00ean $C$ v\u00e0 $D$ sao cho \\[\\frac{C}{x-3}+\\frac{D}{x+8}=\\frac{4x-23}{x^2+5x-24}\\]v\u1edbi m\u1ecdi gi\u00e1 tr\u1ecb th\u1ef1c c\u1ee7a $x$ tr\u1eeb $-8$ v\u00e0 $3$.",
+        "answer": "-5",
+        "data_source": "MATH500",
+        "data_source_id": 114,
+        "lang": "vi",
+        "gid": 131
+    },
+    {
+        "question": "X\u00e1c \u0111\u1ecbnh s\u1ed1 c\u00e1ch \u0111\u1ec3 s\u1eafp x\u1ebfp c\u00e1c ch\u1eef c\u00e1i c\u1ee7a t\u1eeb ELLIPSE.",
+        "answer": "1260",
+        "data_source": "MATH500",
+        "data_source_id": 115,
+        "lang": "vi",
+        "gid": 132
+    },
+    {
+        "question": "Gi\u1ea3i cho $x$: $2^{2x} = 256^\\frac{1}{2}$.",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 116,
+        "lang": "vi",
+        "gid": 133
+    },
+    {
+        "question": "N\u1ebfu $\\sqrt{3x-5}=2$, t\u00ecm t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a $x$.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 117,
+        "lang": "vi",
+        "gid": 134
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 c\u1eb7p c\u00f3 th\u1ee9 t\u1ef1 $(a,b)$ c\u1ee7a s\u1ed1 nguy\u00ean sao cho $|a + bi| \\le 5.$",
+        "answer": "81",
+        "data_source": "MATH500",
+        "data_source_id": 118,
+        "lang": "vi",
+        "gid": 135
+    },
+    {
+        "question": "Bi\u1ec3u th\u1ee9c $$1 + 2 + 3 - 4 + 5 + 6$$ t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi 13. N\u1ebfu ch\u00fang ta th\u00eam d\u1ea5u ngo\u1eb7c v\u00e0o c\u00e1c v\u1ecb tr\u00ed kh\u00e1c nhau, ch\u00fang ta c\u00f3 th\u1ec3 thay \u0111\u1ed5i gi\u00e1 tr\u1ecb n\u00e0y. V\u00ed d\u1ee5, $1+2+3-(4+5)+6=1+2+3-9+6=6-9+6=3$. N\u1ebfu ch\u00fang ta ch\u1ec9 th\u00eam d\u1ea5u ngo\u1eb7c (v\u00e0 kh\u00f4ng t\u00e1i s\u1eafp x\u1ebfp th\u1ee9 t\u1ef1 c\u00e1c h\u1ea1ng t\u1eed), th\u00ec gi\u00e1 tr\u1ecb t\u1ed1i thi\u1ec3u m\u00e0 bi\u1ec3u th\u1ee9c n\u00e0y c\u00f3 th\u1ec3 nh\u1eadn \u0111\u01b0\u1ee3c l\u00e0 bao nhi\u00eau? (\u0110\u1ed1i v\u1edbi m\u1ee5c \u0111\u00edch c\u1ee7a v\u1ea5n \u0111\u1ec1 n\u00e0y, ch\u00fang ta kh\u00f4ng th\u1ec3 thay \u0111\u1ed5i ph\u00e9p c\u1ed9ng ho\u1eb7c tr\u1eeb th\u00e0nh ph\u00e9p nh\u00e2n. V\u00ed d\u1ee5, $(1+2+3)(-4)+5+6$ kh\u00f4ng ph\u1ea3i l\u00e0 v\u1ecb tr\u00ed h\u1ee3p l\u1ec7 c\u1ee7a c\u00e1c d\u1ea5u ngo\u1eb7c.)  Nh\u1eadp c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n d\u01b0\u1edbi d\u1ea1ng m\u1ed9t gi\u00e1 tr\u1ecb \u0111\u01a1n.",
+        "answer": "-9",
+        "data_source": "MATH500",
+        "data_source_id": 119,
+        "lang": "vi",
+        "gid": 136
+    },
+    {
+        "question": "Gi\u1ea3i cho $x$: $\\frac{x}2 + \\frac{x}3 = 5$",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 121,
+        "lang": "vi",
+        "gid": 137
+    },
+    {
+        "question": "Daniel l\u00e0m vi\u1ec7c t\u1ea1i m\u1ed9t c\u1eeda h\u00e0ng \u0111i\u1ec7n t\u1eed, v\u00e0 anh \u1ea5y kh\u1eb3ng \u0111\u1ecbnh r\u1eb1ng s\u1ef1 ph\u1ed5 bi\u1ebfn c\u1ee7a m\u1ed9t chi\u1ebfc tivi (\u0111\u01b0\u1ee3c \u0111o b\u1eb1ng s\u1ed1 l\u01b0\u1ee3ng b\u00e1n ra) t\u1ef7 l\u1ec7 ngh\u1ecbch v\u1edbi gi\u00e1 c\u1ee7a n\u00f3. N\u1ebfu 15 kh\u00e1ch h\u00e0ng mua m\u1ed9t chi\u1ebfc tivi c\u00f3 gi\u00e1 $\\$$1500, theo l\u00fd thuy\u1ebft c\u1ee7a Daniel, c\u00f3 bao nhi\u00eau kh\u00e1ch h\u00e0ng s\u1ebd mua m\u1ed9t chi\u1ebfc tivi c\u00f3 gi\u00e1 $\\$$2500?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 122,
+        "lang": "vi",
+        "gid": 138
+    },
+    {
+        "question": "Trong h\u00ecnh v\u1ebd, $D$ v\u00e0 $E$ l\u00e0 trung \u0111i\u1ec3m c\u1ee7a $\\overline{AB}$ v\u00e0 $\\overline{BC}$ t\u01b0\u01a1ng \u1ee9ng. X\u00e1c \u0111\u1ecbnh di\u1ec7n t\u00edch c\u1ee7a t\u1ee9 gi\u00e1c $DBEF$. [asy] size(180); defaultpen(linewidth(.7pt)+fontsize(10pt)); pair A, B, C, D, E, F; A=(0,6); B=(0,0); C=(8,0); D=(0,3); E=(4,0); F=(8/3,2); draw(E--A--C--D); draw((-1,0)--(10,0), EndArrow); draw((0,-1)--(0,8), EndArrow); label(\"$A(0,6)$\", A, W); label(\"$B(0,0)$\", B, SW); label(\"$C(8,0)$\", C, S); label(\"$D$\", D, W); label(\"$E$\", E, S); label(\"$F$\", F, SW); label(\"$x$\", (10,0), dir(0)); label(\"$y$\", (0,8), dir(90)); [/asy]",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 123,
+        "lang": "vi",
+        "gid": 139
+    },
+    {
+        "question": "T\u00ednh gi\u00e1 tr\u1ecb c\u1ee7a $\\lceil (3.6)^2 \\rceil - ( \\lceil 3.6 \\rceil ) ^2$.",
+        "answer": "-3",
+        "data_source": "MATH500",
+        "data_source_id": 125,
+        "lang": "vi",
+        "gid": 140
+    },
+    {
+        "question": "Suzanne \u0111i b\u1ed9 b\u1ed1n d\u1eb7m m\u1ed7i ba ng\u00e0y. S\u1ed1 d\u1eb7m \u00edt nh\u1ea5t m\u00e0 c\u00f4 \u1ea5y c\u00f3 th\u1ec3 \u0111i b\u1ed9 trong th\u00e1ng Hai l\u00e0 bao nhi\u00eau?",
+        "answer": "36",
+        "data_source": "MATH500",
+        "data_source_id": 128,
+        "lang": "vi",
+        "gid": 141
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean $n$ th\u1ecfa m\u00e3n $0\\le n<18$ v\u00e0 $$n\\equiv -11213141\\pmod{18}~?$$",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 130,
+        "lang": "vi",
+        "gid": 142
+    },
+    {
+        "question": "N\u1ebfu $f(x)=ax^4-bx^2+x+5$ v\u00e0 $f(-3)=2,$ th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $f(3)$ l\u00e0 bao nhi\u00eau?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 131,
+        "lang": "vi",
+        "gid": 143
+    },
+    {
+        "question": "Rick \u0111ang ngh\u0129 v\u1ec1 m\u1ed9t \u01b0\u1edbc s\u1ed1 d\u01b0\u01a1ng c\u1ee7a $14$ v\u00e0 Steve \u0111ang ngh\u0129 v\u1ec1 m\u1ed9t \u01b0\u1edbc s\u1ed1 d\u01b0\u01a1ng c\u1ee7a $42$. N\u1ebfu Rick v\u00e0 Steve \u0111\u1ec1u ngh\u0129 v\u1ec1 c\u00f9ng m\u1ed9t s\u1ed1, h\u1ecd c\u00f3 th\u1ec3 \u0111ang ngh\u0129 v\u1ec1 bao nhi\u00eau s\u1ed1 c\u00f3 th\u1ec3?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 132,
+        "lang": "vi",
+        "gid": 144
+    },
+    {
+        "question": "Trong m\u1ed9t t\u1ee9 gi\u00e1c l\u1ed3i, s\u1ed1 \u0111o c\u1ee7a g\u00f3c l\u1edbn nh\u1ea5t g\u1ea5p \u0111\u00f4i s\u1ed1 \u0111o c\u1ee7a g\u00f3c nh\u1ecf nh\u1ea5t, v\u00e0 hai g\u00f3c c\u00f2n l\u1ea1i \u0111\u1ec1u l\u00e0 g\u00f3c vu\u00f4ng. H\u1ecfi s\u1ed1 \u0111o c\u1ee7a g\u00f3c l\u1edbn nh\u1ea5t l\u00e0 bao nhi\u00eau \u0111\u1ed9?",
+        "answer": "120",
+        "data_source": "MATH500",
+        "data_source_id": 133,
+        "lang": "vi",
+        "gid": 145
+    },
+    {
+        "question": "H\u00e3y x\u00e9t $F_1 = (10,2)$ v\u00e0 $F_2 = (-16,2)$. Khi \u0111\u00f3, t\u1eadp h\u1ee3p c\u00e1c \u0111i\u1ec3m $P$ sao cho \\[\\left|PF_1 - PF_2\\right| = 24\\] t\u1ea1o th\u00e0nh m\u1ed9t hypebol. Ph\u01b0\u01a1ng tr\u00ecnh c\u1ee7a hypebol n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng \\[\\frac{(x - h)^2}{a^2} - \\frac{(y - k)^2}{b^2} = 1.\\]T\u00ecm $h + k + a + b.$",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 134,
+        "lang": "vi",
+        "gid": 146
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau s\u1ed1 kh\u00f4ng n\u1eb1m \u1edf cu\u1ed1i c\u1ee7a $42!$ (42 giai th\u1eeba)? (Nh\u1eafc nh\u1edf: S\u1ed1 $n!$ l\u00e0 t\u00edch c\u1ee7a c\u00e1c s\u1ed1 nguy\u00ean t\u1eeb 1 \u0111\u1ebfn $n$. V\u00ed d\u1ee5, $5!=5\\cdot 4\\cdot3\\cdot2\\cdot 1= 120$.)",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 135,
+        "lang": "vi",
+        "gid": 147
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed $(a_1, a_2, \\dots, a_n)$ l\u00e0 m\u1ed9t d\u00e3y s\u1ed1 th\u1ef1c d\u01b0\u01a1ng, sao cho \\[\\sum_{i = 1}^n a_i = 96, \\quad \\sum_{i = 1}^n a_i^2 = 144, \\quad \\sum_{i = 1}^n a_i^3 = 216.\\]T\u00ecm t\u1ed5ng t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a $n$.",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 136,
+        "lang": "vi",
+        "gid": 148
+    },
+    {
+        "question": "T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a \\[f(x,y) = x \\sqrt{1 - y^2} + y \\sqrt{1 - x^2},\\]v\u1edbi \u0111i\u1ec1u ki\u1ec7n $-1 \\le x,$ $y \\le 1.$",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 139,
+        "lang": "vi",
+        "gid": 149
+    },
+    {
+        "question": "Cho $n$ l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng. Gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $\\gcd(n + 7, 2n + 1)$ l\u00e0 bao nhi\u00eau?",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 140,
+        "lang": "vi",
+        "gid": 150
+    },
+    {
+        "question": "Zach c\u00f3 ba c\u00e1i t\u00fai v\u00e0 m\u1ed9t \u0111\u1ed1ng b\u00fat ch\u00ec \u0111\u1ec3 \u0111\u1eb7t v\u00e0o c\u00e1c t\u00fai. Anh ta \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u \u0111\u1eb7t s\u1ed1 l\u01b0\u1ee3ng b\u00fat ch\u00ec nhi\u1ec1u nh\u1ea5t c\u00f3 th\u1ec3 v\u00e0o m\u1ed7i t\u00fai trong s\u1ed1 ba t\u00fai \u0111\u1ed3ng th\u1eddi c\u0169ng gi\u1eef cho s\u1ed1 l\u01b0\u1ee3ng b\u00fat ch\u00ec trong m\u1ed7i t\u00fai l\u00e0 gi\u1ed1ng nhau. S\u1ed1 l\u01b0\u1ee3ng b\u00fat ch\u00ec l\u1edbn nh\u1ea5t m\u00e0 anh ta c\u00f3 th\u1ec3 c\u00f2n l\u1ea1i l\u00e0 bao nhi\u00eau?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 141,
+        "lang": "vi",
+        "gid": 151
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 \u1ee6y ban Th\u01b0\u1ee3ng vi\u1ec7n g\u1ed3m 5 Th\u00e0nh vi\u00ean \u0110\u1ea3ng D\u00e2n ch\u1ee7, 5 Th\u00e0nh vi\u00ean \u0110\u1ea3ng C\u1ed9ng h\u00f2a v\u00e0 1 \u0110\u1ed9c l\u1eadp. T\u00ednh s\u1ed1 c\u00e1ch x\u1ebfp h\u1ecd ng\u1ed3i quanh b\u00e0n tr\u00f2n sao cho t\u1ea5t c\u1ea3 th\u00e0nh vi\u00ean c\u00f9ng \u0111\u1ea3ng ng\u1ed3i li\u1ec1n k\u1ec1 (hai c\u00e1ch x\u1ebfp \u0111\u01b0\u1ee3c coi l\u00e0 t\u01b0\u01a1ng \u0111\u01b0\u01a1ng n\u1ebfu ch\u00fang ch\u1ec9 kh\u00e1c nhau b\u1edfi ph\u00e9p quay).",
+        "answer": "28800",
+        "data_source": "MATH500",
+        "data_source_id": 142,
+        "lang": "vi",
+        "gid": 152
+    },
+    {
+        "question": "Cho $z$ l\u00e0 m\u1ed9t s\u1ed1 ph\u1ee9c sao cho \\[z + \\frac{1}{z} = \\frac{1 + \\sqrt{5}}{2}.\\]T\u00ecm \\[z^{85} + \\frac{1}{z^{85}}.\\]",
+        "answer": "-2",
+        "data_source": "MATH500",
+        "data_source_id": 145,
+        "lang": "vi",
+        "gid": 153
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed $x,$ $y,$ v\u00e0 $z$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng sao cho $xyz = 2.$ T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a  \\[x^4 + 4y^2 + 4z^4.\\]",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 147,
+        "lang": "vi",
+        "gid": 154
+    },
+    {
+        "question": "Gi\u1ea3i ph\u01b0\u01a1ng tr\u00ecnh sau cho $x$: \\[ \\frac{2}{3} = \\frac{4}{x-5}.\\]",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 148,
+        "lang": "vi",
+        "gid": 155
+    },
+    {
+        "question": "N\u1ebfu tu\u1ed5i c\u1ee7a Rosa chia cho 2, 3, 4 ho\u1eb7c 6, th\u00ec s\u1ed1 d\u01b0 l\u00e0 1. N\u1ebfu tu\u1ed5i c\u1ee7a c\u00f4 \u1ea5y chia cho 7, th\u00ec s\u1ed1 d\u01b0 l\u00e0 0. C\u00f4 \u1ea5y d\u01b0\u1edbi 75 tu\u1ed5i. H\u1ecfi Rosa bao nhi\u00eau tu\u1ed5i?",
+        "answer": "49",
+        "data_source": "MATH500",
+        "data_source_id": 149,
+        "lang": "vi",
+        "gid": 156
+    },
+    {
+        "question": "V\u1edbi m\u1ed7i s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $n$, k\u00fd hi\u1ec7u $\\text{mod}_5 (n)$ l\u00e0 s\u1ed1 d\u01b0 khi chia $n$ cho 5. \u0110\u1ecbnh ngh\u0129a h\u00e0m s\u1ed1 $f: \\{0,1,2,3,\\dots\\} \\times \\{0,1,2,3,4\\} \\rightarrow \\{0,1,2,3,4\\}$ m\u1ed9t c\u00e1ch \u0111\u1ec7 quy nh\u01b0 sau:  \\[f(i,j) = \\begin{cases}\\text{mod}_5 (j+1) & \\text{ n\u1ebfu } i = 0 \\text{ v\u00e0 } 0 \\le j \\le 4 \\text{,}\\\\ f(i-1,1) & \\text{ n\u1ebfu } i \\ge 1 \\text{ v\u00e0 } j = 0 \\text{, v\u00e0} \\\\ f(i-1, f(i,j-1)) & \\text{ n\u1ebfu } i \\ge 1 \\text{ v\u00e0 } 1 \\le j \\le 4. \\end{cases}\\]Gi\u00e1 tr\u1ecb c\u1ee7a $f(2015,2)$ l\u00e0 bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 150,
+        "lang": "vi",
+        "gid": 157
+    },
+    {
+        "question": "Cho $x_1,$ $x_2,$ $x_3,$ $y_1,$ $y_2,$ v\u00e0 $y_3$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c sao cho \\begin{align*} (x_1 - x_2)^2 + (y_1 - y_2)^2 &= 9, \\\\ (x_1 - x_3)^2 + (y_1 - y_3)^2 &= 16, \\\\ (x_2 - x_3)^2 + (y_2 - y_3)^2 &= 25. \\end{align*}T\u00ecm $\\begin{vmatrix} x_1 & y_1 & 1 \\\\ x_2 & y_2 & 1 \\\\ x_3 & y_3 & 1 \\end{vmatrix}^2.$",
+        "answer": "144",
+        "data_source": "MATH500",
+        "data_source_id": 151,
+        "lang": "vi",
+        "gid": 158
+    },
+    {
+        "question": "C\u00e1c trung tuy\u1ebfn $AD$, $BE$, v\u00e0 $CF$ c\u1ee7a tam gi\u00e1c $ABC$ c\u1eaft nhau t\u1ea1i tr\u1ecdng t\u00e2m $G$. \u0110\u01b0\u1eddng th\u1eb3ng qua $G$ v\u00e0 song song v\u1edbi $BC$ c\u1eaft $AB$ v\u00e0 $AC$ t\u1ea1i $M$ v\u00e0 $N$ t\u01b0\u01a1ng \u1ee9ng. N\u1ebfu di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c $ABC$ l\u00e0 144, h\u00e3y t\u00ecm di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c $ENG$.",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 152,
+        "lang": "vi",
+        "gid": 159
+    },
+    {
+        "question": "T\u1ed5ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c b\u1ed9i s\u1ed1 c\u1ee7a 7 n\u1eb1m gi\u1eefa 100 v\u00e0 200 l\u00e0 bao nhi\u00eau?",
+        "answer": "2107",
+        "data_source": "MATH500",
+        "data_source_id": 158,
+        "lang": "vi",
+        "gid": 160
+    },
+    {
+        "question": "T\u00edch c\u1ee7a hai s\u1ed1 nguy\u00ean d\u01b0\u01a1ng ch\u1eb5n li\u00ean ti\u1ebfp l\u00e0 288. H\u1ecfi s\u1ed1 l\u1edbn h\u01a1n trong hai s\u1ed1 \u0111\u00f3 l\u00e0 bao nhi\u00eau?",
+        "answer": "18",
+        "data_source": "MATH500",
+        "data_source_id": 160,
+        "lang": "vi",
+        "gid": 161
+    },
+    {
+        "question": "T\u00ednh $\\log_264$.",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 161,
+        "lang": "vi",
+        "gid": 162
+    },
+    {
+        "question": "Th\u1ec3 t\u00edch c\u1ee7a m\u1ed9t h\u00ecnh n\u00f3n \u0111\u01b0\u1ee3c cho b\u1edfi c\u00f4ng th\u1ee9c $V = \\frac{1}{3}Bh$, trong \u0111\u00f3 $B$ l\u00e0 di\u1ec7n t\u00edch c\u1ee7a \u0111\u00e1y v\u00e0 $h$ l\u00e0 chi\u1ec1u cao. Di\u1ec7n t\u00edch c\u1ee7a \u0111\u00e1y h\u00ecnh n\u00f3n l\u00e0 30 \u0111\u01a1n v\u1ecb vu\u00f4ng, v\u00e0 chi\u1ec1u cao c\u1ee7a n\u00f3 l\u00e0 6.5 \u0111\u01a1n v\u1ecb. S\u1ed1 \u0111\u01a1n v\u1ecb l\u1eadp ph\u01b0\u01a1ng trong th\u1ec3 t\u00edch c\u1ee7a n\u00f3 l\u00e0 bao nhi\u00eau?",
+        "answer": "65",
+        "data_source": "MATH500",
+        "data_source_id": 167,
+        "lang": "vi",
+        "gid": 163
+    },
+    {
+        "question": "C\u00f3 t\u1ed5ng c\u1ed9ng 70 h\u00ecnh vu\u00f4ng v\u1edbi ba k\u00edch th\u01b0\u1edbc kh\u00e1c nhau m\u00e0 c\u00e1c \u0111\u1ec9nh c\u1ee7a ch\u00fang l\u00e0 c\u00e1c \u0111i\u1ec3m n\u1eb1m tr\u00ean l\u01b0\u1edbi \u0111i\u1ec3m ch\u1eef nh\u1eadt $3 \\times n$. Gi\u00e1 tr\u1ecb c\u1ee7a $n$ l\u00e0 bao nhi\u00eau?  [asy]  unitsize(0.4 inch);  dot((0,0),linewidth(9bp)); dot((1,0),linewidth(9bp)); dot((2,0),linewidth(9bp)); dot((0,1),linewidth(9bp)); dot((0,2),linewidth(9bp)); dot((1,1),linewidth(9bp)); dot((2,1),linewidth(9bp)); dot((1,2),linewidth(9bp)); dot((2,2),linewidth(9bp));  filldraw((2.95,-0.05)--(3.05,-0.05)--(3.05,0.05)--(2.95,0.05)--cycle,black); filldraw((2.45,-0.05)--(2.55,-0.05)--(2.55,0.05)--(2.45,0.05)--cycle,black); filldraw((3.45,-0.05)--(3.55,-0.05)--(3.55,0.05)--(3.45,0.05)--cycle,black);  filldraw((2.95,0.95)--(3.05,0.95)--(3.05,1.05)--(2.95,1.05)--cycle,black); filldraw((2.45,0.95)--(2.55,0.95)--(2.55,1.05)--(2.45,1.05)--cycle,black); filldraw((3.45,0.95)--(3.55,0.95)--(3.55,1.05)--(3.45,1.05)--cycle,black);  filldraw((2.95,1.95)--(3.05,1.95)--(3.05,2.05)--(2.95,2.05)--cycle,black); filldraw((2.45,1.95)--(2.55,1.95)--(2.55,2.05)--(2.45,2.05)--cycle,black); filldraw((3.45,1.95)--(3.55,1.95)--(3.55,2.05)--(3.45,2.05)--cycle,black);  dot((4,0),linewidth(9bp)); dot((5,0),linewidth(9bp)); dot((4,1),linewidth(9bp)); dot((5,1),linewidth(9bp)); dot((4,2),linewidth(9bp)); dot((5,2),linewidth(9bp));  [/asy]",
+        "answer": "19",
+        "data_source": "MATH500",
+        "data_source_id": 168,
+        "lang": "vi",
+        "gid": 164
+    },
+    {
+        "question": "Di\u1ec7n t\u00edch c\u1ee7a m\u1ed9t tam gi\u00e1c c\u00f3 \u0111\u1ed9 d\u00e0i c\u00e1c c\u1ea1nh l\u00e0 5, 5 v\u00e0 6 \u0111\u01a1n v\u1ecb l\u00e0 bao nhi\u00eau \u0111\u01a1n v\u1ecb vu\u00f4ng?",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 169,
+        "lang": "vi",
+        "gid": 165
+    },
+    {
+        "question": "T\u00ecm t\u00edch c\u1ee7a t\u1ecda \u0111\u1ed9 $y$ c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c nghi\u1ec7m ph\u00e2n bi\u1ec7t $(x,y)$ cho hai ph\u01b0\u01a1ng tr\u00ecnh $y=x^2-8$ v\u00e0 $y^2=-5x+44$.",
+        "answer": "1736",
+        "data_source": "MATH500",
+        "data_source_id": 170,
+        "lang": "vi",
+        "gid": 166
+    },
+    {
+        "question": "N\u1ebfu s\u1ed1 h\u1ea1ng th\u1ee9 t\u01b0 c\u1ee7a m\u1ed9t d\u00e3y s\u1ed1 c\u1ea5p s\u1ed1 c\u1ed9ng l\u00e0 $200$ v\u00e0 s\u1ed1 h\u1ea1ng th\u1ee9 t\u00e1m l\u00e0 $500$, th\u00ec s\u1ed1 h\u1ea1ng th\u1ee9 s\u00e1u l\u00e0 bao nhi\u00eau?",
+        "answer": "350",
+        "data_source": "MATH500",
+        "data_source_id": 172,
+        "lang": "vi",
+        "gid": 167
+    },
+    {
+        "question": "X\u00e9t chu\u1ed7i h\u00ecnh h\u1ecdc $4+\\frac{12}{a}+\\frac{36}{a^2}+\\cdots$. N\u1ebfu t\u1ed5ng c\u1ee7a chu\u1ed7i l\u00e0 m\u1ed9t s\u1ed1 ch\u00ednh ph\u01b0\u01a1ng, gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a $a$ l\u00e0 bao nhi\u00eau, bi\u1ebft r\u1eb1ng $a$ l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 173,
+        "lang": "vi",
+        "gid": 168
+    },
+    {
+        "question": "\u0110\u1ed3 th\u1ecb c\u1ee7a parabol $x = y^2 - 4y - 1$ c\u00f3 bao nhi\u00eau giao \u0111i\u1ec3m v\u1edbi tr\u1ee5c tung?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 174,
+        "lang": "vi",
+        "gid": 169
+    },
+    {
+        "question": "N\u1ebfu $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean sao cho $3m + 4n = 100$, gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $\\left| m - n \\right|$ l\u00e0 bao nhi\u00eau?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 175,
+        "lang": "vi",
+        "gid": 170
+    },
+    {
+        "question": "C\u0103n b\u1eadc hai d\u01b0\u01a1ng c\u1ee7a t\u00edch $10 \\times 15 \\times 24$ l\u00e0 bao nhi\u00eau?",
+        "answer": "60",
+        "data_source": "MATH500",
+        "data_source_id": 178,
+        "lang": "vi",
+        "gid": 171
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 hai ch\u1eef s\u1ed1 l\u00e0 \u01b0\u1edbc c\u1ee7a c\u1ea3 100 v\u00e0 150?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 180,
+        "lang": "vi",
+        "gid": 172
+    },
+    {
+        "question": "Hai ph\u1ea7n ba s\u1ed1 h\u1ecdc sinh tr\u01b0\u1eddng Trung h\u1ecdc c\u01a1 s\u1edf Baker h\u1ecdc nh\u1ea1c. C\u00f3 834 h\u1ecdc sinh h\u1ecdc nh\u1ea1c. V\u1eady tr\u01b0\u1eddng Trung h\u1ecdc c\u01a1 s\u1edf Baker c\u00f3 bao nhi\u00eau h\u1ecdc sinh?",
+        "answer": "1251",
+        "data_source": "MATH500",
+        "data_source_id": 182,
+        "lang": "vi",
+        "gid": 173
+    },
+    {
+        "question": "N\u1ebfu ch\u00fang ta vi\u1ebft $\\sqrt{2}+\\frac{1}{\\sqrt{2}} + \\sqrt{3} + \\frac{1}{\\sqrt{3}}$ d\u01b0\u1edbi d\u1ea1ng $\\dfrac{a\\sqrt{2} + b\\sqrt{3}}{c}$ sao cho $a$, $b$, v\u00e0 $c$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0 $c$ l\u00e0 nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3, khi \u0111\u00f3 $a+b+c$ b\u1eb1ng bao nhi\u00eau?",
+        "answer": "23",
+        "data_source": "MATH500",
+        "data_source_id": 183,
+        "lang": "vi",
+        "gid": 174
+    },
+    {
+        "question": "T\u00ecm $k$, n\u1ebfu ${(3^k)}^6=3^6$.",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 185,
+        "lang": "vi",
+        "gid": 175
+    },
+    {
+        "question": "\u0110\u1ed1i v\u1edbi bao nhi\u00eau s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $n>1$ th\u00ec $2^{24}$ l\u00e0 m\u1ed9t l\u0169y th\u1eeba b\u1eadc n ho\u00e0n h\u1ea3o?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 186,
+        "lang": "vi",
+        "gid": 176
+    },
+    {
+        "question": "Hillary c\u00f3 m\u01b0\u1eddi m\u1ed9t \u0111\u1ed3ng xu, t\u1ea5t c\u1ea3 \u0111\u1ec1u l\u00e0 \u0111\u1ed3ng xu c\u00f3 gi\u00e1 tr\u1ecb 10 cent v\u00e0 5 cent. T\u1ed5ng c\u1ed9ng, c\u00e1c \u0111\u1ed3ng xu \u0111\u00f3 tr\u1ecb gi\u00e1 75 cent. V\u1eady c\u00f4 \u1ea5y c\u00f3 bao nhi\u00eau \u0111\u1ed3ng xu 5 cent?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 187,
+        "lang": "vi",
+        "gid": 177
+    },
+    {
+        "question": "T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a $x$ t\u1ea1i \u0111\u00f3 \u0111\u1ed3 th\u1ecb c\u1ee7a hai h\u00e0m s\u1ed1 $f(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+3x^3-6x^2+2x+1$ v\u00e0 $g(x)=e^{3x^2-|\\lfloor x \\rfloor|!}+\\binom{22+735235|\\lfloor x \\rfloor |}{2356}+\\phi(|\\lfloor x \\rfloor|+1)+72x^4+4x^3-11x^2-6x+13$ giao nhau, \u1edf \u0111\u00e2y $\\lfloor x \\rfloor$ k\u00fd hi\u1ec7u h\u00e0m ph\u1ea7n nguy\u00ean c\u1ee7a $x$, v\u00e0 $\\phi(n)$ k\u00fd hi\u1ec7u t\u1ed5ng c\u1ee7a c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $\\le$ v\u00e0 nguy\u00ean t\u1ed1 c\u00f9ng nhau v\u1edbi $n$.",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 188,
+        "lang": "vi",
+        "gid": 178
+    },
+    {
+        "question": "N\u0103m \u0111i\u1ec3m $A$, $B$, $C$, $D$ v\u00e0 $O$ n\u1eb1m tr\u00ean m\u1ed9t c\u00e1nh \u0111\u1ed3ng b\u1eb1ng ph\u1eb3ng. $A$ n\u1eb1m ngay ph\u00eda B\u1eafc c\u1ee7a $O$, $B$ n\u1eb1m ngay ph\u00eda T\u00e2y c\u1ee7a $O$, $C$ n\u1eb1m ngay ph\u00eda Nam c\u1ee7a $O$, v\u00e0 $D$ n\u1eb1m ngay ph\u00eda \u0110\u00f4ng c\u1ee7a $O$. Kho\u1ea3ng c\u00e1ch gi\u1eefa $C$ v\u00e0 $D$ l\u00e0 140 m. M\u1ed9t kh\u00ed c\u1ea7u n\u1eb1m l\u01a1 l\u1eedng tr\u00ean kh\u00f4ng t\u1ea1i \u0111i\u1ec3m $H$ ngay ph\u00eda tr\u00ean $O$. Kh\u00ed c\u1ea7u \u0111\u01b0\u1ee3c gi\u1eef c\u1ed1 \u0111\u1ecbnh b\u1eb1ng b\u1ed1n s\u1ee3i d\u00e2y $HA$, $HB$, $HC$ v\u00e0 $HD$. S\u1ee3i d\u00e2y $HC$ c\u00f3 \u0111\u1ed9 d\u00e0i 150 m v\u00e0 s\u1ee3i d\u00e2y $HD$ c\u00f3 \u0111\u1ed9 d\u00e0i 130 m. [asy] size(250); pair A, B, C, D, O, H, W, X, Y, Z; O=(0,0); A=(1,1); D=(1.5,-.3); B=(-1.5,.3); C=(-1,-1); H=(0,2.5); W=(5/3)*(A+D); X=(5/3)*(A+B); Y=(-1)*(W); Z=(-1)*(X); draw(W--X--Y--Z--W); draw(A--C); draw(B--D); draw(O--H, linewidth(1)); draw(A--H, dashed); draw(B--H, dashed); draw(C--H, dashed); draw(D--H, dashed); dot(A); dot(B); dot(C); dot(D); dot(O); dot(H); label(\"A\", A, NE); label(\"B\", B, SW); label(\"C\", C, SE); label(\"D\", D, NE); label(\"O\", O, SE); label(\"H\", H, NW); [/asy]  \u0110\u1ec3 gi\u1ea3m t\u1ed5ng chi\u1ec1u d\u00e0i c\u1ee7a s\u1ee3i d\u00e2y \u0111\u00e3 s\u1eed d\u1ee5ng, s\u1ee3i d\u00e2y $HC$ v\u00e0 s\u1ee3i d\u00e2y $HD$ \u0111\u01b0\u1ee3c thay th\u1ebf b\u1eb1ng m\u1ed9t s\u1ee3i d\u00e2y duy nh\u1ea5t $HP$ v\u1edbi $P$ l\u00e0 m\u1ed9t \u0111i\u1ec3m tr\u00ean \u0111\u01b0\u1eddng th\u1eb3ng n\u1ed1i gi\u1eefa $C$ v\u00e0 $D$. (Kh\u00ed c\u1ea7u v\u1eabn \u1edf c\u00f9ng v\u1ecb tr\u00ed $H$ ph\u00eda tr\u00ean $O$ nh\u01b0 m\u00f4 t\u1ea3 \u1edf tr\u00ean.) X\u00e1c \u0111\u1ecbnh \u0111\u1ed9 d\u00e0i l\u1edbn nh\u1ea5t c\u1ee7a s\u1ee3i d\u00e2y c\u00f3 th\u1ec3 ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c.",
+        "answer": "160",
+        "data_source": "MATH500",
+        "data_source_id": 189,
+        "lang": "vi",
+        "gid": 179
+    },
+    {
+        "question": "\u0110i\u1ec3m $(a, b)$ n\u1eb1m tr\u00ean \u0111\u01b0\u1eddng th\u1eb3ng c\u00f3 ph\u01b0\u01a1ng tr\u00ecnh $3x + 2y = 12.$ Khi $a = 4$, gi\u00e1 tr\u1ecb c\u1ee7a $b$ l\u00e0 bao nhi\u00eau?",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 191,
+        "lang": "vi",
+        "gid": 180
+    },
+    {
+        "question": "Trong $\\triangle PQR$, ta c\u00f3 $PQ = QR = 34$ v\u00e0 $PR = 32$. T\u00ecm \u0111\u1ed9 d\u00e0i c\u1ee7a trung tuy\u1ebfn $\\overline{QM}$.",
+        "answer": "30",
+        "data_source": "MATH500",
+        "data_source_id": 192,
+        "lang": "vi",
+        "gid": 181
+    },
+    {
+        "question": "M\u1ed9t \u0111a th\u1ee9c v\u1edbi h\u1ec7 s\u1ed1 nguy\u00ean c\u00f3 d\u1ea1ng \\[2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.\\]T\u00ecm s\u1ed1 l\u01b0\u1ee3ng c\u00e1c nghi\u1ec7m h\u1eefu t\u1ef7 kh\u00e1c nhau c\u00f3 th\u1ec3 c\u00f3 c\u1ee7a \u0111a th\u1ee9c n\u00e0y.",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 193,
+        "lang": "vi",
+        "gid": 182
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08M\u1ed9t \u0111a th\u1ee9c h\u1ec7 s\u1ed1 nguy\u00ean c\u00f3 d\u1ea1ng $$2x^4 + a_3 x^3 + a_2 x^2 + a_1 x + 1 = 0.$$  T\u00ecm s\u1ed1 nghi\u1ec7m h\u1eefu t\u1ec9 ph\u00e2n bi\u1ec7t c\u00f3 th\u1ec3 c\u00f3 c\u1ee7a \u0111a th\u1ee9c.  \uff09\uff1a",
+        "answer": "24",
+        "data_source": "MATH500",
+        "data_source_id": 195,
+        "lang": "vi",
+        "gid": 183
+    },
+    {
+        "question": "$441+2(21)(19)+361=x$. T\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $x$.",
+        "answer": "1600",
+        "data_source": "MATH500",
+        "data_source_id": 196,
+        "lang": "vi",
+        "gid": 184
+    },
+    {
+        "question": "N\u1ebfu $x^3$ l\u00e0 \u01b0\u1edbc s\u1ed1 d\u01b0\u01a1ng c\u1ee7a $10!,$ th\u00ec c\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb nguy\u00ean c\u00f3 th\u1ec3 c\u00f3 c\u1ee7a $x$? (L\u01b0u \u00fd: \u0110\u1ed1i v\u1edbi m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $n$, bi\u1ec3u th\u1ee9c $n!$ \u0111\u01b0\u1ee3c hi\u1ec3u l\u00e0 t\u00edch c\u1ee7a c\u00e1c s\u1ed1 nguy\u00ean t\u1eeb 1 \u0111\u1ebfn (bao g\u1ed3m) $n$.)",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 197,
+        "lang": "vi",
+        "gid": 185
+    },
+    {
+        "question": "Trung b\u00ecnh c\u1ed9ng c\u1ee7a 7, 2, $x$ v\u00e0 10 l\u00e0 9. Gi\u00e1 tr\u1ecb c\u1ee7a $x$ l\u00e0 g\u00ec?",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 199,
+        "lang": "vi",
+        "gid": 186
+    },
+    {
+        "question": "N\u1ebfu 4 daps = 7 yaps, v\u00e0 5 yaps = 3 baps, th\u00ec bao nhi\u00eau daps b\u1eb1ng 42 baps?",
+        "answer": "40",
+        "data_source": "MATH500",
+        "data_source_id": 200,
+        "lang": "vi",
+        "gid": 187
+    },
+    {
+        "question": "M\u1ed9t nh\u00f3m g\u1ed3m $N$ h\u1ecdc sinh, trong \u0111\u00f3 $N < 50$, \u0111ang tham gia v\u00e0o m\u1ed9t chuy\u1ebfn d\u00e3 ngo\u1ea1i. N\u1ebfu gi\u00e1o vi\u00ean c\u1ee7a h\u1ecd chia h\u1ecd th\u00e0nh c\u00e1c nh\u00f3m 8 ng\u01b0\u1eddi, nh\u00f3m cu\u1ed1i c\u00f9ng c\u00f3 5 h\u1ecdc sinh. N\u1ebfu gi\u00e1o vi\u00ean thay v\u00e0o \u0111\u00f3 chia h\u1ecd th\u00e0nh c\u00e1c nh\u00f3m 6 ng\u01b0\u1eddi, nh\u00f3m cu\u1ed1i c\u00f9ng c\u00f3 3 h\u1ecdc sinh. T\u1ed5ng t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb kh\u1ea3 d\u0129 c\u1ee7a $N$ l\u00e0 bao nhi\u00eau?",
+        "answer": "66",
+        "data_source": "MATH500",
+        "data_source_id": 201,
+        "lang": "vi",
+        "gid": 188
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 d\u01b0 khi $(5x + 9)^{611} + (x + 5)^{11} + (x - 1)^{11} + 3x^2 + 1$ \u0111\u01b0\u1ee3c chia cho $x + 2.$",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 203,
+        "lang": "vi",
+        "gid": 189
+    },
+    {
+        "question": "H\u00e3y cho $a,$ $b,$ $c,$ $d$ l\u00e0 c\u00e1c s\u1ed1 ph\u1ee9c ph\u00e2n bi\u1ec7t sao cho $|a| = |b| = |c| = |d| = 1$ v\u00e0 $a + b + c + d = 0.$ T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a \\[ |(a + b)(a + c)(a + d)(b + c)(b + d)(c + d)|. \\]",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 204,
+        "lang": "vi",
+        "gid": 190
+    },
+    {
+        "question": "Mikka mu\u1ed1n \u0111\u1eb7t m\u1ed9t chi\u1ebfc pizza v\u1edbi hai lo\u1ea1i nh\u00e2n kh\u00e1c nhau. Anh \u1ea5y c\u00f3 8 lo\u1ea1i nh\u00e2n kh\u00e1c nhau \u0111\u1ec3 l\u1ef1a ch\u1ecdn. Anh \u1ea5y c\u00f3 th\u1ec3 \u0111\u1eb7t \u0111\u01b0\u1ee3c bao nhi\u00eau lo\u1ea1i pizza kh\u00e1c nhau?",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 207,
+        "lang": "vi",
+        "gid": 191
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau s\u1ed1 trong m\u1ed9t tr\u0103m s\u1ed1 nguy\u00ean d\u01b0\u01a1ng \u0111\u1ea7u ti\u00ean chia h\u1ebft cho $3, 4,$ v\u00e0 $5?$",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 208,
+        "lang": "vi",
+        "gid": 192
+    },
+    {
+        "question": "Khi s\u1ed1 nguy\u00ean hai ch\u1eef s\u1ed1 $``\\text{AB}\"$ \u0111\u01b0\u1ee3c l\u1eadp ph\u01b0\u01a1ng, gi\u00e1 tr\u1ecb thu \u0111\u01b0\u1ee3c l\u00e0 $912,\\!673$. H\u00e3y t\u00ecm gi\u00e1 tr\u1ecb $A + B$.",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 209,
+        "lang": "vi",
+        "gid": 193
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08M\u01b0\u1eddi hai h\u00ecnh vu\u00f4ng c\u00f3 k\u00edch th\u01b0\u1edbc 1x1 t\u1ea1o th\u00e0nh m\u1ed9t h\u00ecnh ch\u1eef nh\u1eadt, nh\u01b0 h\u00ecnh v\u1ebd. Di\u1ec7n t\u00edch c\u1ee7a ph\u1ea7n t\u00f4 \u0111\u1eadm l\u00e0 bao nhi\u00eau? [asy] size(4cm);defaultpen(linewidth(0.75));  // Filled portions fill((0, 4)--(0, 0)--(2, 0)--cycle, gray(0.75)); fill((0, 4)--(3, 4)--(3, 0)--cycle, gray(0.75));  // grid int j; for (j = 0; j < 4; ++j) {draw((j, 0)--(j, 4));} for (j = 0; j < 5; ++j) {draw((0, j)--(3, j));}  //diagonals draw((0, 4)--(3, 0)); draw((0, 4)--(2, 0)); [/asy]\uff09\uff1a",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 210,
+        "lang": "vi",
+        "gid": 194
+    },
+    {
+        "question": "Bi\u1ec3u th\u1ecb $5^5\\div5^4-5^3+5^2\\cdot5^1$ d\u01b0\u1edbi d\u1ea1ng s\u1ed1 nguy\u00ean.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 211,
+        "lang": "vi",
+        "gid": 195
+    },
+    {
+        "question": "G\u1ea7n \u0111\u00e2y, Frank \u0111\u00e3 l\u00e0m m\u1ed9t b\u00e0i test n\u0103ng l\u1ef1c g\u1ed3m m\u1ed9t tr\u0103m c\u00e2u h\u1ecfi trong \u0111\u00f3 m\u1ed7i c\u00e2u tr\u1ea3 l\u1eddi \u0111\u00fang \u0111\u01b0\u1ee3c $5$ \u0111i\u1ec3m, m\u1ed7i c\u00e2u tr\u1ea3 l\u1eddi sai b\u1ecb tr\u1eeb $-2$ \u0111i\u1ec3m v\u00e0 m\u1ed7i c\u00e2u kh\u00f4ng tr\u1ea3 l\u1eddi \u0111\u01b0\u1ee3c zero \u0111i\u1ec3m. Frank \u0111\u00e3 tr\u1ea3 l\u1eddi $80$ c\u00e2u v\u00e0 \u0111\u1ea1t \u0111\u01b0\u1ee3c $232$ \u0111i\u1ec3m. Anh \u1ea5y \u0111\u00e3 tr\u1ea3 l\u1eddi \u0111\u00fang bao nhi\u00eau c\u00e2u h\u1ecfi?",
+        "answer": "56",
+        "data_source": "MATH500",
+        "data_source_id": 212,
+        "lang": "vi",
+        "gid": 196
+    },
+    {
+        "question": "T\u00ednh t\u1ed5ng \\[\\sum_{n = 1}^\\infty \\frac{F_{n + 1}}{F_n F_{n + 2}},\\]trong \u0111\u00f3 $F_n$ bi\u1ec3u th\u1ecb s\u1ed1 Fibonacci th\u1ee9 $n$, c\u00f3 ngh\u0129a l\u00e0 $F_0 = 0$ v\u00e0 $F_1 = 1.$",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 213,
+        "lang": "vi",
+        "gid": 197
+    },
+    {
+        "question": "C\u00f3 360 h\u1ecdc sinh trong tr\u01b0\u1eddng c\u1ee7a t\u00f4i. 15 h\u1ecdc sinh h\u1ecdc c\u1ea3 ba m\u00f4n gi\u1ea3i t\u00edch, v\u1eadt l\u00fd v\u00e0 h\u00f3a h\u1ecdc, v\u00e0 15 h\u1ecdc sinh kh\u00f4ng h\u1ecdc b\u1ea5t k\u1ef3 m\u00f4n n\u00e0o trong s\u1ed1 ch\u00fang. 180 h\u1ecdc sinh h\u1ecdc gi\u1ea3i t\u00edch. S\u1ed1 h\u1ecdc sinh h\u1ecdc h\u00f3a h\u1ecdc g\u1ea5p \u0111\u00f4i s\u1ed1 h\u1ecdc sinh h\u1ecdc v\u1eadt l\u00fd. 75 h\u1ecdc sinh h\u1ecdc c\u1ea3 gi\u1ea3i t\u00edch v\u00e0 h\u00f3a h\u1ecdc, v\u00e0 75 h\u1ecdc sinh h\u1ecdc c\u1ea3 v\u1eadt l\u00fd v\u00e0 h\u00f3a h\u1ecdc. Ch\u1ec9 c\u00f3 30 h\u1ecdc sinh h\u1ecdc c\u1ea3 v\u1eadt l\u00fd v\u00e0 gi\u1ea3i t\u00edch. C\u00f3 bao nhi\u00eau h\u1ecdc sinh h\u1ecdc v\u1eadt l\u00fd?",
+        "answer": "110",
+        "data_source": "MATH500",
+        "data_source_id": 214,
+        "lang": "vi",
+        "gid": 198
+    },
+    {
+        "question": "N\u1ebfu $x^2 - x - 1 = 0$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $x^3 - 2x + 1$ l\u00e0 bao nhi\u00eau?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 215,
+        "lang": "vi",
+        "gid": 199
+    },
+    {
+        "question": "Trong v\u00f9ng \u0111\u1ea5t c\u1ee7a Ink, h\u1ec7 th\u1ed1ng ti\u1ec1n t\u1ec7 r\u1ea5t \u0111\u1ed9c \u0111\u00e1o. M\u1ed9t Trinket t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi 4 Blinkets, v\u00e0 3 Blinkets t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi 7 Drinkets. T\u00ednh b\u1eb1ng Trinkets, gi\u00e1 tr\u1ecb c\u1ee7a 56 Drinkets l\u00e0 bao nhi\u00eau?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 216,
+        "lang": "vi",
+        "gid": 200
+    },
+    {
+        "question": "T\u00edch c\u1ee7a s\u1ed1 nguy\u00ean 240 v\u00e0 $k$ l\u00e0 m\u1ed9t l\u1eadp ph\u01b0\u01a1ng ho\u00e0n h\u1ea3o. Gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $k$ l\u00e0 bao nhi\u00eau?",
+        "answer": "900",
+        "data_source": "MATH500",
+        "data_source_id": 221,
+        "lang": "vi",
+        "gid": 201
+    },
+    {
+        "question": "Di\u1ec7n t\u00edch c\u1ee7a $\\triangle ABC$ l\u00e0 6 centimet vu\u00f4ng. $\\overline{AB}\\|\\overline{DE}$. $BD=4BC$. S\u1ed1 centimet vu\u00f4ng trong di\u1ec7n t\u00edch c\u1ee7a $\\triangle CDE$ l\u00e0 bao nhi\u00eau? [asy] draw((-.3,-3)--(.1,1)--(-1,0)--(3,0)--cycle); label(\"$A$\",(.1,1),N); label(\"$B$\",(-1,0),W); label(\"$C$\",(0,0),NE); label(\"$D$\",(3,0),E); label(\"$E$\",(-.3,-3),S); [/asy]",
+        "answer": "54",
+        "data_source": "MATH500",
+        "data_source_id": 222,
+        "lang": "vi",
+        "gid": 202
+    },
+    {
+        "question": "T\u1ed5ng c\u00e1c ch\u1eef s\u1ed1 trong bi\u1ec3u di\u1ec5n th\u1eadp ph\u00e2n h\u1eefu h\u1ea1n c\u1ee7a ph\u00e2n s\u1ed1 $\\frac{4321}{5^7\\cdot2^8}$ l\u00e0 bao nhi\u00eau?",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 223,
+        "lang": "vi",
+        "gid": 203
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a bi\u1ec3u th\u1ee9c $$ (3x-2)(4x+1)-(3x-2)4x+1 $$ khi $x=4$ l\u00e0 bao nhi\u00eau?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 225,
+        "lang": "vi",
+        "gid": 204
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau c\u00e1ch \u0111\u1ec3 \u0111\u1eb7t 5 qu\u1ea3 b\u00f3ng v\u00e0o 2 c\u00e1i h\u1ed9p n\u1ebfu nh\u1eefng qu\u1ea3 b\u00f3ng kh\u00f4ng ph\u00e2n bi\u1ec7t \u0111\u01b0\u1ee3c v\u00e0 c\u00e1c h\u1ed9p c\u0169ng v\u1eady?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 226,
+        "lang": "vi",
+        "gid": 205
+    },
+    {
+        "question": "Yann v\u00e0 Camille \u0111\u1ebfn m\u1ed9t nh\u00e0 h\u00e0ng. N\u1ebfu c\u00f3 10 m\u00f3n \u0103n trong th\u1ef1c \u0111\u01a1n, v\u00e0 m\u1ed7i ng\u01b0\u1eddi g\u1ecdi m\u1ed9t m\u00f3n, c\u00f3 bao nhi\u00eau t\u1ed5 h\u1ee3p kh\u00e1c nhau m\u00e0 Yann v\u00e0 Camille c\u00f3 th\u1ec3 g\u1ecdi n\u1ebfu h\u1ecd kh\u00f4ng mu\u1ed1n g\u1ecdi m\u00f3n gi\u1ed1ng nhau? (Vi\u1ec7c ai g\u1ecdi m\u00f3n g\u00ec c\u0169ng quan tr\u1ecdng---Yann g\u1ecdi m\u00f3n g\u00e0 v\u00e0 Camille g\u1ecdi m\u00f3n c\u00e1 kh\u00e1c v\u1edbi vi\u1ec7c Yann g\u1ecdi m\u00f3n c\u00e1 v\u00e0 Camille g\u1ecdi m\u00f3n g\u00e0.)",
+        "answer": "90",
+        "data_source": "MATH500",
+        "data_source_id": 229,
+        "lang": "vi",
+        "gid": 206
+    },
+    {
+        "question": "Trung b\u00ecnh c\u1ed9ng c\u1ee7a tu\u1ed5i c\u1ee7a Amy, Ben, v\u00e0 Chris l\u00e0 6. B\u1ed1n n\u0103m tr\u01b0\u1edbc, Chris c\u00f9ng tu\u1ed5i v\u1edbi Amy b\u00e2y gi\u1edd. Trong b\u1ed1n n\u0103m n\u1eefa, tu\u1ed5i c\u1ee7a Ben s\u1ebd l\u00e0 $\\frac{3}{5}$ c\u1ee7a tu\u1ed5i c\u1ee7a Amy v\u00e0o th\u1eddi \u0111i\u1ec3m \u0111\u00f3. Chris bao nhi\u00eau tu\u1ed5i ngay b\u00e2y gi\u1edd?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 231,
+        "lang": "vi",
+        "gid": 207
+    },
+    {
+        "question": "Cho ph\u00e9p $f$ bi\u1ec3u th\u1ee9c h\u00e0m \u0111\u1ecbnh ngh\u0129a b\u1edfi $f(x) = x^3 - 49x^2 + 623x - 2015,$ v\u00e0 cho $g(x) = f(x + 5).$ T\u00ednh t\u1ed5ng c\u00e1c nghi\u1ec7m c\u1ee7a $g.$",
+        "answer": "34",
+        "data_source": "MATH500",
+        "data_source_id": 234,
+        "lang": "vi",
+        "gid": 208
+    },
+    {
+        "question": "T\u00ednh \\[\\frac{1}{\\cos^2 10^\\circ} + \\frac{1}{\\sin^2 20^\\circ} + \\frac{1}{\\sin^2 40^\\circ}.\\]",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 236,
+        "lang": "vi",
+        "gid": 209
+    },
+    {
+        "question": "N\u1ebfu $x$, $y$ v\u00e0 $z$ l\u00e0 s\u1ed1 d\u01b0\u01a1ng v\u1edbi $xy = 24$, $xz = 48$ v\u00e0 $yz = 72$, h\u00e3y t\u00ecm $x + y + z$.",
+        "answer": "22",
+        "data_source": "MATH500",
+        "data_source_id": 237,
+        "lang": "vi",
+        "gid": 210
+    },
+    {
+        "question": "Nh\u1eefng gi\u00e1 tr\u1ecb th\u1ef1c c\u1ee7a $x$ n\u00e0o kh\u00f4ng n\u1eb1m trong mi\u1ec1n x\u00e1c \u0111\u1ecbnh c\u1ee7a  $f(x)=\\frac{1}{|x^2+3x-4|+|x^2+9x+20|}$?",
+        "answer": "-4",
+        "data_source": "MATH500",
+        "data_source_id": 238,
+        "lang": "vi",
+        "gid": 211
+    },
+    {
+        "question": "H\u00ecnh b\u00ecnh h\u00e0nh \u0111\u01b0\u1ee3c gi\u1edbi h\u1ea1n b\u1edfi c\u00e1c \u0111\u01b0\u1eddng th\u1eb3ng $y=ax+c$, $y=ax+d$, $y=bx+c$, v\u00e0 $y=bx+d$ c\u00f3 di\u1ec7n t\u00edch l\u00e0 18. H\u00ecnh b\u00ecnh h\u00e0nh \u0111\u01b0\u1ee3c gi\u1edbi h\u1ea1n b\u1edfi c\u00e1c \u0111\u01b0\u1eddng th\u1eb3ng $y=ax+c$, $y=ax-d$, $y=bx+c$, v\u00e0 $y=bx-d$ c\u00f3 di\u1ec7n t\u00edch l\u00e0 72. Bi\u1ebft r\u1eb1ng $a$, $b$, $c$, v\u00e0 $d$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng, gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $a+b+c+d$ l\u00e0 bao nhi\u00eau?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 239,
+        "lang": "vi",
+        "gid": 212
+    },
+    {
+        "question": "Trong h\u00ecnh v\u1ebd, $PT$ song song v\u1edbi $QR.$ H\u00e3y t\u00ednh \u0111\u1ed9 l\u1edbn c\u1ee7a $\\angle PQR$ trong \u0111\u01a1n v\u1ecb \u0111\u1ed9?  [asy] draw((0,0)--(10,0),black+linewidth(1)); draw((0,0)--(10,0),MidArrow); draw((10,0)--(20,0),black+linewidth(1)); draw((0,0)--(-7,10)--(7,10)--(10,0),black+linewidth(1)); draw((-5,10)--(7,10),MidArrow); label(\"$x^{\\circ}$\",(-6,10),SE); label(\"$2x^{\\circ}$\",(7,10),SW); label(\"$128^{\\circ}$\",(10,0),NE); label(\"$P$\",(-7,10),N); label(\"$T$\",(7,10),N); label(\"$R$\",(10,0),S); label(\"$Q$\",(0,0),S); [/asy]",
+        "answer": "116",
+        "data_source": "MATH500",
+        "data_source_id": 240,
+        "lang": "vi",
+        "gid": 213
+    },
+    {
+        "question": "Kho\u1ea3ng c\u00e1ch nh\u1ecf nh\u1ea5t gi\u1eefa g\u1ed1c t\u1ecda \u0111\u1ed9 v\u00e0 m\u1ed9t \u0111i\u1ec3m tr\u00ean \u0111\u1ed3 th\u1ecb c\u1ee7a $y=\\frac{1}{2}x^2-9$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u th\u1ecb l\u00e0 $a$. T\u00ecm $a^2$.",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 241,
+        "lang": "vi",
+        "gid": 214
+    },
+    {
+        "question": "M\u1ed9t tam gi\u00e1c c\u00f3 c\u00e1c c\u1ea1nh \u0111o 1 \u0111\u01a1n v\u1ecb v\u00e0 3 \u0111\u01a1n v\u1ecb. Chi\u1ec1u d\u00e0i c\u1ee7a c\u1ea1nh th\u1ee9 ba l\u00e0 m\u1ed9t gi\u00e1 tr\u1ecb nguy\u00ean c\u1ee7a \u0111\u01a1n v\u1ecb. Chi\u1ec1u d\u00e0i c\u1ee7a c\u1ea1nh th\u1ee9 ba, theo \u0111\u01a1n v\u1ecb, l\u00e0 bao nhi\u00eau?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 243,
+        "lang": "vi",
+        "gid": 215
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau c\u1ea1nh trong m\u1ed9t \u0111a gi\u00e1c l\u1ed3i n\u1ebfu t\u1ed5ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c g\u00f3c n\u1ed9i (tr\u1eeb m\u1ed9t g\u00f3c) l\u00e0 $1070^{\\circ}$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 244,
+        "lang": "vi",
+        "gid": 216
+    },
+    {
+        "question": "M\u01b0\u1eddi hai b\u1ea1n g\u1eb7p nhau \u0111\u1ec3 \u0103n t\u1ed1i t\u1ea1i Oscar's Overstuffed Oyster House, v\u00e0 m\u1ed7i ng\u01b0\u1eddi \u0111\u1ec1u g\u1ecdi m\u1ed9t b\u1eefa \u0103n. Ph\u1ea7n \u0103n qu\u00e1 l\u1edbn, c\u00f3 \u0111\u1ee7 th\u1ee9c \u0103n cho 18 ng\u01b0\u1eddi. N\u1ebfu h\u1ecd chia s\u1ebb, h\u1ecd n\u00ean \u0111\u1eb7t bao nhi\u00eau b\u1eefa \u0103n \u0111\u1ec3 c\u00f3 \u0111\u1ee7 th\u1ee9c \u0103n cho 12 ng\u01b0\u1eddi c\u1ee7a h\u1ecd?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 246,
+        "lang": "vi",
+        "gid": 217
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 nguy\u00ean l\u1ebb $\\textbf{duy nh\u1ea5t}$ $t$ sao cho $0<t<23$ v\u00e0 $t+2$ l\u00e0 ngh\u1ecbch \u0111\u1ea3o c\u1ee7a $t$ modulo $23$.",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 249,
+        "lang": "vi",
+        "gid": 218
+    },
+    {
+        "question": "N\u1ebfu $a$ l\u00e0 \u0111i\u1ec3m c\u1eaft tr\u1ee5c $x$, $b$ l\u00e0 \u0111i\u1ec3m c\u1eaft tr\u1ee5c $y$, v\u00e0 $m$ l\u00e0 \u0111\u1ed9 d\u1ed1c c\u1ee7a \u0111\u01b0\u1eddng th\u1eb3ng c\u00f3 ph\u01b0\u01a1ng tr\u00ecnh $\\frac{x}{4} + \\frac{y}{12} = 1$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $a + b + m$ l\u00e0 bao nhi\u00eau?",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 250,
+        "lang": "vi",
+        "gid": 219
+    },
+    {
+        "question": "S\u00e1u xe \u00f4 t\u00f4 d\u1eebng l\u1ea1i \u1edf \u0111\u00e8n \u0111\u1ecf, m\u1ed7i l\u1ea7n m\u1ed9t xe. T\u1ea1i \u0111\u00e8n hi\u1ec7u, c\u00f3 ba l\u00e0n \u0111\u01b0\u1eddng: m\u1ed9t l\u00e0n r\u1ebd tr\u00e1i, m\u1ed9t l\u00e0n \u0111i th\u1eb3ng v\u00e0 m\u1ed9t l\u00e0n r\u1ebd ph\u1ea3i. C\u00f3 bao nhi\u00eau c\u00e1ch c\u00e1c xe \u00f4 t\u00f4 c\u00f3 th\u1ec3 x\u1ebfp h\u00e0ng sao cho t\u1ea5t c\u1ea3 ba l\u00e0n \u0111\u1ec1u b\u1ecb chi\u1ebfm \u0111\u00f3ng?  Ch\u00fa \u00fd r\u1eb1ng n\u1ebfu xe \u0111\u1ea7u ti\u00ean r\u1ebd tr\u00e1i v\u00e0 xe th\u1ee9 hai \u0111i th\u1eb3ng, \u0111i\u1ec1u n\u00e0y \u0111\u01b0\u1ee3c xem l\u00e0 kh\u00e1c nhau so v\u1edbi xe \u0111\u1ea7u ti\u00ean \u0111i th\u1eb3ng v\u00e0 xe th\u1ee9 hai r\u1ebd tr\u00e1i. N\u00f3i c\u00e1ch kh\u00e1c, c\u00e1c xe l\u00e0 c\u00f3 th\u1ec3 ph\u00e2n bi\u1ec7t \u0111\u01b0\u1ee3c, nh\u01b0ng t\u1edbi giao l\u1ed9 theo m\u1ed9t th\u1ee9 t\u1ef1 c\u1ed1 \u0111\u1ecbnh.",
+        "answer": "540",
+        "data_source": "MATH500",
+        "data_source_id": 251,
+        "lang": "vi",
+        "gid": 220
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a bi\u1ec3u th\u1ee9c $4(x + 7)(2 - x)$, v\u1edbi m\u1ecdi s\u1ed1 th\u1ef1c $x$, l\u00e0 bao nhi\u00eau?",
+        "answer": "81",
+        "data_source": "MATH500",
+        "data_source_id": 252,
+        "lang": "vi",
+        "gid": 221
+    },
+    {
+        "question": "Pat s\u1ebd ch\u1ecdn s\u00e1u chi\u1ebfc b\u00e1nh quy t\u1eeb m\u1ed9t khay ch\u1ec9 ch\u1ee9a b\u00e1nh quy s\u00f4 c\u00f4 la, b\u00e1nh y\u1ebfn m\u1ea1ch, v\u00e0 b\u00e1nh \u0111\u1eadu ph\u1ed9ng. Tr\u00ean khay c\u00f3 \u00edt nh\u1ea5t s\u00e1u chi\u1ebfc b\u00e1nh quy c\u1ee7a m\u1ed7i lo\u1ea1i n\u00e0y. C\u00f3 bao nhi\u00eau c\u00e1ch ch\u1ecdn kh\u00e1c nhau c\u1ee7a s\u00e1u chi\u1ebfc b\u00e1nh quy c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ch\u1ecdn? (L\u01b0u \u00fd r\u1eb1ng c\u00e1c lo\u1ea1i b\u00e1nh quy gi\u1ed1ng nhau kh\u00f4ng th\u1ec3 ph\u00e2n bi\u1ec7t \u0111\u01b0\u1ee3c.)",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 254,
+        "lang": "vi",
+        "gid": 222
+    },
+    {
+        "question": "T\u00f4i c\u00f3 t\u00fai ch\u1ee9a nh\u1eefng vi\u00ean bi m\u00e0u v\u00e0ng v\u00e0 m\u00e0u xanh. Hi\u1ec7n t\u1ea1i, t\u1ec9 l\u1ec7 bi m\u00e0u xanh \u0111\u1ed1i v\u1edbi bi m\u00e0u v\u00e0ng l\u00e0 4:3. N\u1ebfu t\u00f4i th\u00eam 5 vi\u00ean bi m\u00e0u xanh v\u00e0 l\u1ea5y \u0111i 3 vi\u00ean bi m\u00e0u v\u00e0ng, t\u1ec9 l\u1ec7 s\u1ebd l\u00e0 7:3. C\u00f3 bao nhi\u00eau vi\u00ean bi m\u00e0u xanh trong t\u00fai tr\u01b0\u1edbc khi t\u00f4i th\u00eam v\u00e0o?",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 258,
+        "lang": "vi",
+        "gid": 223
+    },
+    {
+        "question": "T\u00ednh t\u00edch c\u1ee7a s\u1ed1 $5+\\sqrt{3}$ v\u00e0 s\u1ed1 li\u00ean h\u1ee3p c\u0103n c\u1ee7a n\u00f3.",
+        "answer": "22",
+        "data_source": "MATH500",
+        "data_source_id": 259,
+        "lang": "vi",
+        "gid": 224
+    },
+    {
+        "question": "N\u1ebfu $10^x - 10 = 9990,$ th\u00ec $x$ b\u1eb1ng bao nhi\u00eau?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 262,
+        "lang": "vi",
+        "gid": 225
+    },
+    {
+        "question": "Trong m\u1ed9t \u0111a gi\u00e1c \u0111\u1ec1u, s\u1ed1 \u0111o c\u1ee7a m\u1ed9t g\u00f3c trong l\u00e0 6,5 l\u1ea7n s\u1ed1 \u0111o c\u1ee7a m\u1ed9t g\u00f3c ngo\u00e0i. H\u1ecfi \u0111a gi\u00e1c \u0111\u00f3 c\u00f3 bao nhi\u00eau c\u1ea1nh?",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 263,
+        "lang": "vi",
+        "gid": 226
+    },
+    {
+        "question": "S\u1ed1 h\u1ea1ng th\u1ee9 2003 c\u1ee7a d\u00e3y s\u1ed1 l\u1ebb 1, 3, 5, 7, $\\dots$ l\u00e0 g\u00ec?",
+        "answer": "4005",
+        "data_source": "MATH500",
+        "data_source_id": 265,
+        "lang": "vi",
+        "gid": 227
+    },
+    {
+        "question": "S\u1ed1 d\u01b0 khi $1 + 2 + 3 + 4 + \\dots + 9 + 10$ \u0111\u01b0\u1ee3c chia cho 9 l\u00e0 bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 268,
+        "lang": "vi",
+        "gid": 228
+    },
+    {
+        "question": "M\u1ed9t thi\u00ean t\u00e0i to\u00e1n h\u1ecdc mu\u1ed1n x\u1ebfp 2 huy ch\u01b0\u01a1ng v\u00e0ng kh\u00f4ng th\u1ec3 ph\u00e2n bi\u1ec7t c\u1ee7a anh ta t\u1eeb IMO v\u00e0 2 huy ch\u01b0\u01a1ng v\u00e0ng kh\u00f4ng th\u1ec3 ph\u00e2n bi\u1ec7t t\u1eeb IPhO th\u00e0nh m\u1ed9t h\u00e0ng. C\u00f3 bao nhi\u00eau c\u00e1ch s\u1eafp x\u1ebfp kh\u00e1c nhau c\u00f3 th\u1ec3?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 269,
+        "lang": "vi",
+        "gid": 229
+    },
+    {
+        "question": "Gi\u00e1 m\u1ed9t v\u00e9 xem show l\u00e0 20 \u0111\u00f4 la. Susan mua 4 v\u00e9 v\u1edbi m\u1ed9t phi\u1ebfu gi\u1ea3m gi\u00e1 25%. Pam mua 5 v\u00e9 v\u1edbi m\u1ed9t phi\u1ebfu gi\u1ea3m gi\u00e1 30%. Pam ph\u1ea3i tr\u1ea3 nhi\u1ec1u h\u01a1n Susan bao nhi\u00eau \u0111\u00f4 la?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 270,
+        "lang": "vi",
+        "gid": 230
+    },
+    {
+        "question": "T\u00ednh $997^{-1}$ theo modulo $1000$. Bi\u1ec3u di\u1ec5n c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n d\u01b0\u1edbi d\u1ea1ng m\u1ed9t s\u1ed1 nguy\u00ean t\u1eeb $0$ \u0111\u1ebfn $999$.",
+        "answer": "333",
+        "data_source": "MATH500",
+        "data_source_id": 271,
+        "lang": "vi",
+        "gid": 231
+    },
+    {
+        "question": "N\u1ebfu $0.\\overline{1331}$ \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng ph\u00e2n s\u1ed1 $\\frac{a}{b}$ v\u1edbi $a$ v\u00e0 $b$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 \u01b0\u1edbc s\u1ed1 chung l\u1edbn nh\u1ea5t l\u00e0 1, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $a+b$ l\u00e0 bao nhi\u00eau?",
+        "answer": "1030",
+        "data_source": "MATH500",
+        "data_source_id": 272,
+        "lang": "vi",
+        "gid": 232
+    },
+    {
+        "question": "N\u0103m 1992, m\u1ed9t m\u00fai kem gelato c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c mua \u1edf \u00dd v\u1edbi gi\u00e1 1200 lire. C\u00f9ng m\u1ed9t vi\u00ean kem gelato s\u1ebd c\u00f3 gi\u00e1 \\$1.50 \u1edf Hoa K\u1ef3. V\u1edbi t\u1ef7 gi\u00e1 t\u01b0\u01a1ng \u0111\u01b0\u01a1ng gi\u1eefa lire v\u00e0 \u0111\u00f4 la, bao nhi\u00eau \u0111\u00f4 la s\u1ebd t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi 1,000,000 lire?",
+        "answer": "1250",
+        "data_source": "MATH500",
+        "data_source_id": 273,
+        "lang": "vi",
+        "gid": 233
+    },
+    {
+        "question": "H\u00e3y xem $f(x) = 2x-3$ v\u00e0 $g(x) = x+1$. Gi\u00e1 tr\u1ecb c\u1ee7a $g(f(5)-1)$ l\u00e0 bao nhi\u00eau?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 275,
+        "lang": "vi",
+        "gid": 234
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb th\u1ef1c c\u1ee7a $x$ sao cho $\\sqrt{120-\\sqrt{x}}$ l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 276,
+        "lang": "vi",
+        "gid": 235
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean c\u01a1 s\u1edf 2 c\u00f3 t\u00e1m ch\u1eef s\u1ed1 l\u1edbn nh\u1ea5t l\u00e0 g\u00ec? H\u00e3y bi\u1ec3u di\u1ec5n c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n d\u01b0\u1edbi d\u1ea1ng c\u01a1 s\u1edf 10.",
+        "answer": "255",
+        "data_source": "MATH500",
+        "data_source_id": 278,
+        "lang": "vi",
+        "gid": 236
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed $a$ v\u00e0 $b$ l\u00e0 hai s\u1ed1 nguy\u00ean t\u1ed1 kh\u00e1c nhau l\u1edbn h\u01a1n 2. C\u00f3 bao nhi\u00eau \u01b0\u1edbc s\u1ed1 nguy\u00ean cho s\u1ed1 nguy\u00ean $a(2a+b)-2a^{2}+ab$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 280,
+        "lang": "vi",
+        "gid": 237
+    },
+    {
+        "question": "Trong d\u00e3y s\u1ed1 0, 1, 1, 3, 6, 9, 27, ..., s\u1ed1 h\u1ea1ng \u0111\u1ea7u ti\u00ean l\u00e0 0. C\u00e1c s\u1ed1 h\u1ea1ng ti\u1ebfp theo \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch lu\u00e2n phi\u00ean c\u1ed9ng v\u00e0 nh\u00e2n v\u1edbi m\u1ed7i s\u1ed1 nguy\u00ean ti\u1ebfp theo, b\u1eaft \u0111\u1ea7u t\u1eeb 1. V\u00ed d\u1ee5, s\u1ed1 h\u1ea1ng th\u1ee9 hai \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch c\u1ed9ng 1 v\u00e0o s\u1ed1 h\u1ea1ng \u0111\u1ea7u ti\u00ean; s\u1ed1 h\u1ea1ng th\u1ee9 ba \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch nh\u00e2n s\u1ed1 h\u1ea1ng th\u1ee9 hai v\u1edbi 1; s\u1ed1 h\u1ea1ng th\u1ee9 t\u01b0 \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch c\u1ed9ng 2 v\u00e0o s\u1ed1 h\u1ea1ng th\u1ee9 ba; v\u00e0 c\u1ee9 th\u1ebf ti\u1ebfp t\u1ee5c. S\u1ed1 h\u1ea1ng \u0111\u1ea7u ti\u00ean c\u00f3 gi\u00e1 tr\u1ecb l\u1edbn h\u01a1n 125 l\u00e0 bao nhi\u00eau?",
+        "answer": "129",
+        "data_source": "MATH500",
+        "data_source_id": 282,
+        "lang": "vi",
+        "gid": 238
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $\\left(4\\dfrac{5}{8}\\right)^{55} \\cdot \\left(\\dfrac{8}{37}\\right)^{55}$ l\u00e0 bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 283,
+        "lang": "vi",
+        "gid": 239
+    },
+    {
+        "question": "Steve n\u00f3i v\u1edbi Jon, \"T\u00f4i \u0111ang ngh\u0129 v\u1ec1 m\u1ed9t \u0111a th\u1ee9c c\u00f3 c\u00e1c nghi\u1ec7m l\u00e0 t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng. \u0110a th\u1ee9c c\u00f3 d\u1ea1ng $P(x) = 2x^3 - 2ax^2 + (a^2 - 81)x - c$ v\u1edbi m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng $a$ v\u00e0 $c$. B\u1ea1n c\u00f3 th\u1ec3 n\u00f3i cho t\u00f4i bi\u1ebft gi\u00e1 tr\u1ecb c\u1ee7a $a$ v\u00e0 $c$ kh\u00f4ng?\"  Sau m\u1ed9t s\u1ed1 t\u00ednh to\u00e1n, Jon n\u00f3i, \"C\u00f3 nhi\u1ec1u h\u01a1n m\u1ed9t \u0111a th\u1ee9c nh\u01b0 v\u1eady.\"  Steve n\u00f3i, \"B\u1ea1n \u0111\u00fang. \u0110\u00e2y l\u00e0 gi\u00e1 tr\u1ecb c\u1ee7a $a$.\" Anh \u1ea5y vi\u1ebft ra m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0 h\u1ecfi, \"B\u1ea1n c\u00f3 th\u1ec3 n\u00f3i cho t\u00f4i bi\u1ebft gi\u00e1 tr\u1ecb c\u1ee7a $c$ kh\u00f4ng?\"  Jon n\u00f3i, \"V\u1eabn c\u00f2n hai gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a $c$.\"  T\u00ecm t\u1ed5ng c\u1ee7a hai gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a $c$.",
+        "answer": "440",
+        "data_source": "MATH500",
+        "data_source_id": 285,
+        "lang": "vi",
+        "gid": 240
+    },
+    {
+        "question": "M\u1ed9t b\u00e1nh r\u0103ng quay $33\\frac{1}{3}$ l\u1ea7n trong m\u1ed9t ph\u00fat. M\u1ed9t b\u00e1nh r\u0103ng kh\u00e1c quay 45 l\u1ea7n trong m\u1ed9t ph\u00fat. Ban \u0111\u1ea7u, m\u1ed9t d\u1ea5u tr\u00ean m\u1ed7i b\u00e1nh r\u0103ng \u0111\u1ec1u ch\u1ec9 h\u01b0\u1edbng b\u1eafc. Sau bao nhi\u00eau gi\u00e2y th\u00ec c\u1ea3 hai b\u00e1nh r\u0103ng s\u1ebd l\u1ea1i c\u00f3 d\u1ea5u c\u1ee7a ch\u00fang ch\u1ec9 h\u01b0\u1edbng b\u1eafc c\u00f9ng m\u1ed9t l\u00fac?",
+        "answer": "36",
+        "data_source": "MATH500",
+        "data_source_id": 287,
+        "lang": "vi",
+        "gid": 241
+    },
+    {
+        "question": "M\u1ed9t \u0111\u01b0\u1eddng th\u1eb3ng \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh b\u1edfi \\[\\begin{pmatrix} 3 \\\\ -10 \\\\ 1 \\end{pmatrix} + t \\begin{pmatrix} 2 \\\\ -9 \\\\ -2 \\end{pmatrix}.\\]M\u1ed9t \u0111\u01b0\u1eddng th\u1eb3ng kh\u00e1c \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh b\u1edfi \\[\\begin{pmatrix} -5 \\\\ -3 \\\\ 6 \\end{pmatrix} + u \\begin{pmatrix} 4 \\\\ -18 \\\\ -4 \\end{pmatrix}.\\]Hai \u0111\u01b0\u1eddng th\u1eb3ng n\u00e0y song song nhau. T\u00ecm kho\u1ea3ng c\u00e1ch gi\u1eefa hai \u0111\u01b0\u1eddng th\u1eb3ng n\u00e0y.",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 288,
+        "lang": "vi",
+        "gid": 242
+    },
+    {
+        "question": "Cho $a,$ $b,$ $c,$ $d$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng. T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a \\[(a + b + c + d) \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} + \\frac{1}{d} \\right).\\]",
+        "answer": "16",
+        "data_source": "MATH500",
+        "data_source_id": 289,
+        "lang": "vi",
+        "gid": 243
+    },
+    {
+        "question": "T\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $r$ sao cho $$\\frac{6r^2 -19r - 7}{2r-7} = 4r-3.$$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 290,
+        "lang": "vi",
+        "gid": 244
+    },
+    {
+        "question": "X\u00e9t mi\u1ec1n h\u00ecnh ch\u1eef nh\u1eadt c\u00f3 c\u00e1c \u0111\u1ec9nh sau \u0111\u00e2y: $$(5,4), (-5,4), (-5,-4), (5,-4).$$ C\u00f3 bao nhi\u00eau \u0111i\u1ec3m c\u00f3 t\u1ecda \u0111\u1ed9 nguy\u00ean s\u1ebd n\u1eb1m ho\u00e0n to\u00e0n \u1edf b\u00ean trong mi\u1ec1n h\u00ecnh ch\u1eef nh\u1eadt n\u00e0y?",
+        "answer": "63",
+        "data_source": "MATH500",
+        "data_source_id": 291,
+        "lang": "vi",
+        "gid": 245
+    },
+    {
+        "question": "Cho r\u1eb1ng \\begin{align*}x_{1}&=211,\\\\ x_{2}&=375,\\\\ x_{3}&=420,\\\\ x_{4}&=523,\\ \\text{v\u00e0}\\\\ x_{n}&=x_{n-1}-x_{n-2}+x_{n-3}-x_{n-4}\\ \\text{khi}\\ n\\geq5, \\end{align*}t\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $x_{531}+x_{753}+x_{975}$.",
+        "answer": "898",
+        "data_source": "MATH500",
+        "data_source_id": 292,
+        "lang": "vi",
+        "gid": 246
+    },
+    {
+        "question": "M\u1ed9t palindrome l\u00e0 m\u1ed9t s\u1ed1 m\u00e0 \u0111\u1ecdc xu\u00f4i v\u00e0 ng\u01b0\u1ee3c \u0111\u1ec1u gi\u1ed1ng nhau. T\u1ed5ng c\u1ee7a m\u1ed9t t\u1eadp h\u1ee3p c\u1ee5 th\u1ec3 g\u1ed3m ba s\u1ed1 nguy\u00ean d\u01b0\u01a1ng li\u00ean ti\u1ebfp l\u00e0 m\u1ed9t palindrome ba ch\u1eef s\u1ed1. N\u1ebfu t\u1ed5ng nh\u1ecf h\u01a1n 220, gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 cho s\u1ed1 l\u1edbn nh\u1ea5t trong ba s\u1ed1 c\u1ee7a t\u1eadp h\u1ee3p l\u00e0 bao nhi\u00eau?",
+        "answer": "58",
+        "data_source": "MATH500",
+        "data_source_id": 294,
+        "lang": "vi",
+        "gid": 247
+    },
+    {
+        "question": "Nghi\u1ec7m c\u1ee7a ph\u01b0\u01a1ng tr\u00ecnh $z^4+4z^3i-6z^2-4zi-i=0$ l\u00e0 c\u00e1c \u0111\u1ec9nh c\u1ee7a m\u1ed9t \u0111a gi\u00e1c l\u1ed3i tr\u00ean m\u1eb7t ph\u1eb3ng ph\u1ee9c. Di\u1ec7n t\u00edch c\u1ee7a \u0111a gi\u00e1c n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng $p^{a/b},$ trong \u0111\u00f3 $a,$ $b,$ $p$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng, $p$ l\u00e0 s\u1ed1 nguy\u00ean t\u1ed1, v\u00e0 $a$ v\u00e0 $b$ l\u00e0 nguy\u00ean t\u1ed1 c\u00f9ng nhau. T\u00ecm $a + b + p.$",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 295,
+        "lang": "vi",
+        "gid": 248
+    },
+    {
+        "question": "M\u1ed9t cu\u1ed1n s\u00e1ch \u0111\u01b0\u1ee3c cho l\u00e0 c\u00f3 $n$ t\u1edd gi\u1ea5y n\u1ebfu n\u00f3 \u0111\u01b0\u1ee3c c\u1ea5u th\u00e0nh t\u1eeb $n$ t\u1edd gi\u1ea5y. M\u1eb7t kh\u00e1c, s\u1ed1 trang l\u00e0 g\u1ea5p \u0111\u00f4i s\u1ed1 t\u1edd gi\u1ea5y v\u00ec m\u1ed7i m\u1eb7t c\u1ee7a t\u1edd gi\u1ea5y \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a l\u00e0 m\u1ed9t trang.  N\u1ebfu s\u1ed1 trang trong m\u1ed9t cu\u1ed1n s\u00e1ch l\u00e0 $3$ trang nhi\u1ec1u h\u01a1n m\u1ed9t b\u1ed9i s\u1ed1 c\u1ee7a $7$, v\u00e0 s\u1ed1 t\u1edd gi\u1ea5y nhi\u1ec1u h\u01a1n $100$, th\u00ec s\u1ed1 t\u1edd gi\u1ea5y nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u00f3 l\u00e0 bao nhi\u00eau?",
+        "answer": "103",
+        "data_source": "MATH500",
+        "data_source_id": 297,
+        "lang": "vi",
+        "gid": 249
+    },
+    {
+        "question": "X\u00e9t h\u00ecnh ch\u1eef nh\u1eadt c\u00f3 c\u00e1c \u0111\u1ec9nh t\u1ea1i $(5,4),$ $(5,-4),$ $(-5,4),$ $(-5,-4)$. C\u00f3 bao nhi\u00eau t\u1ecda \u0111\u1ed9 nguy\u00ean s\u1ebd n\u1eb1m ho\u00e0n to\u00e0n b\u00ean trong v\u00f9ng h\u00ecnh ch\u1eef nh\u1eadt n\u00e0y?",
+        "answer": "63",
+        "data_source": "MATH500",
+        "data_source_id": 299,
+        "lang": "vi",
+        "gid": 250
+    },
+    {
+        "question": "B\u1ed1n \u0111\u01b0\u1eddng tr\u00f2n ph\u00e2n bi\u1ec7t \u0111\u01b0\u1ee3c v\u1ebd tr\u00ean m\u1ed9t m\u1eb7t ph\u1eb3ng. S\u1ed1 \u0111i\u1ec3m giao nhau t\u1ed1i \u0111a, n\u01a1i \u00edt nh\u1ea5t hai trong s\u1ed1 c\u00e1c \u0111\u01b0\u1eddng tr\u00f2n c\u1eaft nhau, l\u00e0 bao nhi\u00eau?",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 300,
+        "lang": "vi",
+        "gid": 251
+    },
+    {
+        "question": "Khi chuy\u1ec3n \u0111\u1ed5i $\\frac{31}{11111}$ th\u00e0nh s\u1ed1 th\u1eadp ph\u00e2n, ta nh\u1eadn \u0111\u01b0\u1ee3c m\u1ed9t s\u1ed1 th\u1eadp ph\u00e2n l\u1eb7p. S\u1ed1 ch\u1eef s\u1ed1 l\u1eb7p l\u1ea1i trong s\u1ed1 th\u1eadp ph\u00e2n l\u1eb7p n\u00e0y l\u00e0 bao nhi\u00eau?  V\u00ed d\u1ee5, n\u1ebfu b\u1ea1n nh\u1eadn \u0111\u01b0\u1ee3c s\u1ed1 th\u1eadp ph\u00e2n l\u1eb7p $0.\\overline{123},$ th\u00ec c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n ph\u1ea3i l\u00e0 $3,$ v\u00e0 n\u1ebfu b\u1ea1n nh\u1eadn \u0111\u01b0\u1ee3c $0.436\\overline{7},$ c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n ph\u1ea3i l\u00e0 $1.$",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 302,
+        "lang": "vi",
+        "gid": 252
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed r\u1eb1ng $ABCD$ l\u00e0 m\u1ed9t h\u00ecnh thang m\u00e0 $\\overline{AD}|| \\overline{BC}$. Cho $\\overline{AC}\\perp\\overline{CD}$, $\\overline{AC}$ chia \u0111\u00f4i g\u00f3c $\\angle BAD$, v\u00e0 $[ABCD]=42$, h\u00e3y t\u00ednh $[\\triangle ACD]$.",
+        "answer": "28",
+        "data_source": "MATH500",
+        "data_source_id": 303,
+        "lang": "vi",
+        "gid": 253
+    },
+    {
+        "question": "T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a \\[\\frac{(x + 5)(x + 2)}{x + 1}\\] v\u1edbi $x > 0.$",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 304,
+        "lang": "vi",
+        "gid": 254
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 ph\u01b0\u01a1ng tr\u00ecnh b\u1eadc hai d\u1ea1ng $x^2 + ax + b = 0,$ sao cho b\u1ea5t c\u1ee9 khi n\u00e0o $c$ l\u00e0 nghi\u1ec7m c\u1ee7a ph\u01b0\u01a1ng tr\u00ecnh, $c^2 - 2$ c\u0169ng l\u00e0 nghi\u1ec7m c\u1ee7a ph\u01b0\u01a1ng tr\u00ecnh.",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 306,
+        "lang": "vi",
+        "gid": 255
+    },
+    {
+        "question": "T\u00edch c\u1ee7a m\u1ed9t t\u1eadp h\u1ee3p c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng ph\u00e2n bi\u1ec7t l\u00e0 84. T\u1ed5ng nh\u1ecf nh\u1ea5t c\u1ee7a nh\u1eefng s\u1ed1 nguy\u00ean n\u00e0y l\u00e0 bao nhi\u00eau?",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 309,
+        "lang": "vi",
+        "gid": 256
+    },
+    {
+        "question": "Ph\u00e9p to\u00e1n @ \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a l\u00e0 $\\frac{m}{n}@\\frac{p}{q} = (m)(p)\\left(\\frac{q}{n}\\right)$ cho ph\u00e2n s\u1ed1 \u0111\u01b0\u1ee3c r\u00fat g\u1ecdn $\\frac{p}{q}$. Gi\u00e1 tr\u1ecb \u0111\u00e3 \u0111\u01b0\u1ee3c r\u00fat g\u1ecdn c\u1ee7a $\\frac{7}{30}@\\frac{10}{21}$ l\u00e0 bao nhi\u00eau?",
+        "answer": "49",
+        "data_source": "MATH500",
+        "data_source_id": 310,
+        "lang": "vi",
+        "gid": 257
+    },
+    {
+        "question": "N\u1ebfu $$1+12+123+1234+12345+123456+1234567+12345678$$ t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi $n$ theo modulo 9, v\u1edbi $0\\le n<9$, gi\u00e1 tr\u1ecb c\u1ee7a $n$ l\u00e0 bao nhi\u00eau?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 311,
+        "lang": "vi",
+        "gid": 258
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean d\u01b0\u01a1ng $a$, $b$, v\u00e0 $2009$, v\u1edbi $a<b<2009$, t\u1ea1o th\u00e0nh m\u1ed9t c\u1ea5p s\u1ed1 nh\u00e2n v\u1edbi t\u1ef7 l\u1ec7 l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean. $a$ l\u00e0 g\u00ec?",
+        "answer": "41",
+        "data_source": "MATH500",
+        "data_source_id": 315,
+        "lang": "vi",
+        "gid": 259
+    },
+    {
+        "question": "Bi\u1ec3u th\u1ee9c $10x^2-x-24$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng $(Ax-8)(Bx+3),$ n\u01a1i $A$ v\u00e0 $B$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean. H\u1ecfi $AB + B$ b\u1eb1ng bao nhi\u00eau?",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 316,
+        "lang": "vi",
+        "gid": 260
+    },
+    {
+        "question": "Cho $a,$ $b,$ v\u00e0 $c$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c ph\u00e2n bi\u1ec7t. T\u00ecm b\u1eadc c\u1ee7a \u0111a th\u1ee9c \\[p(x) = \\frac{(x - b)(x - c)}{(a - b)(a - c)} + \\frac{(x - a)(x - c)}{(b - a)(b - c)} + \\frac{(x - a)(x - b)}{(c - a)(c - b)}.\\]",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 317,
+        "lang": "vi",
+        "gid": 261
+    },
+    {
+        "question": "Trong ph\u01b0\u01a1ng tr\u00ecnh $|x-4| -10 = 2$, t\u00edch c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a $x$ l\u00e0 g\u00ec?",
+        "answer": "-128",
+        "data_source": "MATH500",
+        "data_source_id": 319,
+        "lang": "vi",
+        "gid": 262
+    },
+    {
+        "question": "M\u1ed9t robot di chuy\u1ec3n v\u1ec1 ph\u00eda tr\u01b0\u1edbc v\u1edbi v\u1eadn t\u1ed1c kh\u00f4ng \u0111\u1ed5i m\u1ea5t 2,5 gi\u1edd \u0111\u1ec3 di chuy\u1ec3n 1 kil\u00f4m\u00e9t. Di chuy\u1ec3n v\u1ec1 ph\u00eda tr\u01b0\u1edbc v\u1edbi v\u1eadn t\u1ed1c kh\u00f4ng \u0111\u1ed5i n\u00e0y, n\u00f3 m\u1ea5t 90 gi\u00e2y \u0111\u1ec3 di chuy\u1ec3n qua chi\u1ec1u d\u00e0i c\u1ee7a m\u1ed9t h\u00e0nh lang c\u1ee5 th\u1ec3. H\u00e0nh lang \u0111\u00f3 d\u00e0i bao nhi\u00eau m\u00e9t?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 321,
+        "lang": "vi",
+        "gid": 263
+    },
+    {
+        "question": "Cho $f(x) = x - 3$ v\u00e0 $q(x) = bx +1$. N\u1ebfu $f(q(1)) = -3$, th\u00ec $b$ l\u00e0 bao nhi\u00eau?",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 322,
+        "lang": "vi",
+        "gid": 264
+    },
+    {
+        "question": "Trong h\u00ecnh v\u1ebd, hai h\u00ecnh tr\u00f2n, m\u1ed7i h\u00ecnh c\u00f3 trung t\u00e2m l\u00e0 $D$, c\u00f3 b\u00e1n k\u00ednh l\u00e0 $1$ v\u00e0 $2$. T\u1ed5ng di\u1ec7n t\u00edch c\u1ee7a v\u00f9ng \u0111\u01b0\u1ee3c t\u00f4 m\u00e0u l\u00e0 $\\frac5{12}$ di\u1ec7n t\u00edch c\u1ee7a h\u00ecnh tr\u00f2n l\u1edbn h\u01a1n. H\u1ecfi bao nhi\u00eau \u0111\u1ed9 l\u00e0 \u0111o c\u1ee7a (nh\u1ecf h\u01a1n) $\\angle ADC$? [asy] size(4cm); defaultpen(linewidth(0.75)); real adc = 100; pair d = (0, 0); pair a = 2 * dir(100); pair c = (2, 0); path inner = arc(d, a/2, c/2, CW);  path outer = arc(d, c, a, CCW); guide region1 = (a--a/2)..inner..(c/2--c)..outer..cycle; guide region2 = arc(d, a/2, c/2, CCW)..(c/2--d--a/2)..cycle; fill(region1, gray(0.75)); fill(region2, gray(0.75)); draw(unitcircle); draw(scale(2) * unitcircle); draw(a--d--c); label(\"$A$\", a, N); label(\"$C$\", c, E); label(\"$D$\", d, NE); [/asy]",
+        "answer": "120",
+        "data_source": "MATH500",
+        "data_source_id": 324,
+        "lang": "vi",
+        "gid": 265
+    },
+    {
+        "question": "M\u1ed9t b\u00ecnh h\u00ecnh tr\u1ee5 cao 8 cm v\u00e0 c\u00f3 b\u00e1n k\u00ednh l\u00e0 3 cm. H\u1ecfi c\u1ea7n bao nhi\u00eau b\u00ecnh n\u01b0\u1edbc nh\u01b0 v\u1eady \u0111\u1ec3 \u0111\u1ed5 \u0111\u1ea7y m\u1ed9t b\u1ec3 ch\u1ee9a h\u00ecnh c\u1ea7u c\u00f3 b\u00e1n k\u00ednh 6 cm?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 325,
+        "lang": "vi",
+        "gid": 266
+    },
+    {
+        "question": "\u0110\u1eb7t $P(x)$ l\u00e0 \u0111a th\u1ee9c monic b\u1eadc 3. Gi\u1ea3 s\u1eed r\u1eb1ng $P(x)$ c\u00f3 s\u1ed1 d\u01b0 $R(x)$ khi n\u00f3 \u0111\u01b0\u1ee3c chia cho $(x - 1)(x - 4),$ v\u00e0 c\u00f3 s\u1ed1 d\u01b0 $2R(x)$ khi n\u00f3 \u0111\u01b0\u1ee3c chia cho $(x - 2)(x - 3).$ Bi\u1ebft r\u1eb1ng $P(0) = 5,$ t\u00ecm $P(5).$",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 327,
+        "lang": "vi",
+        "gid": 267
+    },
+    {
+        "question": "Cho $f(x)=\\left\\lfloor\\left(-\\frac58\\right)^x\\right\\rfloor$ l\u00e0 m\u1ed9t h\u00e0m s\u1ed1 \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u1ee7a $x$ trong $[0,\\infty)$ sao cho $f(x)$ l\u00e0 m\u1ed9t s\u1ed1 th\u1ef1c. C\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb kh\u00e1c bi\u1ec7t t\u1ed3n t\u1ea1i trong t\u1eadp gi\u00e1 tr\u1ecb c\u1ee7a $f(x)$?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 328,
+        "lang": "vi",
+        "gid": 268
+    },
+    {
+        "question": "M\u1ed9t chi\u1ebfc xe \u0111\u1ea1p \u0111ang di chuy\u1ec3n v\u1edbi t\u1ed1c \u0111\u1ed9 20 feet m\u1ed7i ph\u00fat. T\u1ed1c \u0111\u1ed9 c\u1ee7a chi\u1ebfc xe \u0111\u1ea1p \u0111\u01b0\u1ee3c bi\u1ec3u th\u1ecb b\u1eb1ng \u0111\u01a1n v\u1ecb inch m\u1ed7i gi\u00e2y l\u00e0 bao nhi\u00eau?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 329,
+        "lang": "vi",
+        "gid": 269
+    },
+    {
+        "question": "M\u1ed9t \u1ee7y ban Th\u01b0\u1ee3ng vi\u1ec7n c\u00f3 8 \u0110\u1ea3ng vi\u00ean C\u1ed9ng h\u00f2a v\u00e0 6 \u0110\u1ea3ng vi\u00ean D\u00e2n ch\u1ee7. Ch\u00fang ta c\u00f3 th\u1ec3 h\u00ecnh th\u00e0nh m\u1ed9t \u1ee7y ban con g\u1ed3m 5 th\u00e0nh vi\u00ean m\u00e0 c\u00f3 \u00edt nh\u1ea5t m\u1ed9t th\u00e0nh vi\u00ean t\u1eeb m\u1ed7i \u0111\u1ea3ng b\u1eb1ng bao nhi\u00eau c\u00e1ch?",
+        "answer": "1940",
+        "data_source": "MATH500",
+        "data_source_id": 330,
+        "lang": "vi",
+        "gid": 270
+    },
+    {
+        "question": "H\u00e3y cho $x,$ $y,$ v\u00e0 $z$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng sao cho $xyz(x + y + z) = 1.$ T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a \\[(x + y)(y + z).\\]",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 332,
+        "lang": "vi",
+        "gid": 271
+    },
+    {
+        "question": "N\u1ebfu \\[\\sqrt[3]{2} = a + \\cfrac{1}{b + \\cfrac{1}{c + \\cfrac{1}{d + \\dotsb}}},\\]trong \u0111\u00f3 $a,$ $b,$ $c,$ $d$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng, t\u00ednh $b.$",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 333,
+        "lang": "vi",
+        "gid": 272
+    },
+    {
+        "question": "N\u1ebfu $a+b=8$, $b+c=-3$, v\u00e0 $a+c= -5$, gi\u00e1 tr\u1ecb c\u1ee7a t\u00edch $abc$ l\u00e0 bao nhi\u00eau?",
+        "answer": "-120",
+        "data_source": "MATH500",
+        "data_source_id": 334,
+        "lang": "vi",
+        "gid": 273
+    },
+    {
+        "question": "D\u00e3y Fibonacci l\u00e0 d\u00e3y 1, 1, 2, 3, 5, $\\ldots$ trong \u0111\u00f3 m\u1ed7i s\u1ed1 h\u1ea1ng l\u00e0 t\u1ed5ng c\u1ee7a hai s\u1ed1 h\u1ea1ng tr\u01b0\u1edbc \u0111\u00f3. S\u1ed1 d\u01b0 khi s\u1ed1 h\u1ea1ng th\u1ee9 $100^{\\mathrm{th}}$ c\u1ee7a d\u00e3y chia cho 4 l\u00e0 bao nhi\u00eau?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 335,
+        "lang": "vi",
+        "gid": 274
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $513^2 - 487^2$ l\u00e0 bao nhi\u00eau?",
+        "answer": "26000",
+        "data_source": "MATH500",
+        "data_source_id": 336,
+        "lang": "vi",
+        "gid": 275
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08 T\u00edch c\u1ee7a ba s\u1ed1 nguy\u00ean li\u00ean ti\u1ebfp l\u00e0 120. Chia t\u00edch n\u00e0y cho gi\u00e1 tr\u1ecb trung b\u00ecnh c\u1ee7a ba s\u1ed1 nguy\u00ean \u0111\u00f3 th\u00ec k\u1ebft qu\u1ea3 l\u00e0 24. H\u1ecfi s\u1ed1 l\u1edbn nh\u1ea5t trong ba s\u1ed1 nguy\u00ean li\u00ean ti\u1ebfp l\u00e0 bao nhi\u00eau?  \uff09\uff1a",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 337,
+        "lang": "vi",
+        "gid": 276
+    },
+    {
+        "question": "S\u1ed1 nh\u1ecf nh\u1ea5t l\u00e0 bao nhi\u00eau n\u1ebfu n\u00f3 nh\u1ecf h\u01a1n m\u1ed9t \u0111\u01a1n v\u1ecb so v\u1edbi hai l\u1ea7n ngh\u1ecbch \u0111\u1ea3o c\u1ee7a n\u00f3?",
+        "answer": "-2",
+        "data_source": "MATH500",
+        "data_source_id": 341,
+        "lang": "vi",
+        "gid": 277
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean $x$ n\u00e0o th\u1ecfa m\u00e3n $\\frac{1}{4}<\\frac{x}{7}<\\frac{1}{3}$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 342,
+        "lang": "vi",
+        "gid": 278
+    },
+    {
+        "question": "Cho h\u00e0m s\u1ed1 \\[f(n) = \\begin{cases} 4n+3 &\\text{n\u1ebfu }n<a, \\\\ 7n-12 &\\text{n\u1ebfu }n\\ge{a}. \\end{cases} \\]T\u00ecm $a$ sao cho \u0111\u1ed3 th\u1ecb c\u1ee7a h\u00e0m s\u1ed1 $y=f(n)$ l\u00e0 li\u00ean t\u1ee5c.",
+        "answer": "5",
+        "data_source": "MATH500",
+        "data_source_id": 344,
+        "lang": "vi",
+        "gid": 279
+    },
+    {
+        "question": "N\u1ebfu $t(x) = 3-g(x)$ v\u00e0 $g(x) = \\sqrt{x}$, th\u00ec $t(g(16))$ b\u1eb1ng bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 345,
+        "lang": "vi",
+        "gid": 280
+    },
+    {
+        "question": "Gi\u1ea3i gi\u00e1 tr\u1ecb d\u01b0\u01a1ng c\u1ee7a $x$ sao cho $\\sqrt[3]{x^2 - 4x + 4} = 16$.",
+        "answer": "66",
+        "data_source": "MATH500",
+        "data_source_id": 346,
+        "lang": "vi",
+        "gid": 281
+    },
+    {
+        "question": "T\u00ednh $\\dbinom{31}{28}$.",
+        "answer": "4495",
+        "data_source": "MATH500",
+        "data_source_id": 348,
+        "lang": "vi",
+        "gid": 282
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau c\u00e1ch s\u1eafp x\u1ebfp 8 ng\u01b0\u1eddi ng\u1ed3i quanh m\u1ed9t b\u00e0n vu\u00f4ng v\u1edbi 2 ng\u01b0\u1eddi tr\u00ean m\u1ed9t c\u1ea1nh? (Hai c\u1ea5u h\u00ecnh \u0111\u01b0\u1ee3c coi l\u00e0 t\u01b0\u01a1ng \u0111\u01b0\u01a1ng n\u1ebfu m\u1ed9t c\u1ea5u h\u00ecnh l\u00e0 s\u1ef1 xoay v\u00f2ng c\u1ee7a c\u1ea5u h\u00ecnh kia.)",
+        "answer": "10080",
+        "data_source": "MATH500",
+        "data_source_id": 349,
+        "lang": "vi",
+        "gid": 283
+    },
+    {
+        "question": "T\u00ecm ch\u1eef s\u1ed1 \u0111\u01a1n v\u1ecb c\u1ee7a $18^6.$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 350,
+        "lang": "vi",
+        "gid": 284
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed t\u00f4i c\u00f3 $6$ quy\u1ec3n s\u00e1ch kh\u00e1c nhau, trong \u0111\u00f3 c\u00f3 $2$ quy\u1ec3n s\u00e1ch to\u00e1n. H\u1ecfi c\u00f3 bao nhi\u00eau c\u00e1ch x\u1ebfp $6$ quy\u1ec3n s\u00e1ch c\u1ee7a t\u00f4i l\u00ean m\u1ed9t k\u1ec7 s\u00e1ch n\u1ebfu t\u00f4i kh\u00f4ng mu\u1ed1n hai quy\u1ec3n s\u00e1ch to\u00e1n x\u1ebfp c\u1ea1nh nhau?",
+        "answer": "480",
+        "data_source": "MATH500",
+        "data_source_id": 353,
+        "lang": "vi",
+        "gid": 285
+    },
+    {
+        "question": "T\u1ed5ng c\u1ee7a 27 s\u1ed1 nguy\u00ean d\u01b0\u01a1ng li\u00ean ti\u1ebfp l\u00e0 $3^7$. Trung v\u1ecb c\u1ee7a ch\u00fang l\u00e0 bao nhi\u00eau?",
+        "answer": "81",
+        "data_source": "MATH500",
+        "data_source_id": 354,
+        "lang": "vi",
+        "gid": 286
+    },
+    {
+        "question": "Cho $a,$ $b,$ v\u00e0 $c$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng. T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a \\[\\frac{(a + b + c)[(a + b)^2 + (a + b + 4c)^2]}{abc}.\\]",
+        "answer": "100",
+        "data_source": "MATH500",
+        "data_source_id": 355,
+        "lang": "vi",
+        "gid": 287
+    },
+    {
+        "question": "T\u00f4i c\u00f3 m\u1ed9t b\u1ed9 $54$ l\u00e1 b\u00e0i, v\u00e0 t\u00f4i chia t\u1ea5t c\u1ea3 c\u00e1c l\u00e1 b\u00e0i n\u00e0y cho $x$ ng\u01b0\u1eddi ch\u01a1i, v\u1edbi m\u1ed7i ng\u01b0\u1eddi ch\u01a1i nh\u1eadn \u0111\u01b0\u1ee3c $y$ l\u00e1 b\u00e0i. N\u1ebfu $x$ t\u1ed1i thi\u1ec3u l\u00e0 $2$ v\u00e0 $y$ t\u1ed1i thi\u1ec3u l\u00e0 $5$, th\u00ec c\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb kh\u1ea3 thi c\u1ee7a $x$?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 357,
+        "lang": "vi",
+        "gid": 288
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed $x,$ $y,$ v\u00e0 $z$ th\u1ecfa m\u00e3n c\u00e1c ph\u01b0\u01a1ng tr\u00ecnh \\begin{align*} xyz &= 4, \\\\ x^3 + y^3 + z^3 &= 4, \\\\ xy^2 + x^2 y + xz^2 + x^2 z + yz^2 + y^2 z &= 12. \\end{align*} T\u00ednh gi\u00e1 tr\u1ecb c\u1ee7a $xy + yz + zx.$",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 359,
+        "lang": "vi",
+        "gid": 289
+    },
+    {
+        "question": "Ba c\u1ed9ng v\u1edbi ngh\u1ecbch \u0111\u1ea3o c\u1ee7a m\u1ed9t s\u1ed1 b\u1eb1ng 7 chia cho s\u1ed1 \u0111\u00f3. S\u1ed1 \u0111\u00f3 l\u00e0 bao nhi\u00eau?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 363,
+        "lang": "vi",
+        "gid": 290
+    },
+    {
+        "question": "N\u1ebfu $a$ v\u00e0 $b$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng sao cho $\\gcd(a,b)=210$, $\\mathop{\\text{lcm}}[a,b]=210^3$, v\u00e0 $a<b$, th\u00ec c\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 cho $a$?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 365,
+        "lang": "vi",
+        "gid": 291
+    },
+    {
+        "question": "T\u00ecm s\u1ed1 d\u01b0 khi chia cho $7$ c\u1ee7a t\u1ed5ng $1+3+5+7+9+\\dots+195+197+199.$",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 366,
+        "lang": "vi",
+        "gid": 292
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed $f$ l\u00e0 m\u1ed9t h\u00e0m s\u1ed1 v\u00e0 $f^{-1}$ l\u00e0 h\u00e0m ngh\u1ecbch \u0111\u1ea3o c\u1ee7a $f$. N\u1ebfu $f(1) = 2$, $f(2) = 6$, v\u00e0 $f(3) = 5$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $f^{-1}(f^{-1}(6))$ l\u00e0 bao nhi\u00eau?",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 367,
+        "lang": "vi",
+        "gid": 293
+    },
+    {
+        "question": "Hai c\u1ea1nh c\u1ee7a m\u1ed9t tam gi\u00e1c m\u1ed7i c\u1ea1nh d\u00e0i $8$ \u0111\u01a1n v\u1ecb. N\u1ebfu c\u1ea1nh th\u1ee9 ba c\u00f3 \u0111\u1ed9 d\u00e0i l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean, th\u00ec chu vi l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3, \u0111\u01a1n v\u1ecb, cho h\u00ecnh tam gi\u00e1c l\u00e0 bao nhi\u00eau?",
+        "answer": "31",
+        "data_source": "MATH500",
+        "data_source_id": 368,
+        "lang": "vi",
+        "gid": 294
+    },
+    {
+        "question": "Di\u1ec7n t\u00edch h\u00ecnh thang n\u00e0y bao nhi\u00eau centim\u00e9t vu\u00f4ng?  [asy] defaultpen(linewidth(0.7)); draw((0,0)--(27,0)--(15,9)--(0,9)--cycle); label(\"5 cm\",(21,4.5),NE); label(\"5 cm\",(7.5,9),N); label(\"3 cm\",(0,4.5),W); label(\"9 cm\",(13.5,0),S); draw(rightanglemark((0,9),(0,0),(27,0),35)); draw(rightanglemark((0,0),(0,9),(15,9),35)); [/asy]",
+        "answer": "21",
+        "data_source": "MATH500",
+        "data_source_id": 369,
+        "lang": "vi",
+        "gid": 295
+    },
+    {
+        "question": "T\u00ecm t\u00edch v\u00f4 h\u01b0\u1edbng c\u1ee7a $\\begin{pmatrix} -2 \\\\ 0 \\\\ 7 \\end{pmatrix}$ v\u00e0 $\\begin{pmatrix} 3 \\\\ 4 \\\\ -5 \\end{pmatrix}.$",
+        "answer": "-41",
+        "data_source": "MATH500",
+        "data_source_id": 370,
+        "lang": "vi",
+        "gid": 296
+    },
+    {
+        "question": "Cho ph\u00e9p $a,$ $b,$ $c$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c v\u1edbi \\[|ax^2 + bx + c| \\le 1\\]cho t\u1ea5t c\u1ea3 $0 \\le x \\le 1.$ T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $|a| + |b| + |c|.$",
+        "answer": "17",
+        "data_source": "MATH500",
+        "data_source_id": 371,
+        "lang": "vi",
+        "gid": 297
+    },
+    {
+        "question": "\u0110i\u1ec1u g\u00ec l\u00e0 kh\u00e1c bi\u1ec7t gi\u1eefa c\u0103n b\u1eadc hai d\u01b0\u01a1ng c\u1ee7a 64 v\u00e0 c\u0103n b\u1eadc ba c\u1ee7a 64?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 374,
+        "lang": "vi",
+        "gid": 298
+    },
+    {
+        "question": "N\u1ebfu $A$ l\u00e0 t\u1ed5ng c\u1ee7a c\u00e1c \u01b0\u1edbc s\u1ed1 d\u01b0\u01a1ng c\u1ee7a $500$, th\u00ec t\u1ed5ng c\u1ee7a c\u00e1c \u01b0\u1edbc s\u1ed1 nguy\u00ean t\u1ed1 ph\u00e2n bi\u1ec7t c\u1ee7a $A$ l\u00e0 bao nhi\u00eau?",
+        "answer": "25",
+        "data_source": "MATH500",
+        "data_source_id": 375,
+        "lang": "vi",
+        "gid": 299
+    },
+    {
+        "question": "Si\u00eau giai th\u1eeba $n\\$$ \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a l\u00e0 $n\\$ = \\underbrace{n!^{{n!}^{{\\cdot}^{{\\cdot}^{{\\cdot}^{n!}}}}}}_{n!}$. Ch\u1eef s\u1ed1 \u0111\u01a1n v\u1ecb c\u1ee7a $4\\$$ l\u00e0 bao nhi\u00eau?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 377,
+        "lang": "vi",
+        "gid": 300
+    },
+    {
+        "question": "\u0110\u1ed1i v\u1edbi bao nhi\u00eau s\u1ed1 nguy\u00ean t\u1ed1 c\u00f3 hai ch\u1eef s\u1ed1 th\u00ec t\u1ed5ng c\u1ee7a c\u00e1c ch\u1eef s\u1ed1 b\u1eb1ng 8?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 378,
+        "lang": "vi",
+        "gid": 301
+    },
+    {
+        "question": "D\u1eef li\u1ec7u trong b\u1ea3ng d\u01b0\u1edbi \u0111\u00e2y cho th\u1ea5y ph\u1ea7n tr\u0103m h\u1ecdc sinh \u0111i xe bu\u00fdt trong m\u1ed9t cu\u1ed9c kh\u1ea3o s\u00e1t c\u1ee7a h\u1ecdc sinh Trung h\u1ecdc Trung \u01b0\u01a1ng; m\u1ed7i kh\u1ed1i l\u1edbp \u0111\u1ec1u c\u00f3 300 nam v\u00e0 300 n\u1eef \u0111\u01b0\u1ee3c kh\u1ea3o s\u00e1t. Kh\u1ed1i l\u1edbp n\u00e0o c\u00f3 s\u1ed1 h\u1ecdc sinh nam \u0111i xe bu\u00fdt g\u1ea7n nh\u1ea5t v\u1edbi $135\\%$ s\u1ed1 h\u1ecdc sinh n\u1eef \u0111i xe bu\u00fdt?  \\begin{tabular}{|l|c|c|}\\hline Kh\u1ed1i l\u1edbp & Nam & N\u1eef \\\\ \\hline $9^{\\mathrm{th}}$ grade & $41.1\\%$ & $39.4\\%$ \\\\ \\hline $10^{\\mathrm{th}}$ grade & $34.4\\%$ & $33.1\\%$ \\\\ \\hline $11^{\\mathrm{th}}$ grade & $20.6\\%$ & $13.8\\%$ \\\\ \\hline $12^{\\mathrm{th}}$ grade & $11.6\\%$ & $8.6\\%$ \\\\ \\hline \\end{tabular}",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 379,
+        "lang": "vi",
+        "gid": 302
+    },
+    {
+        "question": "Kathy c\u1ea7n ti\u1ec1n cho chuy\u1ebfn \u0111i c\u1ee7a c\u00f4 \u1ea5y \u0111\u1ebfn ch\u00e2u \u00c2u. N\u1ebfu c\u00f4 \u1ea5y c\u00f3 300 \u0111\u00f4 la M\u1ef9 trong ng\u00e2n h\u00e0ng nh\u01b0ng mu\u1ed1n r\u00fat m\u1ed9t n\u1eeda s\u1ed1 ti\u1ec1n \u0111\u00f3 b\u1eb1ng \u0111\u1ed3ng b\u1ea3ng Anh v\u00e0 m\u1ed9t n\u1eeda s\u1ed1 ti\u1ec1n \u0111\u00f3 b\u1eb1ng euro, c\u00f4 \u1ea5y s\u1ebd c\u00f3 nhi\u1ec1u h\u01a1n bao nhi\u00eau euro so v\u1edbi b\u1ea3ng Anh? Gi\u1ea3 \u0111\u1ecbnh r\u1eb1ng 1 b\u1ea3ng Anh = 1.64 USD v\u00e0 1 euro = 1.32 USD, v\u00e0 l\u00e0m tr\u00f2n \u0111\u1ebfn s\u1ed1 nguy\u00ean g\u1ea7n nh\u1ea5t.",
+        "answer": "22",
+        "data_source": "MATH500",
+        "data_source_id": 385,
+        "lang": "vi",
+        "gid": 303
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau s\u1ed1 nguy\u00ean n\u1eb1m trong t\u1eadp h\u1ee3p nghi\u1ec7m c\u1ee7a $|x-2|\\leq5.6$ ?",
+        "answer": "11",
+        "data_source": "MATH500",
+        "data_source_id": 386,
+        "lang": "vi",
+        "gid": 304
+    },
+    {
+        "question": "N\u1ebfu $f(x)=5x^2+3x+4$, gi\u00e1 tr\u1ecb c\u1ee7a $f(-2)$ l\u00e0 g\u00ec?",
+        "answer": "18",
+        "data_source": "MATH500",
+        "data_source_id": 387,
+        "lang": "vi",
+        "gid": 305
+    },
+    {
+        "question": "Kho\u1ea3ng c\u00e1ch nh\u1ecf nh\u1ea5t gi\u1eefa g\u1ed1c t\u1ecda \u0111\u1ed9 v\u00e0 m\u1ed9t \u0111i\u1ec3m tr\u00ean \u0111\u1ed3 th\u1ecb c\u1ee7a $y=\\frac{1}{\\sqrt{2}}\\left(x^2-3\\right)$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c bi\u1ec3u th\u1ecb b\u1eb1ng $\\sqrt{a}/b$, n\u01a1i $a$ v\u00e0 $b$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng m\u00e0 $a$ kh\u00f4ng chia h\u1ebft cho b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a b\u1ea5t k\u1ef3 s\u1ed1 nguy\u00ean n\u00e0o l\u1edbn h\u01a1n m\u1ed9t. T\u00ecm $a+b$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 390,
+        "lang": "vi",
+        "gid": 306
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed h\u00e0m s\u1ed1 $f$ \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a nh\u01b0 sau \\[f(x) = \\left\\{ \\begin{array}{cl} 3-x & \\text{ n\u1ebfu } x \\leq 3, \\\\ -x^3+2x^2+3x & \\text{ n\u1ebfu } x > 3. \\end{array} \\right.\\]T\u00ednh $f^{-1}(0)+f^{-1}(6)$.",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 391,
+        "lang": "vi",
+        "gid": 307
+    },
+    {
+        "question": "N\u1ebfu $a = 8$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $\\left(16\\sqrt[3]{a^2}\\right)^{\\frac 13}$ l\u00e0 bao nhi\u00eau?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 395,
+        "lang": "vi",
+        "gid": 308
+    },
+    {
+        "question": "T\u1ee9 gi\u00e1c $ABCD$ l\u00e0 h\u00ecnh vu\u00f4ng c\u00f3 di\u1ec7n t\u00edch 16 inch vu\u00f4ng. H\u00ecnh v\u1ebd bi\u1ec3u di\u1ec5n c\u00e1c m\u1ea3nh c\u1ee7a m\u1ed9t b\u1ed9 tangram Trung Qu\u1ed1c trong \u0111\u00f3 t\u1ea5t c\u1ea3 c\u00e1c tam gi\u00e1c \u0111\u1ec1u l\u00e0 tam gi\u00e1c c\u00e2n v\u00e0 m\u1ea3nh \"e\" l\u00e0 m\u1ed9t h\u00ecnh vu\u00f4ng. H\u1ecfi di\u1ec7n t\u00edch c\u1ee7a m\u1ea3nh m\u00e0u x\u00e1m, t\u00ednh b\u1eb1ng inch vu\u00f4ng, l\u00e0 bao nhi\u00eau?  [asy] fill((2,0)--(4,2)--(4,0)--cycle,gray(.7)); draw((0,0)--(0,4)--(4,4)--(4,0)--cycle,linewidth(1)); draw((0,0)--(4,4),linewidth(1)); draw((1,1)--(2,0)--(4,2),linewidth(1)); draw((0,4)--(3,1)--(3,3),linewidth(1)); label(\"$A$\",(0,4),W); label(\"$B$\",(4,4),E); label(\"$C$\",(4,0),E); label(\"$D$\",(0,0),W); label(\"e\",(2,1));  [/asy]",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 396,
+        "lang": "vi",
+        "gid": 309
+    },
+    {
+        "question": "N\u1ebfu $3x + 2(1 + x) = 17$, gi\u00e1 tr\u1ecb c\u1ee7a $6x + 5$ l\u00e0 bao nhi\u00eau?",
+        "answer": "23",
+        "data_source": "MATH500",
+        "data_source_id": 397,
+        "lang": "vi",
+        "gid": 310
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau ch\u1eef s\u1ed1 gi\u1ed1ng nhau \u0111\u01b0\u1ee3c t\u00ecm th\u1ea5y trong c\u01a1 s\u1ed1 7 v\u00e0 c\u01a1 s\u1ed1 8 c\u1ee7a bi\u1ec3u di\u1ec5n $629_{10}$? V\u00ed d\u1ee5, $121_{3}$ v\u00e0 $413_{5}$ s\u1ebd c\u00f3 m\u1ed9t ch\u1eef s\u1ed1 gi\u1ed1ng nhau.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 403,
+        "lang": "vi",
+        "gid": 311
+    },
+    {
+        "question": "Roslyn c\u00f3 m\u01b0\u1eddi h\u1ed9p. N\u0103m trong s\u1ed1 c\u00e1c h\u1ed9p ch\u1ee9a b\u00fat ch\u00ec, b\u1ed1n h\u1ed9p ch\u1ee9a b\u00fat bi, v\u00e0 hai h\u1ed9p ch\u1ee9a c\u1ea3 b\u00fat bi v\u00e0 b\u00fat ch\u00ec. C\u00f3 bao nhi\u00eau h\u1ed9p kh\u00f4ng ch\u1ee9a b\u00fat bi c\u0169ng nh\u01b0 b\u00fat ch\u00ec?",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 404,
+        "lang": "vi",
+        "gid": 312
+    },
+    {
+        "question": "N\u1ebfu kh\u00f4ng ai chia s\u1ebb v\u0103n ph\u00f2ng, c\u00f3 bao nhi\u00eau c\u00e1ch \u0111\u1ec3 ph\u00e2n c\u00f4ng 3 ng\u01b0\u1eddi v\u00e0o 5 v\u0103n ph\u00f2ng kh\u00e1c nhau? (M\u1ed7i ng\u01b0\u1eddi \u0111\u01b0\u1ee3c ph\u00e2n c\u00f4ng \u0111\u00fang m\u1ed9t v\u0103n ph\u00f2ng).",
+        "answer": "60",
+        "data_source": "MATH500",
+        "data_source_id": 405,
+        "lang": "vi",
+        "gid": 313
+    },
+    {
+        "question": "S\u1ed1 d\u01b0 c\u1ee7a 2004 khi chia cho 12 l\u00e0 bao nhi\u00eau?",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 406,
+        "lang": "vi",
+        "gid": 314
+    },
+    {
+        "question": "N\u1ebfu $f(x)=\\dfrac{2}{x+1}$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $f^{-1}\\left(\\frac{1}{5}\\right)$ l\u00e0 bao nhi\u00eau?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 407,
+        "lang": "vi",
+        "gid": 315
+    },
+    {
+        "question": "\u0110\u1eb7t $N$ l\u00e0 ch\u1eef s\u1ed1 \u0111\u01a1n v\u1ecb c\u1ee7a s\u1ed1 $21420N$. Gi\u00e1 tr\u1ecb kh\u00e1c kh\u00f4ng n\u00e0o c\u1ee7a $N$ khi\u1ebfn cho s\u1ed1 n\u00e0y chia h\u1ebft cho $6$?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 410,
+        "lang": "vi",
+        "gid": 316
+    },
+    {
+        "question": "C\u00f3 s\u00e1u ph\u00f9 th\u1ee7y v\u00e0 m\u01b0\u1eddi ph\u00e1p s\u01b0 c\u00f3 m\u1eb7t t\u1ea1i m\u1ed9t bu\u1ed5i giao l\u01b0u b\u00ed \u1ea9n. C\u00e1c ph\u00f9 th\u1ee7y \u0111\u00e3 quy\u1ebft \u0111\u1ecbnh b\u1eaft tay v\u1edbi t\u1eebng ph\u00e1p s\u01b0. Kh\u00f4ng m\u1ed9t ph\u00f9 th\u1ee7y n\u00e0o b\u1eadn t\u00e2m b\u1eaft tay l\u1eabn nhau, v\u00ec h\u1ecd \u0111\u1ec1u \u0111\u00e3 l\u00e0 b\u1ea1n th\u00e2n, v\u00e0 c\u00e1c ph\u00e1p s\u01b0 l\u1ea1i kh\u00f4ng \u01b0a g\u00ec nhau c\u1ea3 n\u00ean kh\u00f4ng b\u1eaft tay v\u1edbi nh\u1eefng ph\u00e1p s\u01b0 kh\u00e1c. C\u00f3 bao nhi\u00eau c\u00e1i b\u1eaft tay \u0111\u00e3 di\u1ec5n ra t\u1ea1i bu\u1ed5i giao l\u01b0u n\u00e0y?",
+        "answer": "60",
+        "data_source": "MATH500",
+        "data_source_id": 411,
+        "lang": "vi",
+        "gid": 317
+    },
+    {
+        "question": "Cho $P(x)$ l\u00e0 \u0111a th\u1ee9c b\u1eadc hai v\u1edbi h\u1ec7 s\u1ed1 th\u1ef1c th\u1ecfa m\u00e3n $x^2 - 2x + 2 \\le P(x) \\le 2x^2 - 4x + 3$ v\u1edbi m\u1ecdi s\u1ed1 th\u1ef1c $x$, v\u00e0 gi\u1ea3 s\u1eed $P(11) = 181$. T\u00ecm $P(16)$.",
+        "answer": "406",
+        "data_source": "MATH500",
+        "data_source_id": 412,
+        "lang": "vi",
+        "gid": 318
+    },
+    {
+        "question": "T\u1ed5ng c\u1ee7a c\u00e1c gi\u00e1 tr\u1ecb c\u1ee7a $a$ tho\u1ea3 m\u00e3n ph\u01b0\u01a1ng tr\u00ecnh $$(3)5^2-4(5-a)^2 \\div 3=63$$ l\u00e0 bao nhi\u00eau?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 414,
+        "lang": "vi",
+        "gid": 319
+    },
+    {
+        "question": "S\u1ed1 d\u01b0 khi $129^{34} + 96^{38}$ \u0111\u01b0\u1ee3c chia cho $11$ l\u00e0 bao nhi\u00eau?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 415,
+        "lang": "vi",
+        "gid": 320
+    },
+    {
+        "question": "\u0110\u1eb7t $f(x)$ l\u00e0 \u0111a th\u1ee9c \\[f(x)=3x^4+5x^2-9x-2.\\] N\u1ebfu $g(x)$ b\u1eb1ng \u0111a th\u1ee9c $f(x-1)$, t\u1ed5ng c\u00e1c h\u1ec7 s\u1ed1 c\u1ee7a $g$ l\u00e0 bao nhi\u00eau?",
+        "answer": "-2",
+        "data_source": "MATH500",
+        "data_source_id": 417,
+        "lang": "vi",
+        "gid": 321
+    },
+    {
+        "question": "N\u1ebfu $\\arccos x + \\arccos 2x + \\arccos 3x = \\pi,$ th\u00ec $x$ th\u1ecfa m\u00e3n m\u1ed9t \u0111a th\u1ee9c b\u1eadc ba c\u00f3 d\u1ea1ng \\[ax^3 + bx^2 + cx + d = 0,\\]trong \u0111\u00f3 $a,$ $b,$ $c,$ v\u00e0 $d$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean, v\u00e0 $a \\neq 0.$ T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a $|a| + |b| + |c| + |d|.$",
+        "answer": "27",
+        "data_source": "MATH500",
+        "data_source_id": 421,
+        "lang": "vi",
+        "gid": 322
+    },
+    {
+        "question": "S\u1ed1 nguy\u00ean l\u1edbn nh\u1ea5t nh\u1ecf h\u01a1n $2010$ khi chia cho $7$ c\u00f3 d\u01b0 $5,$ chia cho $11$ c\u00f3 d\u01b0 $10,$ v\u00e0 chia cho $13$ c\u00f3 d\u01b0 $10$ l\u00e0 g\u00ec?",
+        "answer": "1440",
+        "data_source": "MATH500",
+        "data_source_id": 423,
+        "lang": "vi",
+        "gid": 323
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb c\u1ee7a $y$ thay \u0111\u1ed5i ngh\u1ecbch theo $\\sqrt x$ v\u00e0 khi $x=24$, $y=15$. Gi\u00e1 tr\u1ecb c\u1ee7a $x$ l\u00e0 bao nhi\u00eau khi $y=3$?",
+        "answer": "600",
+        "data_source": "MATH500",
+        "data_source_id": 424,
+        "lang": "vi",
+        "gid": 324
+    },
+    {
+        "question": "Ba c\u00e2y b\u00fat ch\u00ec v\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y k\u00edch c\u1ee1 l\u1edbn c\u00f3 gi\u00e1 $1.24. N\u0103m c\u00e2y b\u00fat ch\u00ec v\u00e0 m\u1ed9t c\u1ee5c t\u1ea9y k\u00edch c\u1ee1 l\u1edbn c\u00f3 gi\u00e1 $1.82. C\u00e1c gi\u00e1 c\u1ea3 tr\u00ean \u0111\u00e2y kh\u00f4ng bao g\u1ed3m thu\u1ebf. T\u00ednh b\u1eb1ng cent, gi\u00e1 c\u1ee7a m\u1ed9t c\u00e2y b\u00fat ch\u00ec l\u00e0 bao nhi\u00eau?",
+        "answer": "29",
+        "data_source": "MATH500",
+        "data_source_id": 427,
+        "lang": "vi",
+        "gid": 325
+    },
+    {
+        "question": "Cho c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng $a,$ $b,$ $c,$ $d$ sao cho $a + b + c + d = 1.$ T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a \\[\\frac{1}{a} + \\frac{1}{b} + \\frac{4}{c} + \\frac{16}{d}.\\]",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 428,
+        "lang": "vi",
+        "gid": 326
+    },
+    {
+        "question": "\u0110\u1eb7t $a$ v\u00e0 $b$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng sao cho $ab^2 = 5.$ T\u00ecm gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u1ee7a $a^4 + b^8.$",
+        "answer": "50",
+        "data_source": "MATH500",
+        "data_source_id": 429,
+        "lang": "vi",
+        "gid": 327
+    },
+    {
+        "question": "N\u1ebfu \\[f(n + 1) = (-1)^{n + 1} n - 2f(n)\\]v\u1edbi $n \\ge 1,$ v\u00e0 $f(1) = f(1986),$ t\u00ednh \\[f(1) + f(2) + f(3) + \\dots + f(1985).\\]",
+        "answer": "331",
+        "data_source": "MATH500",
+        "data_source_id": 432,
+        "lang": "vi",
+        "gid": 328
+    },
+    {
+        "question": "Trong m\u1ed9t tam gi\u00e1c vu\u00f4ng c\u00e2n nh\u1ea5t \u0111\u1ecbnh, \u0111\u01b0\u1eddng cao \u0111\u1ed1i v\u1edbi c\u1ea1nh huy\u1ec1n c\u00f3 \u0111\u1ed9 d\u00e0i l\u00e0 $4\\sqrt{2}$. Di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c l\u00e0 bao nhi\u00eau?",
+        "answer": "32",
+        "data_source": "MATH500",
+        "data_source_id": 434,
+        "lang": "vi",
+        "gid": 329
+    },
+    {
+        "question": "$n$ x\u00fac x\u1eafc 6 m\u1eb7t c\u00f4ng b\u1eb1ng \u0111\u01b0\u1ee3c tung c\u00f9ng m\u1ed9t l\u00fac. X\u00e1c su\u1ea5t \u0111\u1ec3 ch\u00ednh x\u00e1c hai trong s\u1ed1 ch\u00fang cho ra m\u1ed9t s\u1ed1 kh\u00e1c 1 l\u00e0 $\\frac{25}{216}$. T\u00ecm $n$.",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 436,
+        "lang": "vi",
+        "gid": 330
+    },
+    {
+        "question": "C\u00e1c k\u00fd hi\u1ec7u $\\triangle$, $\\square$, $\\diamond$, $\\clubsuit$ bi\u1ec3u di\u1ec5n b\u1ed1n s\u1ed1 nguy\u00ean kh\u00e1c nhau t\u1eeb 1 \u0111\u1ebfn 9. S\u1eed d\u1ee5ng c\u00e1c ph\u01b0\u01a1ng tr\u00ecnh d\u01b0\u1edbi \u0111\u00e2y, gi\u00e1 tr\u1ecb c\u1ee7a $\\square$ l\u00e0 bao nhi\u00eau? \\begin{align*} \\triangle + \\square &= \\clubsuit \\\\ \\triangle + \\triangle &= \\diamond +\\diamond + \\diamond + \\diamond + \\diamond \\\\ \\triangle + \\triangle &= \\clubsuit + \\diamond. \\end{align*}",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 437,
+        "lang": "vi",
+        "gid": 331
+    },
+    {
+        "question": "S\u1ed1 ch\u1eef s\u1ed1 kh\u00e1c kh\u00f4ng cu\u1ed1i c\u00f9ng \u1edf b\u00ean ph\u1ea3i d\u1ea5u th\u1eadp ph\u00e2n trong s\u1ef1 m\u1edf r\u1ed9ng th\u1eadp ph\u00e2n c\u1ee7a $\\frac{137}{500}$ l\u00e0 g\u00ec?",
+        "answer": "4",
+        "data_source": "MATH500",
+        "data_source_id": 438,
+        "lang": "vi",
+        "gid": 332
+    },
+    {
+        "question": "\u0110\u01a1n gi\u1ea3n h\u00f3a bi\u1ec3u th\u1ee9c $(u+4)(u-1) - (u-3)(u+6)$.",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 440,
+        "lang": "vi",
+        "gid": 333
+    },
+    {
+        "question": "Karla \u0111\u00e3 l\u00e1i xe c\u1ee7a c\u00f4 \u1ea5y 12,000 d\u1eb7m trong n\u0103m ngo\u00e1i. C\u00f4 \u1ea5y s\u1ebd ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c bao nhi\u00eau gallon x\u0103ng n\u1ebfu nh\u01b0 c\u00f4 l\u00e1i m\u1ed9t chi\u1ebfc xe hybrid ti\u1ebft ki\u1ec7m nhi\u00ean li\u1ec7u v\u1edbi m\u1ee9c trung b\u00ecnh 48 d\u1eb7m m\u1ed7i gallon thay v\u00ec m\u1ed9t chi\u1ebfc SUV v\u1edbi m\u1ee9c trung b\u00ecnh 15 d\u1eb7m m\u1ed7i gallon?",
+        "answer": "550",
+        "data_source": "MATH500",
+        "data_source_id": 441,
+        "lang": "vi",
+        "gid": 334
+    },
+    {
+        "question": "H\u00e3y cho $f(x) = 2^x.$ T\u00ecm $\\sqrt{f(f(f(f(1))))}.$",
+        "answer": "256",
+        "data_source": "MATH500",
+        "data_source_id": 442,
+        "lang": "vi",
+        "gid": 335
+    },
+    {
+        "question": "Gi\u00e1 tr\u1ecb nguy\u00ean c\u1ee7a $x$ trong d\u00e3y s\u1ed1 c\u1ed9ng $3^2, x, 3^4$ l\u00e0 g\u00ec?",
+        "answer": "45",
+        "data_source": "MATH500",
+        "data_source_id": 443,
+        "lang": "vi",
+        "gid": 336
+    },
+    {
+        "question": "\u0110\u01b0\u1eddng tr\u00f2n $x^2 + y^2 = 2$ v\u00e0 parabola $y^2 = 8x$ c\u00f3 hai ti\u1ebfp tuy\u1ebfn chung, t\u1ea1o th\u00e0nh b\u1ed1n \u0111i\u1ec3m ti\u1ebfp tuy\u1ebfn. T\u00ecm di\u1ec7n t\u00edch c\u1ee7a t\u1ee9 gi\u00e1c \u0111\u01b0\u1ee3c h\u00ecnh th\u00e0nh b\u1edfi b\u1ed1n \u0111i\u1ec3m ti\u1ebfp tuy\u1ebfn.  [asy] unitsize(0.8 cm);  real upperparab (real x) {   return (sqrt(8*x)); }  real lowerparab (real x) {   return (-sqrt(8*x)); }  pair A, B, C, D;  A = (-1,1); B = (2,4); C = (-1,-1); D = (2,-4);  draw(graph(upperparab,0,3)); draw(graph(lowerparab,0,3)); draw(Circle((0,0),sqrt(2))); draw(interp(A,B,-0.2)--interp(A,B,1.2)); draw(interp(C,D,-0.2)--interp(C,D,1.2)); draw(A--C); draw(B--D);  dot(A); dot(B); dot(C); dot(D); [/asy]",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 445,
+        "lang": "vi",
+        "gid": 337
+    },
+    {
+        "question": "T\u1ed5ng c\u1ee7a $n$ s\u1ed1 h\u1ea1ng \u0111\u1ea7u ti\u00ean trong d\u00e3y h\u00ecnh h\u1ecdc v\u00f4 h\u1ea1n $\\left\\{\\frac{1}{4},\\frac{1}{8},\\frac{1}{16},\\dots \\right\\}$ l\u00e0 $\\frac{255}{512}$. T\u00ecm $n$.",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 446,
+        "lang": "vi",
+        "gid": 338
+    },
+    {
+        "question": "C\u00f3 ba m\u01b0\u01a1i l\u0103m h\u1ecdc sinh tham d\u1ef1 m\u1ed9t bu\u1ed5i h\u1ecdp c\u00e2u l\u1ea1c b\u1ed9 to\u00e1n. S\u1ed1 l\u01b0\u1ee3ng c\u00e1c b\u1ea1n n\u1eef tham d\u1ef1 l\u00e0 m\u1ed9t b\u1ed9i s\u1ed1 c\u1ee7a 13, v\u00e0 c\u00f3 nhi\u1ec1u b\u1ea1n n\u1eef h\u01a1n b\u1ea1n nam tham d\u1ef1 bu\u1ed5i h\u1ecdp. C\u00f3 bao nhi\u00eau b\u1ea1n nam tham d\u1ef1 bu\u1ed5i h\u1ecdp?",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 447,
+        "lang": "vi",
+        "gid": 339
+    },
+    {
+        "question": "T\u00ednh $17^{-1}\\pmod{83}$. Di\u1ec5n t\u1ea3 k\u1ebft qu\u1ea3 c\u1ee7a b\u1ea1n d\u01b0\u1edbi d\u1ea1ng d\u01b0 t\u1eeb $0$ \u0111\u1ebfn $82$, bao g\u1ed3m.  (B\u1ea1n c\u00f3 th\u1ec3 th\u1ea5y r\u1eb1ng vi\u1ec7c xem x\u00e9t s\u1ef1 th\u1eadt l\u00e0 $17\\cdot 5=85$ c\u00f3 th\u1ec3 h\u1eefu \u00edch.)",
+        "answer": "44",
+        "data_source": "MATH500",
+        "data_source_id": 448,
+        "lang": "vi",
+        "gid": 340
+    },
+    {
+        "question": "N\u1ebfu $a\\star b = 9a+2b-ab+5$, th\u00ec gi\u00e1 tr\u1ecb c\u1ee7a $5\\star1$ l\u00e0 g\u00ec?",
+        "answer": "47",
+        "data_source": "MATH500",
+        "data_source_id": 449,
+        "lang": "vi",
+        "gid": 341
+    },
+    {
+        "question": "Trung b\u00ecnh c\u1ed9ng c\u1ee7a hai nghi\u1ec7m nguy\u00ean d\u01b0\u01a1ng nh\u1ecf nh\u1ea5t c\u1ee7a ph\u01b0\u01a1ng tr\u00ecnh \u0111\u1ed3ng d\u01b0 $$14u \\equiv 46 \\pmod{100}~?$$ l\u00e0 bao nhi\u00eau?",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 450,
+        "lang": "vi",
+        "gid": 342
+    },
+    {
+        "question": "T\u1ed5ng c\u00e1c ch\u1eef s\u1ed1 c\u1ee7a m\u1ed9t s\u1ed1 c\u00f3 hai ch\u1eef s\u1ed1 l\u00e0 $13.$ Hi\u1ec7u gi\u1eefa s\u1ed1 \u0111\u00f3 v\u00e0 s\u1ed1 \u0111\u01b0\u1ee3c t\u1ea1o ra khi \u0111\u1ea3o ng\u01b0\u1ee3c c\u00e1c ch\u1eef s\u1ed1 l\u00e0 $27.$ T\u00ednh t\u1ed5ng c\u1ee7a s\u1ed1 ban \u0111\u1ea7u v\u00e0 s\u1ed1 c\u00f3 c\u00e1c ch\u1eef s\u1ed1 \u0111\u01b0\u1ee3c \u0111\u1ea3o ng\u01b0\u1ee3c?",
+        "answer": "143",
+        "data_source": "MATH500",
+        "data_source_id": 452,
+        "lang": "vi",
+        "gid": 343
+    },
+    {
+        "question": "L\u1edbp 7 v\u00e0 l\u1edbp 8 c\u00f3 s\u1ed1 l\u01b0\u1ee3ng h\u1ecdc sinh l\u1ea7n l\u01b0\u1ee3t l\u00e0 520 v\u00e0 650. C\u1ea3 hai l\u1edbp c\u00f3 t\u1ed5ng c\u1ed9ng 18 \u0111\u1ea1i di\u1ec7n tham gia H\u1ed9i \u0111\u1ed3ng H\u1ecdc sinh. L\u1edbp 8 c\u1ea7n ph\u1ea3i c\u00f3 bao nhi\u00eau \u0111\u1ea1i di\u1ec7n n\u1ebfu mu\u1ed1n \u0111\u1ea3m b\u1ea3o s\u1ef1 \u0111\u1ea1i di\u1ec7n c\u00f4ng b\u1eb1ng cho c\u1ea3 hai l\u1edbp?",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 453,
+        "lang": "vi",
+        "gid": 344
+    },
+    {
+        "question": "C\u00f3 bao nhi\u00eau c\u00e1ch \u0111\u1ec3 ch\u1ecdn 5 h\u1ecdc sinh t\u1eeb m\u1ed9t nh\u00f3m g\u1ed3m 6 h\u1ecdc sinh?",
+        "answer": "6",
+        "data_source": "MATH500",
+        "data_source_id": 455,
+        "lang": "vi",
+        "gid": 345
+    },
+    {
+        "question": "X\u00e1c \u0111\u1ecbnh s\u1ed1 d\u01b0 c\u1ee7a 54 (mod 6).",
+        "answer": "0",
+        "data_source": "MATH500",
+        "data_source_id": 457,
+        "lang": "vi",
+        "gid": 346
+    },
+    {
+        "question": "\u6b63\u786e\u7ffb\u8bd1\uff08M\u1ed7i tu\u1ea7n, c\u00f3 t\u1eeb 30 \u0111\u1ebfn 50 h\u1ecdc vi\u00ean tham gia l\u1edbp b\u1eafn cung do Betty v\u00e0 Wilma t\u1ed5 ch\u1ee9c. Th\u00f4ng th\u01b0\u1eddng, c\u00e1c h\u1ecdc vi\u00ean \u0111\u01b0\u1ee3c chia th\u00e0nh c\u00e1c nh\u00f3m c\u00f3 k\u00edch th\u01b0\u1edbc b\u1eb1ng nhau \u0111\u1ec3 luy\u1ec7n t\u1eadp b\u1eafn v\u00e0o bia. Tuy nhi\u00ean, tu\u1ea7n n\u00e0y, Betty nh\u1eadn th\u1ea5y r\u1eb1ng c\u00f4 kh\u00f4ng th\u1ec3 chia h\u1ecdc vi\u00ean th\u00e0nh nhi\u1ec1u nh\u00f3m c\u00f3 k\u00edch th\u01b0\u1edbc b\u1eb1ng nhau. Wilma c\u0169ng nh\u1eadn th\u1ea5y r\u1eb1ng n\u1ebfu c\u00f4 v\u00e0 Betty tham gia luy\u1ec7n t\u1eadp c\u00f9ng c\u00e1c h\u1ecdc vi\u00ean, h\u1ecd v\u1eabn kh\u00f4ng th\u1ec3 chia c\u00e1c cung th\u1ee7 th\u00e0nh c\u00e1c nh\u00f3m c\u00f3 nh\u00f3m c\u00f3 s\u1ed1 l\u01b0\u1ee3ng b\u1eb1ng nhau. V\u1eady c\u00f3 bao nhi\u00eau h\u1ecdc vi\u00ean tham gia l\u1edbp b\u1eafn cung tu\u1ea7n n\u00e0y?\uff09\uff1a",
+        "answer": "41",
+        "data_source": "MATH500",
+        "data_source_id": 458,
+        "lang": "vi",
+        "gid": 347
+    },
+    {
+        "question": "\u0110\u1eb7t \\[f(n) = \\left\\{ \\begin{array}{cl} \\lfloor n \\rfloor & \\text{ n\u1ebfu }n \\geq 4, \\\\ \\lceil n \\rceil & \\text{ n\u1ebfu } n < 4. \\end{array} \\right.\\]T\u00ecm $f\\left(\\frac{\\pi}{3}\\right) + f(\\sqrt{45}) + f(8^{2/3})$.",
+        "answer": "12",
+        "data_source": "MATH500",
+        "data_source_id": 461,
+        "lang": "vi",
+        "gid": 348
+    },
+    {
+        "question": "Linda, Sherry, June v\u00e0 Connie \u0111\u00e3 \u0111i kh\u1eafp khu ph\u1ed1 c\u1ee7a m\u00ecnh \u0111\u1ec3 b\u00e1n b\u00e1nh c\u1ee7a h\u01b0\u1edbng \u0111\u1ea1o sinh n\u1eef. Linda ki\u1ebfm \u0111\u01b0\u1ee3c $27.47, Sherry ki\u1ebfm \u0111\u01b0\u1ee3c $35.23, June ki\u1ebfm \u0111\u01b0\u1ee3c $37.37, v\u00e0 Connie ki\u1ebfm \u0111\u01b0\u1ee3c $26.52. Sau cu\u1ed9c b\u00e1n h\u00e0ng, h\u1ecd thu gom ti\u1ec1n l\u1ea1i v\u00e0 \u0111\u1ebfn ng\u00e2n h\u00e0ng \u0111\u1ec3 chuy\u1ec3n \u0111\u1ed5i c\u00e1c \u0111\u1ed3ng xu th\u00e0nh \u0111\u00f4 la. H\u1ecfi sau khi h\u1ecd \u0111\u00e3 chuy\u1ec3n \u0111\u1ed5i c\u00e0ng nhi\u1ec1u \u0111\u1ed3ng xu th\u00e0nh t\u1edd ti\u1ec1n m\u1eb7t nh\u1ea5t c\u00f3 th\u1ec3, th\u00ec c\u00f3 bao nhi\u00eau ti\u1ec1n, trong \u0111\u01a1n v\u1ecb cent, c\u00f2n l\u1ea1i?",
+        "answer": "59",
+        "data_source": "MATH500",
+        "data_source_id": 462,
+        "lang": "vi",
+        "gid": 349
+    },
+    {
+        "question": "Cho bao nhi\u00eau gi\u00e1 tr\u1ecb c\u1ee7a $x$ l\u00e0m cho bi\u1ec3u th\u1ee9c $\\frac{x-5}{x^2-9}$ kh\u00f4ng x\u00e1c \u0111\u1ecbnh?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 463,
+        "lang": "vi",
+        "gid": 350
+    },
+    {
+        "question": "N\u1ebfu $\\log_6 (x-y) + \\log_6 (x+y) = 2$ v\u00e0 $\\log_y 5x = 2$, th\u00ec t\u00ecm $x$.",
+        "answer": "9",
+        "data_source": "MATH500",
+        "data_source_id": 464,
+        "lang": "vi",
+        "gid": 351
+    },
+    {
+        "question": "Khi li\u1ec7t k\u00ea nh\u1eefng s\u1ed1 nguy\u00ean d\u01b0\u01a1ng c\u00f3 \u0111\u00fang ba \u01b0\u1edbc s\u1ed1 d\u01b0\u01a1ng theo th\u1ee9 t\u1ef1 t\u0103ng d\u1ea7n, s\u1ed1 th\u1ee9 n\u0103m \u0111\u01b0\u1ee3c li\u1ec7t k\u00ea l\u00e0 s\u1ed1 n\u00e0o?",
+        "answer": "121",
+        "data_source": "MATH500",
+        "data_source_id": 465,
+        "lang": "vi",
+        "gid": 352
+    },
+    {
+        "question": "C\u0103n b\u1eadc hai c\u1ee7a $t$ l\u1edbn h\u01a1n $2$ v\u00e0 nh\u1ecf h\u01a1n $3.5$. C\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb nguy\u00ean c\u1ee7a $t$ th\u1ecfa m\u00e3n \u0111i\u1ec1u ki\u1ec7n n\u00e0y?",
+        "answer": "8",
+        "data_source": "MATH500",
+        "data_source_id": 468,
+        "lang": "vi",
+        "gid": 353
+    },
+    {
+        "question": "\u0110\u00e1nh gi\u00e1 $\\lceil{\\sqrt{20}}\\rceil^2$.",
+        "answer": "25",
+        "data_source": "MATH500",
+        "data_source_id": 469,
+        "lang": "vi",
+        "gid": 354
+    },
+    {
+        "question": "H\u00e3y cho $a,$ $b,$ $c,$ v\u00e0 $d$ l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c d\u01b0\u01a1ng sao cho $a + b + c + d = 10.$ T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u1ee7a $ab^2c^3d^4.$",
+        "answer": "27648",
+        "data_source": "MATH500",
+        "data_source_id": 470,
+        "lang": "vi",
+        "gid": 355
+    },
+    {
+        "question": "M\u1ed9t l\u1edbp h\u1ecdc g\u1ed3m 30 h\u1ecdc sinh v\u1eeba m\u1edbi l\u00e0m m\u1ed9t b\u00e0i ki\u1ec3m tra. N\u1ebfu 20 h\u1ecdc sinh \u0111\u1ea1t \u0111i\u1ec3m 80, 8 h\u1ecdc sinh \u0111\u1ea1t \u0111i\u1ec3m 90, v\u00e0 2 h\u1ecdc sinh \u0111\u1ea1t \u0111i\u1ec3m 100, v\u1eady th\u00ec trung b\u00ecnh (gi\u00e1 tr\u1ecb trung b\u00ecnh) \u0111i\u1ec3m s\u1ed1 c\u1ee7a c\u1ea3 l\u1edbp trong b\u00e0i ki\u1ec3m tra n\u00e0y l\u00e0 bao nhi\u00eau?",
+        "answer": "84",
+        "data_source": "MATH500",
+        "data_source_id": 471,
+        "lang": "vi",
+        "gid": 356
+    },
+    {
+        "question": "D\u01b0\u1edbi \u0111\u00e2y l\u00e0 m\u1ed9t h\u00ecnh vu\u00f4ng k\u00ec di\u1ec7u, c\u00f3 ngh\u0129a l\u00e0 t\u1ed5ng c\u00e1c s\u1ed1 \u1edf m\u1ed7i h\u00e0ng, \u1edf m\u1ed7i c\u1ed9t, v\u00e0 \u1edf m\u1ed7i \u0111\u01b0\u1eddng ch\u00e9o ch\u00ednh (c\u00f3 2 \u0111\u01b0\u1eddng ch\u00e9o ch\u00ednh) \u0111\u1ec1u b\u1eb1ng nhau. Gi\u00e1 tr\u1ecb c\u1ee7a $n$ l\u00e0 bao nhi\u00eau?",
+        "answer": "7",
+        "data_source": "MATH500",
+        "data_source_id": 473,
+        "lang": "vi",
+        "gid": 357
+    },
+    {
+        "question": "T\u00ecm gi\u00e1 tr\u1ecb c\u1ee7a $\\log_2{3} \\cdot \\log_3{4} \\cdot \\log_4{5} \\cdot \\log_5{6} \\cdot \\log_6{7} \\cdot \\log_7{8}$.",
+        "answer": "3",
+        "data_source": "MATH500",
+        "data_source_id": 474,
+        "lang": "vi",
+        "gid": 358
+    },
+    {
+        "question": "Khi l\u0103n m\u1ed9t con x\u00fac x\u1eafc kh\u00f4ng c\u00e2n \u0111\u1ed1i s\u00e1u m\u1eb7t, v\u1edbi c\u00e1c m\u1eb7t \u0111\u01b0\u1ee3c \u0111\u00e1nh s\u1ed1 t\u1eeb 1, 2, 3, 4, 5 \u0111\u1ebfn 6, x\u00e1c su\u1ea5t \u0111\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c m\u1eb7t $F$ l\u1edbn h\u01a1n $1/6$, x\u00e1c su\u1ea5t \u0111\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c m\u1eb7t \u0111\u1ed1i di\u1ec7n v\u1edbi m\u1eb7t $F$ nh\u1ecf h\u01a1n $1/6$, x\u00e1c su\u1ea5t \u0111\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c m\u1ed7i m\u1eb7t kh\u00e1c l\u00e0 $1/6$, v\u00e0 t\u1ed5ng c\u1ee7a c\u00e1c s\u1ed1 tr\u00ean m\u1ed7i c\u1eb7p m\u1eb7t \u0111\u1ed1i di\u1ec7n l\u00e0 7. Khi l\u0103n hai con x\u00fac x\u1eafc nh\u01b0 v\u1eady, x\u00e1c su\u1ea5t \u0111\u1ec3 c\u00f3 t\u1ed5ng \u0111i\u1ec3m l\u00e0 7 l\u00e0 $ \\frac{47}{288} $. Cho r\u1eb1ng x\u00e1c su\u1ea5t \u0111\u1ec3 c\u00f3 m\u1eb7t $F$ l\u00e0 $m/n$, trong \u0111\u00f3 $m$ v\u00e0 $n$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nguy\u00ean t\u1ed1 c\u00f9ng nhau, t\u00ecm $m+n$.",
+        "answer": "29",
+        "data_source": "MATH500",
+        "data_source_id": 475,
+        "lang": "vi",
+        "gid": 359
+    },
+    {
+        "question": "Jim v\u00e0 Martha \u0111ang \u0111\u1ee9ng c\u00f9ng nhau t\u1ea1i g\u00f3c c\u1ee7a m\u1ed9t c\u00e1nh \u0111\u1ed3ng h\u00ecnh ch\u1eef nh\u1eadt. Jim \u0111i ch\u00e9o qua c\u00e1nh \u0111\u1ed3ng. Martha \u0111\u1ebfn c\u00f9ng m\u1ed9t v\u1ecb tr\u00ed b\u1eb1ng c\u00e1ch \u0111i d\u1ecdc theo chi\u1ec1u r\u1ed9ng v\u00e0 chi\u1ec1u d\u00e0i c\u1ee7a n\u00f3. C\u00e1nh \u0111\u1ed3ng c\u00f3 chi\u1ec1u r\u1ed9ng 300 feet v\u00e0 d\u00e0i 400 feet. Jim \u0111i \u00edt h\u01a1n bao nhi\u00eau feet so v\u1edbi Martha?",
+        "answer": "200",
+        "data_source": "MATH500",
+        "data_source_id": 476,
+        "lang": "vi",
+        "gid": 360
+    },
+    {
+        "question": "S\u1ed1 hai ch\u1eef s\u1ed1 $\"B6\"$ trong \u0111\u00f3 $B$ l\u00e0 ch\u1eef s\u1ed1 h\u00e0ng ch\u1ee5c l\u00e0 b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng. C\u00f3 bao nhi\u00eau gi\u00e1 tr\u1ecb kh\u00e1c nhau c\u00f3 th\u1ec3 c\u00f3 cho $B$?",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 477,
+        "lang": "vi",
+        "gid": 361
+    },
+    {
+        "question": "C\u00f3 h\u1eefu h\u1ea1n c\u00e1c s\u1ed1 nguy\u00ean t\u1ed1 $p$ sao cho \u0111\u1ed3ng d\u01b0 $$8x\\equiv 1\\pmod{p}$$ kh\u00f4ng c\u00f3 nghi\u1ec7m $x$ n\u00e0o. X\u00e1c \u0111\u1ecbnh t\u1ed5ng c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 $p$ nh\u01b0 v\u1eady.",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 479,
+        "lang": "vi",
+        "gid": 362
+    },
+    {
+        "question": "Cho $\\omega$ l\u00e0 m\u1ed9t s\u1ed1 ph\u1ee9c sao cho $\\omega^3 = 1.$ T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3 c\u1ee7a \\[\\frac{1}{1 + \\omega} + \\frac{1}{1 + \\omega^2}.\\]Nh\u1eadp t\u1ea5t c\u1ea3 c\u00e1c gi\u00e1 tr\u1ecb c\u00f3 th\u1ec3, c\u00e1ch nhau b\u1eb1ng d\u1ea5u ph\u1ea9y.",
+        "answer": "1",
+        "data_source": "MATH500",
+        "data_source_id": 480,
+        "lang": "vi",
+        "gid": 363
+    },
+    {
+        "question": "N\u1ebfu $\\frac{a}{b}$ l\u00e0 x\u00e1c su\u1ea5t \u0111\u1ec3 ngh\u1ecbch \u0111\u1ea3o c\u1ee7a m\u1ed9t s\u1ed1 nguy\u00ean d\u01b0\u01a1ng l\u1ebb \u0111\u01b0\u1ee3c ch\u1ecdn ng\u1eabu nhi\u00ean nh\u1ecf h\u01a1n 2010 cho m\u1ed9t s\u1ed1 th\u1eadp ph\u00e2n h\u1eefu h\u1ea1n, v\u1edbi $a$ v\u00e0 $b$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng nguy\u00ean t\u1ed1 c\u00f9ng nhau, th\u00ec $a+b$ l\u00e0 bao nhi\u00eau?",
+        "answer": "202",
+        "data_source": "MATH500",
+        "data_source_id": 482,
+        "lang": "vi",
+        "gid": 364
+    },
+    {
+        "question": "Gi\u1ea3i \\[\\sqrt{x + \\sqrt{3x + 6}} + \\sqrt{x - \\sqrt{3x + 6}} = 6.\\]",
+        "answer": "10",
+        "data_source": "MATH500",
+        "data_source_id": 484,
+        "lang": "vi",
+        "gid": 365
+    },
+    {
+        "question": "\u0110\u00e2u l\u00e0 kho\u1ea3ng c\u00e1ch ng\u1eafn nh\u1ea5t c\u00f3 th\u1ec3 di chuy\u1ec3n n\u1ebfu b\u1ea1n b\u1eaft \u0111\u1ea7u t\u1eeb b\u1ea5t k\u1ef3 \u0111i\u1ec3m n\u00e0o, $A$, $B$, $C$, ho\u1eb7c $D$, v\u00e0 gh\u00e9 th\u0103m ba \u0111i\u1ec3m c\u00f2n l\u1ea1i m\u1ed9t l\u1ea7n?  [asy] pair A,B,C, D; A = (-3,3); B = (3,0); C = (0, -4); D = (0,0); draw(D--B--C--cycle); draw(D--A--B--cycle);draw(D--A--C--cycle); label(\"$A$\", A, NW);label(\"$B$\", B, E); label(\"$C$\", C, S);label(\"$D$\", D, NE); label(\"3\", D--B, S); label(\"6\", A--B, NE); label(\"6\", A--C, SW); label(\"4\", D--C, NW+N); label(\"5\", A--D, SE+NE); label(\"5\", C--B, E); [/asy]",
+        "answer": "13",
+        "data_source": "MATH500",
+        "data_source_id": 485,
+        "lang": "vi",
+        "gid": 366
+    },
+    {
+        "question": "M\u1ed9t qu\u1ea3 c\u1ea7u th\u00e9p c\u00f3 b\u00e1n k\u00ednh 3 inch \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch lo\u1ea1i b\u1ecf kim lo\u1ea1i \u1edf c\u00e1c g\u00f3c c\u1ee7a m\u1ed9t h\u00ecnh l\u1eadp ph\u01b0\u01a1ng c\u00f3 \u0111\u1ed9 d\u00e0i c\u1ea1nh ng\u1eafn nh\u1ea5t c\u00f3 th\u1ec3. H\u1ecfi th\u1ec3 t\u00edch c\u1ee7a h\u00ecnh l\u1eadp ph\u01b0\u01a1ng l\u00e0 bao nhi\u00eau inch kh\u1ed1i?",
+        "answer": "216",
+        "data_source": "MATH500",
+        "data_source_id": 486,
+        "lang": "vi",
+        "gid": 367
+    },
+    {
+        "question": "T\u00ednh ph\u1ea7n d\u01b0 khi chia s\u1ed1 sau cho 4:  $$ 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 + 11 + 12. $$",
+        "answer": "2",
+        "data_source": "MATH500",
+        "data_source_id": 487,
+        "lang": "vi",
+        "gid": 368
+    },
+    {
+        "question": "Cho $f(x)=|x-p|+|x-15|+|x-p-15|,$ v\u1edbi $0 < p < 15.$ X\u00e1c \u0111\u1ecbnh gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t m\u00e0 $f(x)$ \u0111\u1ea1t \u0111\u01b0\u1ee3c khi $x$ n\u1eb1m trong kho\u1ea3ng $p \\leq x\\leq15.$",
+        "answer": "15",
+        "data_source": "MATH500",
+        "data_source_id": 489,
+        "lang": "vi",
+        "gid": 369
+    },
+    {
+        "question": "Gi\u1ea3 s\u1eed \u0111a th\u1ee9c $$f(x) = a_nx^n + a_{n-1}x^{n-1} + \\ldots + a_2x^2 + a_1x + a_0$$ c\u00f3 h\u1ec7 s\u1ed1 l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean, v\u00e0 c\u00e1c nghi\u1ec7m c\u1ee7a n\u00f3 l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean ph\u00e2n bi\u1ec7t.  Bi\u1ebft r\u1eb1ng $a_n=2$ v\u00e0 $a_0=66$, gi\u00e1 tr\u1ecb nh\u1ecf nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a $|a_{n-1}|$ l\u00e0 bao nhi\u00eau?",
+        "answer": "14",
+        "data_source": "MATH500",
+        "data_source_id": 490,
+        "lang": "vi",
+        "gid": 370
+    },
+    {
+        "question": "Tom nh\u1eadn \u0111\u01b0\u1ee3c m\u1ed9t Mr. Potato Head trong ng\u00e0y sinh nh\u1eadt c\u1ee7a m\u00ecnh. N\u00f3 k\u00e8m theo 3 ki\u1ec3u t\u00f3c, 2 b\u1ed9 l\u00f4ng m\u00e0y, 1 \u0111\u00f4i m\u1eaft googly, 2 b\u1ed9 tai, 2 b\u1ed9 m\u00f4i, 1 \u0111\u00f4i gi\u00e0y th\u00f4ng th\u01b0\u1eddng v\u00e0 1 \u0111\u00f4i gi\u00e0y h\u1ec1 b\u1ed5 sung. N\u1ebfu m\u1ed9t t\u00ednh c\u00e1ch ho\u00e0n ch\u1ec9nh c\u1ee7a Mr. Potato Head bao g\u1ed3m l\u00f4ng m\u00e0y, m\u1eaft, tai, m\u00f4i, gi\u00e0y v\u00e0 t\u00f9y ch\u1ecdn ki\u1ec3u t\u00f3c, th\u00ec Tom c\u00f3 th\u1ec3 t\u1ea1o ra bao nhi\u00eau t\u00ednh c\u00e1ch k\u00ec d\u1ecb kh\u00e1c nhau? L\u01b0u \u00fd r\u1eb1ng Mr. Potato Head c\u00f3 th\u1ec3 h\u00f3i.  Ch\u00fa \u00fd: B\u1ea1n kh\u00f4ng th\u1ec3 \"k\u1ebft h\u1ee3p kh\u00f4ng \u0111\u1ed3ng nh\u1ea5t\". V\u00ed d\u1ee5, b\u1ea1n kh\u00f4ng th\u1ec3 l\u1ea5y l\u00f4ng m\u00e0y tr\u00e1i t\u1eeb m\u1ed9t c\u1eb7p v\u00e0 l\u00f4ng m\u00e0y ph\u1ea3i t\u1eeb c\u1eb7p kh\u00e1c.",
+        "answer": "64",
+        "data_source": "MATH500",
+        "data_source_id": 491,
+        "lang": "vi",
+        "gid": 371
+    },
+    {
+        "question": "S\u1ed1 $(\\sqrt{2}+\\sqrt{3})^3$ c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng $a\\sqrt{2} + b\\sqrt{3} + c\\sqrt{6}$, trong \u0111\u00f3 $a$, $b$, v\u00e0 $c$ l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean. T\u00ednh $a+b+c$?",
+        "answer": "20",
+        "data_source": "MATH500",
+        "data_source_id": 493,
+        "lang": "vi",
+        "gid": 372
+    },
+    {
+        "question": "M\u1ed9t d\u00e3y s\u1ed1 $(a_n)$ \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a nh\u01b0 sau: \\[a_{i + 1} = \\frac{1}{1 - a_i}\\]v\u1edbi $i \\ge 1.$  N\u1ebfu $a_3 = a_1,$ t\u00ednh $(a_9)^9.$",
+        "answer": "-1",
+        "data_source": "MATH500",
+        "data_source_id": 498,
+        "lang": "vi",
+        "gid": 373
+    }
+]

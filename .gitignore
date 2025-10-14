@@ -1,0 +1,16 @@
+**/__pycache__/
+
+LLaMA-Factory/
+verl/
+XueZhang-bjtu/
+logs-eval/
+
+
+data/
+
+*.egg-info/
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
