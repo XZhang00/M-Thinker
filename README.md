@@ -1,6 +1,6 @@
 # M-Thinker
 
-#### **Paper:** [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/pdf/2510.07300)
+### **Paper:** [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/pdf/2510.07300)
 
 
 | Model Access | Backbone | Training data Access | 
@@ -19,7 +19,7 @@ Large Reasoning Models (LRMs) have achieved remarkable performance on complex re
 
 <p align="center">
     <br>
-    <img src="p1.png" width="400"/>
+    <img src="p1.png" width="500"/>
     <br>
 </p>
 
