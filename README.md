@@ -2,7 +2,6 @@
 
 ### **Paper:** [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/pdf/2510.07300)
 
-
 | Model Access | Backbone | Training data Access | 
 | :-- | :-- | :-- |
 <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter2">M-Thinker-7B-Iter2</a> (👍👍) &emsp;  |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-7B-Iter1">M-Thinker-7B-Iter1</a> |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-7B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-7B-RL-Iter2-data) 
@@ -11,6 +10,16 @@
 <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter2">M-Thinker-1.5B-Iter2</a> (👍👍) |  <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a> |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-1.5B-RL-Iter2-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter2-data) 
 <img src="image.png" alt="huggingface" width="16"> <a href="https://huggingface.co/XueZhang-bjtu/M-Thinker-1.5B-Iter1">M-Thinker-1.5B-Iter1</a> (👍) |  <img src="image.png" alt="huggingface" width="16">  [1.5B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/1.5B-cold-start-SFT) |  <img src="image.png" alt="huggingface" width="16">  [M-Thinker-1.5B-RL-Iter1-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-1.5B-RL-Iter1-data) 
 <img src="image.png" alt="huggingface" width="16">  [1.5B-cold-start-SFT](https://huggingface.co/XueZhang-bjtu/1.5B-cold-start-SFT) | <img src="image.png" alt="huggingface" width="16"> [DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | <img src="image.png" alt="huggingface" width="16"> [M-Thinker-SFT-data](https://huggingface.co/datasets/XueZhang-bjtu/M-Thinker-SFT-data)
+
+➡️ You can download the evaluation results ([M-Thinker-evaluation-results.tar.gz](https://drive.google.com/file/d/1GYXSoFwWXVUhoZJXQkgqN3eZz8hHm2E_/view?usp=drive_link)) of our models and backbones to **reproduce** the results of our paper (MMATH and PolyMath). If you need more results about baselines or ablations, please create an issue or email me (23111135@bjtu.edu.cn).
+
+---
+
+### Updates:
+
+- **2025.10.16**: We released the [evaluation results](https://drive.google.com/file/d/1GYXSoFwWXVUhoZJXQkgqN3eZz8hHm2E_/view?usp=drive_link) of our models and backbones.
+- **2025.10.14**: We released the code, [data](https://huggingface.co/collections/XueZhang-bjtu/m-thinker-data-68ee005490c959d32c70de74), and [models](https://huggingface.co/collections/XueZhang-bjtu/m-thinker-68edff19c1d6ae5ca3287a67) of our paper.
+- **2025.10.08**: We released our [paper](https://arxiv.org/pdf/2510.07300).
 
 
 ---
@@ -159,6 +168,10 @@ We released our M-Thinker-1.5B/7B-Iter2 on <img src="image.png" alt="huggingface
 ### Questions
 
 If you have any questions, please create an issue or email me (23111135@bjtu.edu.cn).
+
+### Acknowledgement
+
+We gratefully acknowledge [MMATH](https://github.com/RUCAIBox/MMATH) and [PolyMath](https://github.com/qwenlm/polymath) for their significant contributions to evaluating the multilingual reasoning capabilities of models.
 
 ### Citation
 If you find this work useful, please consider citing our paper:
