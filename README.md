@@ -32,23 +32,6 @@ Large Reasoning Models (LRMs) have achieved remarkable performance on complex re
     <br>
 </p>
 
-<p align="center">
-    <br>
-    <img src="res1.png" width="700"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="res2.png" width="700"/>
-    <br>
-</p>
-
-<p align="center">
-    <br>
-    <img src="res3.png" width="700"/>
-    <br>
-</p>
 
 ---
 
