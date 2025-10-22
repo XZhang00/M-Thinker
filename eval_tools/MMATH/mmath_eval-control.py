@@ -72,17 +72,18 @@ DIT_INSTRUCTIONS = {
     'ar': " حسنًا "
 }
 
+
 QRT_INSTRUCTIONS = {
-    'en': "OK, so the problem is {question}. Let me think in English. First",
-    'es': "Bien, el problema es {question}. Déjame pensar en español. Primero",
+    'en': "OK, so the problem is {question} Let me think in English. First",
+    'es': "Bien, el problema es {question} Déjame pensar en español. Primero",
     'fr': "D\'accord, donc le problème est {question}. Laissez-moi réfléchir en français. D\'abord",
-    'zh': "好的，问题是{question}。让我用中文思考一下。首先",
+    'zh': "好的，问题是{question} 让我用中文思考一下。首先",
     'ja': "わかりました。問題は{question}です。日本語で考えさせてください。まず",
     'th': "ตกลง ดงันนัÊ ปัญหาคือ{question} ใหฉ้นั คิดเป็นภาษาไทยก่อนอÉืน",
-    'ko': "좋습니다. 문제는 {question}입니다. 한국어로 생각해 보겠습니다. 먼저",
-    'pt': "Ok, então o problema é {question}. Deixe-me pensar em português. Primeiro",
-    'vi': "Được rồi, vấn đề là {question}. Hãy để tôi nghĩ bằng tiếng Việt. Đầu tiên",
-    'ar': " دعني أفكر باللغة العربیة. أولاً‘, . {question}حسنًا، المشكلة ھي"
+    'ko': "좋습니다. 문제는 {question}입니다 한국어로 생각해 보겠습니다. 먼저",
+    'pt': "Ok, então o problema é {question} Deixe-me pensar em português. Primeiro",
+    'vi': "Được rồi, vấn đề là {question} Hãy để tôi nghĩ bằng tiếng Việt. Đầu tiên",
+    'ar': " دعني أفكر باللغة العربیة. أولاً‘,  {question}حسنًا، المشكلة ھي"
 }
 
 def save_results(mmath, lang):
@@ -104,21 +105,23 @@ for lang in LANGUAGE:
         formatted_prompt = LANG_TO_INSTRUCTIONS[lang].format(question=question)
 
         if control_type == "PROMPT":
-            final_prompt = formatted_prompt + "\n" + Prompt_Control_INSTRUCTIONS[lang]
-        elif control_type == "DIT":
-            final_prompt = formatted_prompt + "\n" + DIT_INSTRUCTIONS[lang]
-        elif control_type == "QRT":
-            final_prompt = formatted_prompt + "\n" + QRT_INSTRUCTIONS[lang].format(question=question)
+            formatted_prompt = formatted_prompt + "\n" + Prompt_Control_INSTRUCTIONS[lang]
 
         chat_template_prompt = tokenizer.apply_chat_template(
-            [{"role": "user", "content": final_prompt}], 
+            [{"role": "user", "content": formatted_prompt}], 
             tokenize=False, add_generation_prompt=True, enable_thinking=True
         )
+
+        if control_type == "DIT":
+            chat_template_prompt = chat_template_prompt + DIT_INSTRUCTIONS[lang]
+        elif control_type == "QRT":
+            chat_template_prompt = chat_template_prompt + QRT_INSTRUCTIONS[lang].format(question=question)
         
         mmath[lang][i]['final_prompt'] = chat_template_prompt
         all_prompts.append(chat_template_prompt)
         prompt_lang_idx.append((lang, i))
 
+print(all_prompts[:5])
 # Step 2: Run vLLM once for all prompts
 outputs = llm.generate(all_prompts, sampling_params)
 
