@@ -76,7 +76,7 @@ DIT_INSTRUCTIONS = {
 QRT_INSTRUCTIONS = {
     'en': "OK, so the problem is {question} Let me think in English. First",
     'es': "Bien, el problema es {question} Déjame pensar en español. Primero",
-    'fr': "D\'accord, donc le problème est {question}. Laissez-moi réfléchir en français. D\'abord",
+    'fr': "D\'accord, donc le problème est {question} Laissez-moi réfléchir en français. D\'abord",
     'zh': "好的，问题是{question} 让我用中文思考一下。首先",
     'ja': "わかりました。問題は{question}です。日本語で考えさせてください。まず",
     'th': "ตกลง ดงันนัÊ ปัญหาคือ{question} ใหฉ้นั คิดเป็นภาษาไทยก่อนอÉืน",
