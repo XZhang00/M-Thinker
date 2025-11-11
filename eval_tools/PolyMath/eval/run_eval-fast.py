@@ -94,8 +94,9 @@ def evaluation(args):
             extracted_pred = extracted_pred[0] if len(extracted_pred) > 0 else None
             # acc_binary = math_equal(extracted_pred, answer)
             if extracted_pred is not None:
+                gold = parse('$' + answer + '$')
                 pred = parse('$' + extracted_pred + '$')
-                acc_binary = verify(answer, pred)
+                acc_binary = verify(gold, pred)
             else:
                 acc_binary = False
         except:
